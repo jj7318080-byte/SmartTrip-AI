@@ -1,2 +1,1 @@
-# SmartTrip_AI
-
+# SmartTrip AI
