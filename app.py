@@ -22,15 +22,26 @@ BASE_DIR = Path(__file__).resolve().parent
 INSTANCE_DIR = BASE_DIR / "instance"
 INSTANCE_DIR.mkdir(parents=True, exist_ok=True)
 
+
 app = Flask(__name__)
 
-app.config["SECRET_KEY"] = "smarttrip-local-demo-secret"
-app.config["SQLALCHEMY_DATABASE_URI"] = (
-    "sqlite:///" + str(INSTANCE_DIR / "smarttrip.db")
+app.config["SECRET_KEY"] = os.environ.get(
+    "SECRET_KEY", "smarttrip-local-demo-secret"
 )
+
+DATABASE_PATH = os.environ.get("DATABASE_PATH")
+
+if DATABASE_PATH:
+    app.config["SQLALCHEMY_DATABASE_URI"] = "sqlite:///" + DATABASE_PATH
+else:
+    app.config["SQLALCHEMY_DATABASE_URI"] = (
+        "sqlite:///" + str(INSTANCE_DIR / "smarttrip.db")
+    )
+
 app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = False
 
 db = SQLAlchemy(app)
+
 # ==========================================
 # LOGIN PROTECTION
 # ==========================================
