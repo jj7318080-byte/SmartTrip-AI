@@ -1,0 +1,131 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login | SmartTrip AI</title>
+
+    <style>
+        * {
+            box-sizing: border-box;
+            font-family: Arial, sans-serif;
+        }
+
+        body {
+            margin: 0;
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: linear-gradient(135deg, #171321, #54258c, #e879b9);
+            padding: 20px;
+        }
+
+        .login-box {
+            width: 100%;
+            max-width: 420px;
+            background: white;
+            padding: 38px;
+            border-radius: 20px;
+            box-shadow: 0 15px 40px #0005;
+        }
+
+        h1 {
+            text-align: center;
+            color: #54258c;
+            margin-bottom: 8px;
+        }
+
+        .subtitle {
+            text-align: center;
+            color: #666;
+            margin-bottom: 28px;
+        }
+
+        label {
+            display: block;
+            margin: 15px 0 7px;
+            font-weight: bold;
+            color: #292138;
+        }
+
+        input {
+            width: 100%;
+            padding: 13px;
+            border: 1px solid #ddd;
+            border-radius: 9px;
+            font-size: 15px;
+        }
+
+        button {
+            width: 100%;
+            padding: 14px;
+            margin-top: 23px;
+            border: none;
+            border-radius: 9px;
+            background: #742db5;
+            color: white;
+            font-size: 16px;
+            font-weight: bold;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background: #e45ca8;
+        }
+
+        .signup {
+            text-align: center;
+            margin-top: 22px;
+            color: #333;
+        }
+
+        a {
+            color: #9b3bb8;
+            font-weight: bold;
+            text-decoration: none;
+        }
+
+        .message {
+            text-align: center;
+            color: #b42318;
+            margin: 10px 0;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="login-box">
+
+        <h1>SmartTrip AI</h1>
+        <p class="subtitle">Welcome back! Login to continue.</p>
+
+        {% with messages = get_flashed_messages() %}
+            {% for message in messages %}
+                <p class="message">{{ message }}</p>
+            {% endfor %}
+        {% endwith %}
+
+        <form method="POST" action="{{ url_for('login') }}">
+
+            <label>Email Address</label>
+            <input type="email" name="email"
+                   placeholder="Enter your email" required>
+
+            <label>Password</label>
+            <input type="password" name="password"
+                   placeholder="Enter your password" required>
+
+            <button type="submit">Login</button>
+
+        </form>
+
+        <div class="signup">
+            Don't have an account?
+            <a href="{{ url_for('signup') }}">Sign Up</a>
+        </div>
+
+    </div>
+</body>
+</html>

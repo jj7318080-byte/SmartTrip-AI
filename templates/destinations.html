@@ -1,0 +1,82 @@
+
+{% extends "base.html" %}
+
+{% block title %}Explore Destinations | SmartTrip{% endblock %}
+
+{% block heading %}Explore Destinations{% endblock %}
+
+{% block content %}
+
+<div class="page-intro">
+    <h2>Find Your Next Travel Destination</h2>
+    <p>Explore destinations and compare estimated travel expenses before planning your trip.</p>
+</div>
+
+<div class="section-head">
+    <h2>Available Destinations</h2>
+    <p>Choose a destination to view its details and estimated costs.</p>
+</div>
+
+<div class="destination-grid">
+
+    {% for d in destinations %}
+
+    <div class="destination-card">
+
+        <h3>{{ d.destination }}</h3>
+
+        <p>{{ d.destination_type }}</p>
+
+        <div class="detail-row">
+            <span>Reference Distance</span>
+            <b>{{ d.distance_km }} km</b>
+        </div>
+
+        <div class="detail-row">
+            <span>Hotel per Night</span>
+            <b>₹{{ "{:,.0f}".format(d.hotel_per_night) }}</b>
+        </div>
+
+        <div class="detail-row">
+            <span>Food per Person / Day</span>
+            <b>₹{{ "{:,.0f}".format(d.food_per_person_day) }}</b>
+        </div>
+
+        <div class="detail-row">
+            <span>Local Travel / Person / Day</span>
+            <b>₹{{ "{:,.0f}".format(d.local_per_person_day) }}</b>
+        </div>
+
+        <div style="margin-top: 20px;">
+            <a class="btn btn-secondary"
+               href="{{ url_for('destination_detail', destination_name=d.destination) }}">
+                View Details
+            </a>
+
+            <a class="btn btn-primary"
+               href="{{ url_for('predict_page', destination=d.destination) }}">
+                Estimate Trip Cost
+            </a>
+            <form method="POST"
+      action="{{ url_for('toggle_favorite', destination_name=d.destination) }}"
+      style="margin-top: 10px;">
+    <button type="submit" class="btn btn-primary">
+        ♡ Save to Favorites
+    </button>
+</form>
+        </div>
+
+    </div>
+
+    {% else %}
+
+    <div class="panel">
+        <h3>No Destinations Available</h3>
+        <p>Destination information is currently unavailable.</p>
+    </div>
+
+    {% endfor %}
+
+</div>
+
+{% endblock %}

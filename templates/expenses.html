@@ -1,0 +1,134 @@
+
+{% extends "base.html" %}
+
+{% block title %}Travel Expenses | SmartTrip{% endblock %}
+
+{% block heading %}Expense Tracker{% endblock %}
+
+{% block content %}
+
+<div class="page-intro">
+    <h2>Manage Your Travel Expenses</h2>
+    <p>Record your spending and keep track of your travel budget.</p>
+</div>
+
+<div class="panel">
+    <h3>Add New Expense</h3>
+
+    <form method="POST" action="{{ url_for('expenses') }}">
+
+        <div class="form-group">
+            <div class="form-group">
+    <label for="trip_id">Select Your Trip</label>
+    <select id="trip_id" name="trip_id" required>
+        <option value="">Choose a trip</option>
+        {% for trip in trips %}
+        <option value="{{ trip.id }}">
+            {{ trip.origin }} to {{ trip.destination }}
+        </option>
+        {% endfor %}
+    </select>
+
+            <label for="category">Expense Category</label>
+
+            <select name="category" id="category" required>
+                <option value="">Select a category</option>
+                <option value="Transport">Transport</option>
+                <option value="Accommodation">Accommodation</option>
+                <option value="Food">Food</option>
+                <option value="Shopping">Shopping</option>
+                <option value="Entertainment">Entertainment</option>
+                <option value="Other">Other</option>
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label for="amount">Expense Amount (₹)</label>
+
+            <input type="number"
+                   name="amount"
+                   id="amount"
+                   min="0.01"
+                   step="0.01"
+                   placeholder="Enter expense amount"
+                   required>
+        </div>
+
+        <div class="form-group">
+            <label for="description">Description</label>
+
+            <input type="text"
+                   name="note"
+                   id="description"
+                   placeholder="Example: Hotel booking or bus ticket">
+        </div>
+
+        <button type="submit" class="btn btn-primary">
+            Add Expense
+        </button>
+
+    </form>
+</div>
+
+<div class="panel">
+    <h3>Total Spending</h3>
+
+    <h2 class="prediction-amount">
+        ₹{{ "{:,.2f}".format(total_expenses) }}
+    </h2>
+
+    <p>Total amount recorded in your expense tracker.</p>
+</div>
+
+<div class="panel">
+    <h3>Expense History</h3>
+
+    {% if expenses %}
+
+    <div class="table-responsive">
+        <table>
+            <thead>
+                <tr>
+                    <th>Category</th>
+                    <th>Description</th>
+                    <th>Amount</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                {% for expense in expenses %}
+                <tr>
+                    <td>{{ expense.category }}</td>
+                    <td>{{ expense.description or 'Not specified' }}</td>
+                    <td>₹{{ "{:,.2f}".format(expense.amount) }}</td>
+
+                    <td>
+                        <form method="POST"
+                              action="{{ url_for('delete_expense', expense_id=expense.id) }}"
+                              onsubmit="return confirm('Are you sure you want to delete this expense?');">
+
+                            <button type="submit" class="text-button">
+                                Delete
+                            </button>
+
+                        </form>
+                    </td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+
+    {% else %}
+
+    <div class="empty-state">
+        <h3>No Expenses Recorded</h3>
+        <p>Your travel expenses will appear here after you add them.</p>
+    </div>
+
+    {% endif %}
+
+</div>
+
+{% endblock %}

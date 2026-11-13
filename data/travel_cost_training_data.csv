@@ -1,0 +1,2401 @@
+destination,destination_type,distance_km,travellers,days,travel_mode,hotel_category,food_preference,season,estimated_total_cost
+Yercaud,Hill Station,180.0,5,6,Car,Standard,Budget,Peak,75748.35
+Hyderabad,City,650.0,5,7,Bus,Standard,Budget,Peak,136691.4
+Mysuru,Culture,330.0,5,5,Bus,Standard,Budget,Peak,73330.33
+Hyderabad,City,650.0,1,7,Bus,Premium,Premium,Regular,44617.42
+Chennai,City,350.0,3,4,Bus,Standard,Standard,Peak,48857.95
+Kodaikanal,Hill Station,310.0,6,3,Train,Budget,Budget,Regular,37939.27
+Goa,Beach,850.0,5,8,Car,Standard,Budget,Peak,202823.43
+Hyderabad,City,650.0,6,4,Bus,Standard,Budget,Off-season,66300.16
+Varanasi,Pilgrimage,1900.0,5,7,Train,Standard,Standard,Regular,115874.44
+Agra,Culture,2100.0,2,1,Train,Standard,Standard,Regular,21846.08
+Goa,Beach,850.0,4,1,Bus,Budget,Standard,Off-season,19037.6
+Goa,Beach,850.0,6,7,Bus,Budget,Budget,Regular,132970.68
+Munnar,Hill Station,430.0,4,5,Train,Budget,Standard,Off-season,46628.1
+Varanasi,Pilgrimage,1900.0,1,1,Train,Standard,Budget,Regular,10814.59
+Kochi,Beach,520.0,5,4,Bus,Budget,Standard,Regular,51362.62
+Hyderabad,City,650.0,3,1,Flight,Premium,Standard,Regular,38914.04
+Rameswaram,Pilgrimage,420.0,5,3,Train,Budget,Budget,Peak,44061.54
+Shimla,Hill Station,2600.0,5,2,Bus,Standard,Budget,Peak,86245.77
+Kochi,Beach,520.0,5,6,Train,Standard,Standard,Off-season,88213.29
+Mysuru,Culture,330.0,5,1,Train,Budget,Budget,Off-season,13081.26
+Varanasi,Pilgrimage,1900.0,2,3,Train,Budget,Standard,Off-season,21155.52
+Wayanad,Nature,410.0,3,4,Car,Budget,Standard,Regular,39434.9
+Coorg,Hill Station,390.0,4,5,Bus,Budget,Standard,Regular,48049.74
+Kochi,Beach,520.0,3,7,Car,Budget,Standard,Off-season,59257.84
+Munnar,Hill Station,430.0,2,2,Train,Standard,Budget,Peak,15005.3
+Agra,Culture,2100.0,2,1,Train,Budget,Standard,Peak,24572.14
+Mahabalipuram,Beach,260.0,6,6,Train,Budget,Premium,Off-season,88092.07
+Madurai,Culture,190.0,2,4,Flight,Premium,Standard,Peak,29264.93
+Munnar,Hill Station,430.0,4,4,Car,Standard,Budget,Off-season,49995.52
+Thanjavur,Culture,80.0,3,3,Car,Budget,Budget,Peak,19861.12
+Rishikesh,Adventure,2500.0,2,3,Car,Budget,Budget,Regular,72572.43
+Jaipur,Culture,1900.0,3,5,Bus,Budget,Budget,Off-season,50959.98
+Tirupati,Pilgrimage,300.0,1,3,Train,Standard,Budget,Peak,12071.03
+Varkala,Beach,570.0,1,6,Bus,Budget,Premium,Regular,21532.51
+Munnar,Hill Station,430.0,3,5,Flight,Budget,Premium,Off-season,56592.97
+Agra,Culture,2100.0,1,6,Bus,Budget,Budget,Peak,30984.23
+Pondicherry,Beach,170.0,6,6,Train,Standard,Budget,Off-season,67667.79
+Pune,City,1050.0,2,7,Bus,Standard,Standard,Peak,63050.6
+Madurai,Culture,190.0,3,1,Train,Standard,Standard,Regular,10019.69
+Bengaluru,City,380.0,2,2,Car,Standard,Budget,Off-season,18048.76
+Chennai,City,350.0,1,2,Bus,Budget,Premium,Off-season,7529.19
+Pune,City,1050.0,4,2,Bus,Budget,Budget,Off-season,24888.19
+Mysuru,Culture,330.0,4,5,Bus,Budget,Standard,Peak,49819.79
+Manali,Hill Station,2800.0,4,1,Bus,Budget,Budget,Regular,43306.93
+Madurai,Culture,190.0,1,1,Train,Budget,Standard,Off-season,2783.31
+Bengaluru,City,380.0,5,1,Car,Premium,Premium,Peak,44843.06
+Delhi,City,2200.0,4,5,Bus,Standard,Standard,Peak,89867.58
+Varanasi,Pilgrimage,1900.0,5,4,Train,Budget,Budget,Regular,75357.35
+Delhi,City,2200.0,2,3,Bus,Budget,Budget,Regular,26580.77
+Bengaluru,City,380.0,5,8,Car,Standard,Budget,Regular,148090.62
+Kochi,Beach,520.0,4,2,Train,Standard,Budget,Regular,25341.87
+Pune,City,1050.0,4,6,Car,Budget,Standard,Off-season,86208.97
+Jaipur,Culture,1900.0,1,5,Bus,Premium,Standard,Regular,36060.54
+Hampi,Culture,600.0,6,7,Flight,Budget,Standard,Off-season,105922.37
+Munnar,Hill Station,430.0,4,1,Train,Standard,Standard,Regular,19457.59
+Jaipur,Culture,1900.0,2,5,Car,Budget,Budget,Off-season,64425.04
+Shimla,Hill Station,2600.0,3,8,Train,Budget,Premium,Regular,123371.32
+Varanasi,Pilgrimage,1900.0,5,3,Bus,Budget,Budget,Peak,61745.54
+Rishikesh,Adventure,2500.0,3,2,Train,Premium,Standard,Regular,54283.38
+Shimla,Hill Station,2600.0,4,8,Train,Premium,Budget,Peak,205012.85
+Munnar,Hill Station,430.0,1,4,Train,Budget,Standard,Peak,16459.42
+Jaipur,Culture,1900.0,6,4,Train,Budget,Premium,Regular,106748.67
+Bengaluru,City,380.0,6,1,Bus,Standard,Budget,Peak,27457.5
+Alleppey,Nature,520.0,1,6,Bus,Premium,Budget,Off-season,26914.7
+Mumbai,City,1250.0,5,7,Car,Standard,Budget,Off-season,156622.91
+Pondicherry,Beach,170.0,5,5,Car,Budget,Standard,Off-season,55888.3
+Tirupati,Pilgrimage,300.0,6,1,Train,Standard,Budget,Off-season,17587.18
+Varanasi,Pilgrimage,1900.0,4,6,Car,Budget,Standard,Off-season,83434.49
+Yercaud,Hill Station,180.0,5,5,Train,Budget,Standard,Off-season,42027.78
+Tirupati,Pilgrimage,300.0,3,6,Bus,Budget,Budget,Peak,40384.14
+Goa,Beach,850.0,5,3,Train,Budget,Premium,Regular,67103.04
+Agra,Culture,2100.0,4,6,Train,Premium,Budget,Regular,105781.02
+Wayanad,Nature,410.0,3,2,Bus,Budget,Budget,Regular,16390.44
+Munnar,Hill Station,430.0,3,6,Bus,Budget,Budget,Regular,42561.49
+Wayanad,Nature,410.0,1,3,Train,Budget,Standard,Regular,9788.88
+Mysuru,Culture,330.0,4,6,Train,Budget,Standard,Regular,47122.01
+Varkala,Beach,570.0,4,5,Train,Standard,Premium,Peak,84687.04
+Chennai,City,350.0,5,5,Car,Budget,Standard,Regular,77781.72
+Kodaikanal,Hill Station,310.0,1,7,Bus,Budget,Budget,Off-season,18147.45
+Mumbai,City,1250.0,1,6,Bus,Standard,Standard,Regular,37830.8
+Rameswaram,Pilgrimage,420.0,4,6,Bus,Premium,Premium,Regular,71105.26
+Munnar,Hill Station,430.0,5,6,Train,Budget,Standard,Off-season,79028.89
+Rishikesh,Adventure,2500.0,4,4,Bus,Standard,Premium,Regular,72703.01
+Coorg,Hill Station,390.0,5,8,Bus,Budget,Budget,Off-season,83020.75
+Kodaikanal,Hill Station,310.0,3,4,Bus,Budget,Premium,Off-season,28584.41
+Kochi,Beach,520.0,2,3,Train,Standard,Standard,Off-season,15922.68
+Mumbai,City,1250.0,6,7,Train,Standard,Standard,Off-season,155080.1
+Agra,Culture,2100.0,5,5,Bus,Standard,Standard,Regular,108418.99
+Bengaluru,City,380.0,4,4,Train,Standard,Budget,Regular,48664.54
+Wayanad,Nature,410.0,4,1,Bus,Premium,Standard,Off-season,15998.13
+Thanjavur,Culture,80.0,2,3,Car,Budget,Budget,Regular,10212.97
+Ooty,Hill Station,280.0,3,3,Train,Standard,Premium,Regular,36062.18
+Tirupati,Pilgrimage,300.0,5,6,Train,Premium,Standard,Peak,117456.49
+Wayanad,Nature,410.0,4,6,Train,Standard,Standard,Peak,71965.94
+Coorg,Hill Station,390.0,2,7,Car,Budget,Budget,Off-season,32746.09
+Rishikesh,Adventure,2500.0,6,4,Flight,Standard,Premium,Regular,238242.61
+Agra,Culture,2100.0,1,2,Car,Premium,Standard,Off-season,47834.83
+Goa,Beach,850.0,6,1,Bus,Standard,Standard,Regular,32721.9
+Rishikesh,Adventure,2500.0,5,4,Bus,Budget,Standard,Peak,104905.25
+Pune,City,1050.0,6,5,Train,Budget,Budget,Peak,121854.73
+Rameswaram,Pilgrimage,420.0,2,4,Bus,Standard,Budget,Regular,16192.26
+Mumbai,City,1250.0,1,3,Car,Budget,Budget,Regular,37877.75
+Mysuru,Culture,330.0,5,5,Bus,Budget,Budget,Regular,44724.83
+Tirupati,Pilgrimage,300.0,1,4,Car,Standard,Budget,Regular,16332.47
+Chennai,City,350.0,2,5,Train,Standard,Budget,Regular,24507.44
+Ooty,Hill Station,280.0,6,7,Train,Budget,Premium,Off-season,93769.34
+Alleppey,Nature,520.0,6,3,Car,Standard,Standard,Regular,54447.53
+Varkala,Beach,570.0,2,3,Bus,Premium,Budget,Regular,21197.07
+Jaipur,Culture,1900.0,5,6,Train,Premium,Standard,Peak,195062.79
+Hyderabad,City,650.0,2,7,Bus,Standard,Budget,Regular,38849.44
+Varanasi,Pilgrimage,1900.0,4,8,Bus,Premium,Budget,Off-season,77070.31
+Mysuru,Culture,330.0,4,1,Train,Standard,Budget,Off-season,11022.78
+Agra,Culture,2100.0,3,7,Train,Budget,Budget,Regular,73395.85
+Kodaikanal,Hill Station,310.0,1,1,Bus,Standard,Budget,Regular,3692.03
+Ooty,Hill Station,280.0,2,4,Car,Standard,Budget,Regular,20831.23
+Mysuru,Culture,330.0,6,4,Train,Budget,Budget,Peak,56425.97
+Kochi,Beach,520.0,3,7,Bus,Budget,Budget,Peak,68328.63
+Shimla,Hill Station,2600.0,6,2,Bus,Budget,Standard,Off-season,75100.65
+Mahabalipuram,Beach,260.0,4,6,Bus,Standard,Standard,Off-season,53464.48
+Mumbai,City,1250.0,6,7,Bus,Premium,Standard,Regular,249117.16
+Yercaud,Hill Station,180.0,3,6,Bus,Standard,Standard,Off-season,37236.4
+Pune,City,1050.0,4,3,Bus,Budget,Budget,Off-season,32243.98
+Agra,Culture,2100.0,5,7,Train,Budget,Premium,Regular,137242.2
+Shimla,Hill Station,2600.0,5,2,Train,Budget,Standard,Peak,102082.84
+Wayanad,Nature,410.0,1,5,Train,Budget,Premium,Peak,22226.62
+Tirupati,Pilgrimage,300.0,1,5,Bus,Budget,Standard,Regular,12801.26
+Tirupati,Pilgrimage,300.0,6,2,Train,Budget,Premium,Regular,30449.57
+Ooty,Hill Station,280.0,2,5,Bus,Standard,Standard,Regular,25826.71
+Shimla,Hill Station,2600.0,6,2,Train,Budget,Standard,Regular,92381.87
+Mysuru,Culture,330.0,6,1,Car,Budget,Standard,Off-season,17382.6
+Rameswaram,Pilgrimage,420.0,2,6,Car,Premium,Budget,Regular,33406.84
+Pondicherry,Beach,170.0,4,8,Bus,Standard,Standard,Regular,77596.62
+Hampi,Culture,600.0,4,4,Car,Standard,Standard,Off-season,47643.43
+Munnar,Hill Station,430.0,3,6,Bus,Premium,Budget,Regular,72480.52
+Delhi,City,2200.0,3,6,Train,Standard,Budget,Regular,84357.84
+Thanjavur,Culture,80.0,4,4,Bus,Budget,Budget,Off-season,21128.75
+Thanjavur,Culture,80.0,5,1,Flight,Budget,Budget,Regular,12138.44
+Chennai,City,350.0,3,3,Bus,Budget,Standard,Regular,27187.05
+Munnar,Hill Station,430.0,1,1,Flight,Standard,Standard,Off-season,7947.34
+Kochi,Beach,520.0,1,3,Car,Premium,Premium,Peak,34505.54
+Chennai,City,350.0,6,5,Bus,Budget,Standard,Off-season,62397.29
+Yercaud,Hill Station,180.0,5,5,Train,Budget,Budget,Off-season,41305.96
+Bengaluru,City,380.0,4,5,Bus,Budget,Budget,Regular,51934.4
+Rishikesh,Adventure,2500.0,1,2,Flight,Budget,Premium,Off-season,32781.06
+Pondicherry,Beach,170.0,6,5,Bus,Budget,Budget,Regular,62160.05
+Pondicherry,Beach,170.0,4,7,Bus,Standard,Budget,Off-season,53109.82
+Kodaikanal,Hill Station,310.0,6,1,Car,Standard,Standard,Regular,23571.54
+Alleppey,Nature,520.0,5,4,Bus,Budget,Premium,Regular,71590.0
+Coorg,Hill Station,390.0,1,3,Bus,Budget,Budget,Off-season,8699.48
+Goa,Beach,850.0,1,3,Train,Standard,Budget,Regular,17604.35
+Mumbai,City,1250.0,6,2,Car,Standard,Budget,Peak,87843.99
+Pune,City,1050.0,4,1,Bus,Standard,Standard,Regular,23204.37
+Pune,City,1050.0,2,2,Train,Standard,Budget,Peak,22403.97
+Wayanad,Nature,410.0,6,1,Train,Budget,Budget,Regular,21227.44
+Coorg,Hill Station,390.0,6,6,Train,Standard,Standard,Regular,103560.36
+Thanjavur,Culture,80.0,4,8,Bus,Budget,Standard,Peak,65494.65
+Tirupati,Pilgrimage,300.0,3,3,Car,Premium,Standard,Regular,36608.76
+Alleppey,Nature,520.0,3,8,Bus,Standard,Budget,Regular,71405.62
+Jaipur,Culture,1900.0,4,6,Bus,Standard,Budget,Regular,87393.19
+Wayanad,Nature,410.0,2,2,Bus,Standard,Standard,Regular,12006.17
+Alleppey,Nature,520.0,2,7,Car,Standard,Budget,Regular,44992.92
+Pondicherry,Beach,170.0,6,3,Bus,Budget,Standard,Peak,50750.32
+Hampi,Culture,600.0,4,5,Flight,Standard,Budget,Regular,69048.87
+Shimla,Hill Station,2600.0,5,8,Bus,Standard,Budget,Regular,165383.88
+Hampi,Culture,600.0,4,3,Car,Standard,Budget,Regular,39887.56
+Hyderabad,City,650.0,3,6,Bus,Budget,Premium,Peak,76701.33
+Hampi,Culture,600.0,6,1,Car,Standard,Standard,Regular,32297.04
+Rishikesh,Adventure,2500.0,4,6,Bus,Budget,Standard,Regular,90716.45
+Agra,Culture,2100.0,5,3,Bus,Budget,Budget,Regular,66034.84
+Mumbai,City,1250.0,2,2,Car,Budget,Budget,Peak,50142.12
+Hampi,Culture,600.0,1,1,Train,Premium,Premium,Off-season,6104.18
+Mysuru,Culture,330.0,4,7,Bus,Premium,Standard,Off-season,65846.5
+Jaipur,Culture,1900.0,2,2,Train,Standard,Standard,Regular,25378.43
+Mysuru,Culture,330.0,1,8,Train,Budget,Standard,Peak,30032.07
+Madurai,Culture,190.0,3,2,Bus,Standard,Budget,Regular,12151.78
+Mysuru,Culture,330.0,6,7,Bus,Budget,Standard,Peak,98751.18
+Mahabalipuram,Beach,260.0,6,3,Car,Budget,Budget,Regular,39054.34
+Coorg,Hill Station,390.0,4,1,Bus,Budget,Standard,Off-season,11655.34
+Rishikesh,Adventure,2500.0,5,3,Bus,Standard,Standard,Regular,73874.45
+Pondicherry,Beach,170.0,1,1,Bus,Standard,Budget,Regular,3491.66
+Goa,Beach,850.0,5,6,Bus,Budget,Budget,Regular,103551.8
+Hyderabad,City,650.0,5,1,Bus,Budget,Standard,Regular,24016.19
+Mumbai,City,1250.0,1,8,Train,Budget,Premium,Peak,47767.79
+Agra,Culture,2100.0,3,2,Bus,Standard,Budget,Regular,30691.7
+Rishikesh,Adventure,2500.0,4,4,Train,Budget,Budget,Regular,62923.68
+Pune,City,1050.0,4,3,Bus,Standard,Standard,Regular,44619.44
+Rishikesh,Adventure,2500.0,2,2,Bus,Standard,Standard,Off-season,21943.65
+Varkala,Beach,570.0,1,2,Car,Standard,Budget,Peak,27998.94
+Pune,City,1050.0,3,7,Bus,Budget,Standard,Off-season,54295.13
+Hampi,Culture,600.0,1,2,Bus,Budget,Standard,Off-season,5783.05
+Agra,Culture,2100.0,6,2,Bus,Budget,Budget,Regular,61423.94
+Thanjavur,Culture,80.0,3,2,Car,Premium,Budget,Off-season,13359.73
+Hyderabad,City,650.0,4,4,Car,Standard,Standard,Regular,66527.03
+Munnar,Hill Station,430.0,3,1,Bus,Budget,Premium,Regular,13500.16
+Wayanad,Nature,410.0,2,7,Train,Standard,Premium,Regular,43703.0
+Tirupati,Pilgrimage,300.0,5,5,Bus,Budget,Budget,Off-season,44791.85
+Ooty,Hill Station,280.0,4,5,Bus,Budget,Standard,Peak,50197.82
+Chennai,City,350.0,5,4,Bus,Standard,Standard,Regular,65863.4
+Chennai,City,350.0,4,3,Bus,Budget,Budget,Off-season,28942.67
+Thanjavur,Culture,80.0,6,4,Bus,Standard,Standard,Regular,40807.34
+Tirupati,Pilgrimage,300.0,6,2,Train,Budget,Premium,Regular,33209.14
+Jaipur,Culture,1900.0,6,5,Bus,Budget,Standard,Regular,104874.59
+Chennai,City,350.0,5,2,Train,Standard,Budget,Regular,31115.32
+Mumbai,City,1250.0,6,8,Bus,Standard,Budget,Off-season,160150.97
+Coorg,Hill Station,390.0,3,2,Flight,Premium,Standard,Off-season,31076.62
+Goa,Beach,850.0,6,8,Bus,Budget,Standard,Regular,154554.76
+Agra,Culture,2100.0,6,6,Train,Budget,Budget,Off-season,112240.12
+Delhi,City,2200.0,2,7,Bus,Budget,Premium,Off-season,54869.08
+Varkala,Beach,570.0,3,4,Bus,Standard,Budget,Regular,36259.5
+Manali,Hill Station,2800.0,4,4,Train,Budget,Budget,Off-season,68813.44
+Pondicherry,Beach,170.0,1,5,Bus,Standard,Premium,Off-season,17947.27
+Hampi,Culture,600.0,6,7,Train,Budget,Standard,Off-season,76120.4
+Bengaluru,City,380.0,6,4,Bus,Standard,Budget,Peak,89615.07
+Hampi,Culture,600.0,2,8,Car,Budget,Budget,Peak,51817.5
+Shimla,Hill Station,2600.0,4,1,Train,Budget,Standard,Off-season,41691.39
+Wayanad,Nature,410.0,2,3,Bus,Budget,Premium,Off-season,17061.67
+Munnar,Hill Station,430.0,5,5,Flight,Standard,Premium,Off-season,101759.27
+Pune,City,1050.0,2,5,Train,Premium,Premium,Regular,38706.4
+Hyderabad,City,650.0,3,7,Bus,Budget,Budget,Off-season,54359.61
+Bengaluru,City,380.0,5,4,Car,Standard,Budget,Off-season,55748.41
+Madurai,Culture,190.0,6,7,Train,Premium,Premium,Off-season,106896.45
+Mahabalipuram,Beach,260.0,3,2,Bus,Budget,Standard,Peak,21518.91
+Agra,Culture,2100.0,4,7,Car,Standard,Standard,Peak,169359.66
+Mahabalipuram,Beach,260.0,1,1,Bus,Budget,Premium,Regular,4020.91
+Munnar,Hill Station,430.0,4,4,Bus,Standard,Standard,Regular,50260.51
+Pondicherry,Beach,170.0,5,6,Bus,Premium,Budget,Off-season,74066.02
+Varkala,Beach,570.0,4,1,Train,Premium,Standard,Regular,20642.76
+Varkala,Beach,570.0,6,1,Train,Budget,Standard,Off-season,27854.29
+Ooty,Hill Station,280.0,3,4,Train,Budget,Standard,Regular,31340.23
+Alleppey,Nature,520.0,6,4,Train,Standard,Standard,Regular,74292.9
+Varanasi,Pilgrimage,1900.0,5,8,Bus,Budget,Standard,Regular,95938.11
+Hampi,Culture,600.0,3,4,Bus,Standard,Budget,Off-season,27460.19
+Munnar,Hill Station,430.0,5,2,Bus,Budget,Premium,Off-season,36382.72
+Alleppey,Nature,520.0,3,3,Train,Premium,Standard,Regular,38318.31
+Rishikesh,Adventure,2500.0,3,7,Bus,Budget,Budget,Off-season,60140.11
+Kochi,Beach,520.0,5,6,Bus,Standard,Standard,Regular,98348.86
+Mahabalipuram,Beach,260.0,3,4,Bus,Budget,Budget,Regular,29023.03
+Pune,City,1050.0,5,2,Car,Budget,Budget,Off-season,48805.94
+Shimla,Hill Station,2600.0,2,7,Bus,Standard,Premium,Regular,66333.52
+Bengaluru,City,380.0,1,7,Flight,Standard,Premium,Peak,47414.32
+Chennai,City,350.0,3,7,Bus,Standard,Standard,Regular,70228.73
+Yercaud,Hill Station,180.0,5,5,Car,Budget,Budget,Regular,38949.54
+Varanasi,Pilgrimage,1900.0,6,6,Car,Budget,Budget,Regular,124876.95
+Alleppey,Nature,520.0,4,8,Bus,Standard,Budget,Off-season,62999.47
+Rishikesh,Adventure,2500.0,1,6,Bus,Standard,Standard,Off-season,28268.48
+Hampi,Culture,600.0,2,7,Bus,Premium,Budget,Regular,34121.68
+Mysuru,Culture,330.0,2,8,Flight,Budget,Standard,Regular,38347.33
+Madurai,Culture,190.0,5,7,Car,Budget,Standard,Off-season,60678.16
+Jaipur,Culture,1900.0,4,3,Bus,Budget,Standard,Peak,60745.66
+Tirupati,Pilgrimage,300.0,1,4,Car,Budget,Budget,Off-season,13763.08
+Hyderabad,City,650.0,3,6,Train,Standard,Premium,Regular,78218.15
+Mumbai,City,1250.0,2,8,Bus,Standard,Standard,Off-season,64853.89
+Munnar,Hill Station,430.0,2,2,Train,Budget,Standard,Peak,15443.64
+Pondicherry,Beach,170.0,4,3,Bus,Budget,Budget,Peak,30808.89
+Wayanad,Nature,410.0,2,4,Bus,Budget,Budget,Regular,17952.95
+Mumbai,City,1250.0,1,2,Car,Standard,Standard,Off-season,37591.7
+Mumbai,City,1250.0,6,5,Train,Standard,Budget,Regular,141213.98
+Thanjavur,Culture,80.0,1,6,Train,Premium,Standard,Regular,21915.47
+Coorg,Hill Station,390.0,5,5,Bus,Budget,Standard,Regular,70105.03
+Madurai,Culture,190.0,6,4,Car,Premium,Budget,Regular,57282.8
+Rameswaram,Pilgrimage,420.0,4,7,Car,Premium,Standard,Peak,118692.13
+Pondicherry,Beach,170.0,3,3,Train,Standard,Premium,Off-season,27238.19
+Delhi,City,2200.0,6,1,Car,Budget,Premium,Peak,107711.96
+Madurai,Culture,190.0,2,7,Bus,Standard,Standard,Peak,33557.65
+Hyderabad,City,650.0,2,8,Train,Standard,Budget,Regular,45036.48
+Shimla,Hill Station,2600.0,5,1,Bus,Premium,Budget,Regular,57740.61
+Varkala,Beach,570.0,6,2,Car,Budget,Standard,Regular,49317.22
+Rishikesh,Adventure,2500.0,5,2,Bus,Premium,Standard,Regular,60916.42
+Wayanad,Nature,410.0,4,1,Train,Standard,Budget,Peak,18119.4
+Kochi,Beach,520.0,1,3,Train,Budget,Premium,Peak,15724.54
+Pune,City,1050.0,2,7,Bus,Budget,Budget,Off-season,36404.86
+Pondicherry,Beach,170.0,1,1,Bus,Standard,Standard,Regular,3735.79
+Mysuru,Culture,330.0,6,3,Train,Standard,Standard,Regular,42642.85
+Agra,Culture,2100.0,1,2,Car,Budget,Budget,Off-season,51947.72
+Manali,Hill Station,2800.0,2,8,Car,Budget,Standard,Regular,125289.99
+Manali,Hill Station,2800.0,3,6,Car,Budget,Standard,Regular,139401.16
+Madurai,Culture,190.0,4,4,Train,Budget,Standard,Regular,28233.29
+Delhi,City,2200.0,4,1,Train,Budget,Budget,Off-season,38009.34
+Pune,City,1050.0,5,7,Car,Standard,Standard,Regular,147912.05
+Rameswaram,Pilgrimage,420.0,1,5,Car,Standard,Standard,Regular,26544.95
+Munnar,Hill Station,430.0,1,4,Train,Premium,Standard,Regular,25173.71
+Varkala,Beach,570.0,4,4,Bus,Budget,Budget,Off-season,34195.16
+Chennai,City,350.0,5,5,Bus,Standard,Budget,Peak,88601.95
+Rishikesh,Adventure,2500.0,3,6,Bus,Standard,Budget,Regular,61409.77
+Rameswaram,Pilgrimage,420.0,6,8,Car,Standard,Premium,Off-season,113900.39
+Varkala,Beach,570.0,3,3,Bus,Standard,Premium,Peak,44512.36
+Chennai,City,350.0,4,6,Car,Budget,Standard,Peak,88590.21
+Mumbai,City,1250.0,6,4,Flight,Premium,Premium,Regular,219578.89
+Kodaikanal,Hill Station,310.0,2,6,Train,Standard,Standard,Regular,33589.92
+Goa,Beach,850.0,5,3,Bus,Budget,Budget,Peak,62830.22
+Kodaikanal,Hill Station,310.0,2,1,Train,Budget,Budget,Off-season,5603.58
+Rishikesh,Adventure,2500.0,6,3,Bus,Budget,Standard,Off-season,79918.23
+Munnar,Hill Station,430.0,1,5,Train,Budget,Budget,Peak,20944.68
+Delhi,City,2200.0,1,1,Bus,Premium,Standard,Off-season,11965.3
+Pune,City,1050.0,4,2,Train,Premium,Standard,Regular,50292.5
+Shimla,Hill Station,2600.0,5,3,Bus,Budget,Budget,Regular,77763.33
+Thanjavur,Culture,80.0,3,5,Train,Standard,Standard,Regular,33180.32
+Agra,Culture,2100.0,6,4,Train,Budget,Budget,Off-season,76624.71
+Coorg,Hill Station,390.0,3,1,Car,Premium,Budget,Peak,26213.96
+Pondicherry,Beach,170.0,2,8,Flight,Budget,Standard,Peak,47000.29
+Mahabalipuram,Beach,260.0,6,2,Bus,Standard,Standard,Regular,31967.33
+Goa,Beach,850.0,4,5,Bus,Standard,Budget,Regular,61900.18
+Varkala,Beach,570.0,3,6,Bus,Premium,Standard,Regular,75237.29
+Varkala,Beach,570.0,3,2,Train,Premium,Standard,Off-season,29131.03
+Agra,Culture,2100.0,3,2,Bus,Standard,Premium,Regular,33860.83
+Mumbai,City,1250.0,4,8,Bus,Budget,Standard,Regular,110443.17
+Mysuru,Culture,330.0,3,7,Bus,Budget,Standard,Regular,44329.23
+Rishikesh,Adventure,2500.0,1,4,Flight,Standard,Budget,Peak,51698.34
+Madurai,Culture,190.0,1,3,Train,Budget,Budget,Off-season,6049.94
+Coorg,Hill Station,390.0,5,4,Train,Budget,Budget,Regular,46008.32
+Thanjavur,Culture,80.0,4,7,Bus,Budget,Standard,Regular,42289.19
+Munnar,Hill Station,430.0,1,4,Train,Standard,Budget,Regular,15301.59
+Mumbai,City,1250.0,3,6,Car,Premium,Budget,Regular,129582.15
+Munnar,Hill Station,430.0,6,3,Car,Standard,Premium,Peak,84113.26
+Chennai,City,350.0,3,8,Bus,Budget,Premium,Off-season,67260.8
+Goa,Beach,850.0,1,7,Bus,Standard,Premium,Regular,41270.52
+Shimla,Hill Station,2600.0,6,8,Train,Budget,Standard,Peak,245051.56
+Rameswaram,Pilgrimage,420.0,6,8,Bus,Standard,Standard,Regular,104638.03
+Mysuru,Culture,330.0,6,7,Train,Premium,Budget,Regular,113763.86
+Bengaluru,City,380.0,3,4,Bus,Standard,Budget,Regular,42551.75
+Varkala,Beach,570.0,3,4,Train,Standard,Budget,Peak,49355.95
+Chennai,City,350.0,2,2,Car,Budget,Budget,Regular,18863.49
+Hampi,Culture,600.0,2,6,Bus,Standard,Premium,Regular,30630.75
+Rishikesh,Adventure,2500.0,3,6,Flight,Budget,Budget,Regular,126097.99
+Varanasi,Pilgrimage,1900.0,2,4,Bus,Premium,Budget,Off-season,25054.93
+Delhi,City,2200.0,5,2,Bus,Budget,Budget,Off-season,51756.2
+Mysuru,Culture,330.0,3,8,Bus,Budget,Budget,Off-season,44934.92
+Chennai,City,350.0,4,8,Car,Standard,Standard,Regular,100597.86
+Yercaud,Hill Station,180.0,5,6,Car,Budget,Standard,Peak,75921.06
+Mumbai,City,1250.0,1,8,Bus,Premium,Standard,Off-season,54260.16
+Coorg,Hill Station,390.0,1,6,Car,Standard,Standard,Off-season,28714.7
+Varanasi,Pilgrimage,1900.0,6,4,Bus,Budget,Budget,Regular,70139.82
+Kodaikanal,Hill Station,310.0,6,2,Car,Budget,Budget,Regular,29064.96
+Madurai,Culture,190.0,3,3,Train,Budget,Budget,Regular,17849.49
+Kochi,Beach,520.0,5,8,Flight,Standard,Premium,Peak,202711.11
+Rameswaram,Pilgrimage,420.0,6,5,Bus,Standard,Standard,Regular,64031.71
+Hampi,Culture,600.0,1,3,Train,Budget,Standard,Peak,11679.31
+Goa,Beach,850.0,4,5,Bus,Standard,Budget,Peak,90803.65
+Rameswaram,Pilgrimage,420.0,2,3,Train,Standard,Standard,Off-season,12658.4
+Thanjavur,Culture,80.0,5,8,Train,Premium,Standard,Peak,137272.23
+Alleppey,Nature,520.0,1,5,Flight,Budget,Budget,Regular,19411.11
+Wayanad,Nature,410.0,2,2,Car,Budget,Standard,Off-season,17313.03
+Munnar,Hill Station,430.0,4,1,Train,Budget,Premium,Regular,18248.12
+Chennai,City,350.0,3,2,Bus,Budget,Standard,Regular,17914.98
+Kochi,Beach,520.0,3,5,Bus,Budget,Budget,Regular,39265.11
+Rameswaram,Pilgrimage,420.0,2,3,Train,Standard,Budget,Regular,15070.0
+Madurai,Culture,190.0,4,1,Car,Budget,Standard,Regular,12535.62
+Wayanad,Nature,410.0,5,4,Bus,Standard,Budget,Regular,52328.28
+Yercaud,Hill Station,180.0,5,7,Train,Standard,Standard,Peak,85322.02
+Alleppey,Nature,520.0,1,1,Train,Budget,Standard,Regular,5235.95
+Ooty,Hill Station,280.0,2,8,Train,Budget,Budget,Peak,40880.26
+Chennai,City,350.0,1,2,Bus,Premium,Standard,Regular,12546.6
+Delhi,City,2200.0,2,6,Train,Budget,Budget,Regular,43956.91
+Kodaikanal,Hill Station,310.0,2,7,Train,Standard,Standard,Regular,35915.71
+Goa,Beach,850.0,3,3,Car,Premium,Budget,Regular,65229.39
+Jaipur,Culture,1900.0,5,3,Bus,Budget,Standard,Regular,64571.42
+Mumbai,City,1250.0,1,8,Bus,Budget,Budget,Peak,41324.58
+Yercaud,Hill Station,180.0,1,2,Train,Standard,Standard,Regular,6485.62
+Thanjavur,Culture,80.0,1,6,Train,Standard,Budget,Regular,12758.1
+Mysuru,Culture,330.0,2,2,Bus,Standard,Budget,Regular,10402.35
+Tirupati,Pilgrimage,300.0,6,6,Bus,Budget,Budget,Peak,60871.03
+Mumbai,City,1250.0,3,5,Train,Standard,Standard,Regular,85866.8
+Mysuru,Culture,330.0,1,5,Bus,Standard,Premium,Regular,19255.43
+Pune,City,1050.0,5,3,Bus,Budget,Standard,Regular,57396.52
+Manali,Hill Station,2800.0,2,7,Bus,Budget,Premium,Regular,67742.22
+Rameswaram,Pilgrimage,420.0,3,6,Car,Budget,Budget,Off-season,36694.39
+Madurai,Culture,190.0,5,2,Bus,Standard,Budget,Regular,21026.47
+Tirupati,Pilgrimage,300.0,6,3,Bus,Standard,Premium,Regular,44790.69
+Varkala,Beach,570.0,1,4,Train,Standard,Standard,Peak,18661.7
+Goa,Beach,850.0,2,2,Train,Budget,Budget,Peak,24306.81
+Wayanad,Nature,410.0,6,4,Train,Standard,Budget,Off-season,53532.31
+Mysuru,Culture,330.0,1,1,Car,Budget,Budget,Regular,11468.5
+Coorg,Hill Station,390.0,6,8,Bus,Standard,Standard,Regular,125539.77
+Shimla,Hill Station,2600.0,6,6,Train,Budget,Standard,Peak,180227.6
+Pondicherry,Beach,170.0,4,4,Car,Premium,Budget,Off-season,43995.52
+Hyderabad,City,650.0,3,4,Train,Budget,Budget,Regular,39982.43
+Chennai,City,350.0,4,5,Train,Standard,Standard,Regular,56926.68
+Shimla,Hill Station,2600.0,5,1,Bus,Standard,Premium,Regular,53334.6
+Bengaluru,City,380.0,4,2,Train,Standard,Standard,Regular,29131.38
+Mahabalipuram,Beach,260.0,5,4,Car,Standard,Standard,Regular,57819.36
+Varanasi,Pilgrimage,1900.0,1,4,Bus,Premium,Standard,Off-season,18060.12
+Pondicherry,Beach,170.0,2,3,Car,Budget,Standard,Peak,19144.19
+Pondicherry,Beach,170.0,3,2,Car,Premium,Standard,Regular,26343.26
+Kodaikanal,Hill Station,310.0,5,7,Train,Budget,Standard,Peak,109370.97
+Shimla,Hill Station,2600.0,2,7,Flight,Premium,Standard,Regular,127050.13
+Kodaikanal,Hill Station,310.0,5,4,Bus,Budget,Budget,Peak,54199.49
+Ooty,Hill Station,280.0,2,8,Bus,Budget,Standard,Regular,35880.47
+Goa,Beach,850.0,2,8,Bus,Premium,Premium,Peak,106922.35
+Goa,Beach,850.0,4,5,Train,Budget,Premium,Regular,87715.08
+Agra,Culture,2100.0,1,4,Bus,Standard,Standard,Regular,21797.26
+Pune,City,1050.0,2,2,Bus,Premium,Budget,Regular,17844.55
+Varkala,Beach,570.0,4,5,Train,Standard,Premium,Regular,73885.45
+Tirupati,Pilgrimage,300.0,1,2,Train,Budget,Standard,Regular,6470.92
+Rameswaram,Pilgrimage,420.0,2,5,Train,Budget,Budget,Off-season,17112.12
+Yercaud,Hill Station,180.0,6,4,Train,Standard,Standard,Regular,42883.19
+Ooty,Hill Station,280.0,2,6,Car,Budget,Premium,Off-season,30387.4
+Chennai,City,350.0,1,6,Bus,Budget,Budget,Off-season,18490.02
+Pondicherry,Beach,170.0,1,4,Car,Premium,Standard,Off-season,18611.14
+Shimla,Hill Station,2600.0,6,4,Bus,Premium,Premium,Regular,154845.85
+Yercaud,Hill Station,180.0,4,4,Car,Budget,Budget,Regular,24647.24
+Varanasi,Pilgrimage,1900.0,4,1,Car,Standard,Standard,Regular,57889.89
+Chennai,City,350.0,1,4,Bus,Standard,Standard,Peak,20791.82
+Wayanad,Nature,410.0,6,3,Car,Standard,Standard,Regular,47253.97
+Mahabalipuram,Beach,260.0,1,3,Bus,Budget,Standard,Peak,11575.37
+Manali,Hill Station,2800.0,4,2,Train,Budget,Standard,Off-season,66131.07
+Mysuru,Culture,330.0,5,7,Train,Standard,Budget,Peak,113373.28
+Wayanad,Nature,410.0,5,1,Car,Premium,Standard,Peak,31403.16
+Agra,Culture,2100.0,1,4,Car,Budget,Standard,Off-season,53620.58
+Thanjavur,Culture,80.0,6,6,Bus,Budget,Standard,Peak,70003.68
+Bengaluru,City,380.0,4,1,Train,Standard,Standard,Regular,17778.11
+Kochi,Beach,520.0,3,3,Train,Standard,Standard,Regular,31932.8
+Jaipur,Culture,1900.0,4,7,Car,Budget,Standard,Regular,132110.22
+Chennai,City,350.0,2,6,Bus,Standard,Premium,Regular,41575.49
+Manali,Hill Station,2800.0,2,8,Car,Budget,Standard,Off-season,104538.55
+Hampi,Culture,600.0,6,7,Train,Budget,Standard,Regular,96711.24
+Manali,Hill Station,2800.0,4,8,Bus,Budget,Standard,Peak,147490.56
+Thanjavur,Culture,80.0,2,7,Car,Budget,Standard,Peak,29998.74
+Coorg,Hill Station,390.0,3,5,Train,Standard,Budget,Regular,43910.62
+Rameswaram,Pilgrimage,420.0,5,7,Bus,Budget,Premium,Off-season,71751.12
+Varanasi,Pilgrimage,1900.0,2,5,Bus,Budget,Standard,Off-season,26749.28
+Rameswaram,Pilgrimage,420.0,5,1,Bus,Standard,Budget,Regular,16692.58
+Jaipur,Culture,1900.0,3,7,Bus,Budget,Standard,Off-season,73303.67
+Kodaikanal,Hill Station,310.0,5,5,Bus,Premium,Standard,Peak,117768.54
+Mumbai,City,1250.0,4,6,Train,Standard,Premium,Off-season,104539.4
+Ooty,Hill Station,280.0,1,5,Train,Standard,Standard,Peak,24086.57
+Hampi,Culture,600.0,2,7,Car,Budget,Standard,Regular,39057.54
+Goa,Beach,850.0,4,1,Bus,Budget,Budget,Regular,22067.57
+Rameswaram,Pilgrimage,420.0,2,2,Train,Standard,Standard,Peak,13784.43
+Goa,Beach,850.0,6,6,Train,Premium,Standard,Regular,177580.72
+Yercaud,Hill Station,180.0,6,3,Train,Standard,Premium,Regular,41890.11
+Hyderabad,City,650.0,4,5,Bus,Budget,Standard,Off-season,49856.43
+Munnar,Hill Station,430.0,1,1,Car,Standard,Budget,Off-season,11118.11
+Varkala,Beach,570.0,2,7,Train,Premium,Budget,Regular,48027.9
+Jaipur,Culture,1900.0,6,8,Flight,Standard,Standard,Off-season,230372.3
+Varkala,Beach,570.0,5,2,Train,Standard,Standard,Regular,37350.09
+Mahabalipuram,Beach,260.0,6,6,Bus,Budget,Budget,Regular,75696.72
+Goa,Beach,850.0,3,7,Bus,Standard,Budget,Off-season,74958.44
+Rameswaram,Pilgrimage,420.0,5,4,Bus,Budget,Standard,Regular,42244.59
+Madurai,Culture,190.0,6,4,Train,Standard,Standard,Regular,48784.44
+Agra,Culture,2100.0,2,3,Bus,Budget,Budget,Regular,21453.58
+Madurai,Culture,190.0,6,2,Train,Standard,Budget,Off-season,21619.88
+Kodaikanal,Hill Station,310.0,6,2,Bus,Budget,Standard,Off-season,25676.51
+Pondicherry,Beach,170.0,1,3,Bus,Standard,Budget,Off-season,9037.99
+Goa,Beach,850.0,3,1,Bus,Budget,Premium,Regular,16910.1
+Goa,Beach,850.0,6,6,Flight,Budget,Standard,Regular,165187.15
+Yercaud,Hill Station,180.0,3,8,Bus,Premium,Budget,Regular,69720.06
+Jaipur,Culture,1900.0,1,4,Train,Standard,Budget,Regular,24476.79
+Wayanad,Nature,410.0,1,4,Bus,Budget,Standard,Off-season,10514.55
+Varanasi,Pilgrimage,1900.0,6,5,Bus,Standard,Budget,Regular,93250.84
+Ooty,Hill Station,280.0,3,5,Bus,Standard,Standard,Off-season,44439.06
+Shimla,Hill Station,2600.0,6,8,Train,Budget,Budget,Off-season,165722.01
+Manali,Hill Station,2800.0,1,8,Bus,Standard,Budget,Regular,46820.55
+Munnar,Hill Station,430.0,2,5,Flight,Premium,Budget,Regular,42316.49
+Varanasi,Pilgrimage,1900.0,3,8,Train,Budget,Budget,Off-season,58177.02
+Agra,Culture,2100.0,6,8,Train,Budget,Standard,Regular,144899.27
+Munnar,Hill Station,430.0,1,5,Bus,Standard,Standard,Off-season,19880.94
+Hampi,Culture,600.0,4,4,Train,Standard,Standard,Peak,43864.47
+Pune,City,1050.0,5,3,Bus,Standard,Budget,Off-season,52888.01
+Hampi,Culture,600.0,4,8,Train,Standard,Standard,Regular,77725.3
+Coorg,Hill Station,390.0,6,5,Train,Standard,Budget,Peak,106231.19
+Delhi,City,2200.0,5,6,Bus,Standard,Budget,Regular,118857.51
+Jaipur,Culture,1900.0,4,1,Bus,Standard,Budget,Peak,40229.7
+Hyderabad,City,650.0,5,5,Train,Premium,Budget,Regular,106385.17
+Madurai,Culture,190.0,3,6,Train,Standard,Budget,Off-season,34431.7
+Mumbai,City,1250.0,6,1,Bus,Standard,Budget,Regular,36630.15
+Delhi,City,2200.0,1,8,Train,Standard,Budget,Off-season,38555.6
+Alleppey,Nature,520.0,3,2,Car,Budget,Standard,Peak,33331.85
+Wayanad,Nature,410.0,2,6,Car,Budget,Premium,Off-season,35964.72
+Ooty,Hill Station,280.0,5,5,Train,Standard,Budget,Off-season,60985.64
+Delhi,City,2200.0,2,5,Train,Budget,Premium,Regular,49489.32
+Wayanad,Nature,410.0,3,6,Train,Budget,Budget,Peak,55864.47
+Pondicherry,Beach,170.0,4,6,Car,Premium,Budget,Regular,74647.32
+Varanasi,Pilgrimage,1900.0,2,2,Bus,Standard,Standard,Regular,20355.8
+Mahabalipuram,Beach,260.0,6,2,Train,Standard,Premium,Peak,49608.57
+Pondicherry,Beach,170.0,6,4,Train,Budget,Budget,Regular,47840.29
+Hampi,Culture,600.0,6,8,Bus,Premium,Standard,Regular,139530.44
+Jaipur,Culture,1900.0,2,6,Bus,Premium,Budget,Regular,48942.31
+Agra,Culture,2100.0,4,6,Train,Standard,Budget,Regular,87310.52
+Tirupati,Pilgrimage,300.0,2,6,Bus,Budget,Standard,Off-season,18693.56
+Coorg,Hill Station,390.0,2,5,Bus,Standard,Premium,Regular,31356.68
+Goa,Beach,850.0,1,6,Train,Standard,Standard,Off-season,28920.61
+Kodaikanal,Hill Station,310.0,1,4,Bus,Budget,Premium,Off-season,13267.99
+Mysuru,Culture,330.0,4,1,Train,Standard,Budget,Off-season,10445.2
+Rishikesh,Adventure,2500.0,2,3,Bus,Budget,Budget,Off-season,22747.19
+Varanasi,Pilgrimage,1900.0,6,4,Flight,Premium,Budget,Regular,209684.08
+Thanjavur,Culture,80.0,1,6,Bus,Budget,Budget,Regular,12819.72
+Agra,Culture,2100.0,5,2,Flight,Standard,Budget,Peak,195779.77
+Shimla,Hill Station,2600.0,5,1,Train,Premium,Budget,Regular,69765.22
+Ooty,Hill Station,280.0,1,8,Train,Standard,Budget,Regular,26426.24
+Yercaud,Hill Station,180.0,4,1,Train,Standard,Standard,Regular,10774.83
+Jaipur,Culture,1900.0,1,5,Car,Standard,Premium,Peak,88610.33
+Coorg,Hill Station,390.0,4,8,Bus,Budget,Budget,Off-season,56234.88
+Delhi,City,2200.0,3,2,Car,Standard,Budget,Regular,72799.12
+Shimla,Hill Station,2600.0,4,1,Bus,Budget,Budget,Peak,48534.86
+Madurai,Culture,190.0,5,2,Car,Standard,Budget,Regular,22920.33
+Coorg,Hill Station,390.0,2,4,Bus,Standard,Budget,Off-season,18494.6
+Hyderabad,City,650.0,6,2,Bus,Budget,Premium,Regular,45458.82
+Madurai,Culture,190.0,5,3,Bus,Standard,Budget,Peak,38399.13
+Thanjavur,Culture,80.0,3,1,Train,Budget,Standard,Off-season,5127.43
+Tirupati,Pilgrimage,300.0,1,1,Bus,Standard,Budget,Off-season,2904.33
+Madurai,Culture,190.0,1,1,Bus,Budget,Budget,Regular,2375.04
+Kochi,Beach,520.0,2,2,Flight,Standard,Standard,Regular,22000.43
+Goa,Beach,850.0,5,2,Train,Budget,Budget,Regular,47503.26
+Kochi,Beach,520.0,1,3,Bus,Budget,Standard,Regular,11462.45
+Kodaikanal,Hill Station,310.0,1,2,Bus,Standard,Standard,Regular,8162.94
+Hyderabad,City,650.0,1,8,Car,Standard,Standard,Off-season,41754.94
+Kochi,Beach,520.0,2,4,Flight,Standard,Budget,Off-season,27340.65
+Rameswaram,Pilgrimage,420.0,3,5,Bus,Premium,Premium,Regular,57989.61
+Hyderabad,City,650.0,2,4,Train,Budget,Budget,Regular,23619.39
+Kodaikanal,Hill Station,310.0,6,4,Train,Standard,Standard,Peak,80230.27
+Yercaud,Hill Station,180.0,6,8,Bus,Premium,Budget,Off-season,93124.62
+Varkala,Beach,570.0,3,3,Bus,Standard,Premium,Regular,35239.89
+Pondicherry,Beach,170.0,3,6,Bus,Budget,Standard,Regular,39729.37
+Pune,City,1050.0,1,5,Car,Budget,Budget,Off-season,33273.77
+Ooty,Hill Station,280.0,2,2,Bus,Standard,Standard,Regular,10924.63
+Kochi,Beach,520.0,6,3,Bus,Standard,Standard,Regular,54831.56
+Jaipur,Culture,1900.0,5,3,Bus,Budget,Premium,Off-season,70382.43
+Agra,Culture,2100.0,1,2,Train,Budget,Budget,Peak,19658.09
+Madurai,Culture,190.0,6,1,Car,Premium,Standard,Off-season,16621.64
+Madurai,Culture,190.0,6,5,Flight,Budget,Budget,Off-season,55838.45
+Rameswaram,Pilgrimage,420.0,6,6,Car,Premium,Budget,Off-season,84405.69
+Ooty,Hill Station,280.0,3,6,Bus,Standard,Standard,Peak,66612.73
+Pune,City,1050.0,5,4,Bus,Standard,Budget,Regular,69020.49
+Varkala,Beach,570.0,4,5,Bus,Budget,Budget,Regular,43907.17
+Shimla,Hill Station,2600.0,1,1,Car,Budget,Standard,Regular,67083.7
+Mumbai,City,1250.0,3,5,Bus,Premium,Premium,Peak,125528.25
+Pondicherry,Beach,170.0,4,8,Bus,Budget,Standard,Regular,67768.63
+Tirupati,Pilgrimage,300.0,3,1,Train,Budget,Budget,Off-season,7228.18
+Munnar,Hill Station,430.0,6,2,Train,Standard,Budget,Peak,44011.63
+Chennai,City,350.0,5,5,Bus,Budget,Premium,Regular,77850.18
+Pondicherry,Beach,170.0,6,1,Car,Standard,Standard,Off-season,17328.31
+Ooty,Hill Station,280.0,5,7,Car,Standard,Budget,Regular,82085.25
+Pune,City,1050.0,3,5,Train,Budget,Standard,Regular,45566.57
+Hyderabad,City,650.0,3,8,Car,Standard,Standard,Regular,85142.34
+Wayanad,Nature,410.0,4,5,Car,Standard,Standard,Off-season,52071.26
+Manali,Hill Station,2800.0,6,7,Train,Budget,Standard,Regular,194170.65
+Chennai,City,350.0,3,4,Bus,Standard,Budget,Regular,40336.8
+Mumbai,City,1250.0,1,5,Train,Standard,Standard,Regular,35921.94
+Delhi,City,2200.0,5,1,Flight,Premium,Standard,Regular,155742.86
+Tirupati,Pilgrimage,300.0,1,5,Car,Standard,Standard,Off-season,19142.12
+Varanasi,Pilgrimage,1900.0,4,8,Bus,Budget,Standard,Regular,76954.73
+Mysuru,Culture,330.0,6,1,Train,Budget,Standard,Regular,21389.53
+Shimla,Hill Station,2600.0,4,7,Bus,Premium,Standard,Peak,164476.04
+Coorg,Hill Station,390.0,1,3,Train,Standard,Premium,Off-season,10994.09
+Hyderabad,City,650.0,6,6,Bus,Standard,Budget,Regular,94942.14
+Goa,Beach,850.0,4,8,Train,Standard,Standard,Regular,118125.1
+Alleppey,Nature,520.0,2,3,Car,Standard,Standard,Peak,35624.06
+Tirupati,Pilgrimage,300.0,2,7,Bus,Budget,Standard,Regular,26081.49
+Coorg,Hill Station,390.0,5,4,Car,Budget,Standard,Regular,57335.26
+Rameswaram,Pilgrimage,420.0,4,6,Car,Standard,Budget,Regular,53205.95
+Bengaluru,City,380.0,2,4,Bus,Standard,Budget,Off-season,23543.92
+Pune,City,1050.0,4,7,Car,Premium,Standard,Regular,125135.4
+Ooty,Hill Station,280.0,4,8,Car,Budget,Budget,Off-season,57989.65
+Mahabalipuram,Beach,260.0,2,2,Train,Budget,Standard,Peak,14753.46
+Jaipur,Culture,1900.0,5,4,Bus,Budget,Premium,Regular,88928.98
+Chennai,City,350.0,5,4,Car,Standard,Standard,Peak,89134.62
+Wayanad,Nature,410.0,4,2,Bus,Premium,Standard,Regular,27352.06
+Pondicherry,Beach,170.0,2,1,Car,Budget,Standard,Regular,8188.13
+Shimla,Hill Station,2600.0,1,1,Bus,Budget,Standard,Regular,11007.53
+Pune,City,1050.0,2,2,Car,Budget,Budget,Regular,36781.57
+Rishikesh,Adventure,2500.0,2,7,Bus,Budget,Premium,Off-season,41070.91
+Yercaud,Hill Station,180.0,6,8,Car,Standard,Budget,Regular,97892.53
+Chennai,City,350.0,1,8,Train,Budget,Standard,Regular,25911.57
+Bengaluru,City,380.0,6,7,Car,Budget,Standard,Regular,120493.59
+Kodaikanal,Hill Station,310.0,5,1,Train,Standard,Budget,Off-season,18770.79
+Pondicherry,Beach,170.0,3,8,Train,Budget,Budget,Regular,56492.48
+Varanasi,Pilgrimage,1900.0,4,2,Train,Budget,Budget,Off-season,34129.0
+Rishikesh,Adventure,2500.0,3,5,Train,Budget,Budget,Regular,66396.46
+Pune,City,1050.0,3,8,Car,Standard,Premium,Regular,106755.78
+Rishikesh,Adventure,2500.0,6,7,Train,Standard,Premium,Regular,188297.62
+Goa,Beach,850.0,4,6,Train,Standard,Standard,Peak,106039.86
+Mumbai,City,1250.0,4,6,Car,Premium,Premium,Regular,181766.63
+Wayanad,Nature,410.0,2,6,Bus,Standard,Standard,Regular,32031.06
+Tirupati,Pilgrimage,300.0,3,2,Car,Standard,Budget,Regular,20132.07
+Mumbai,City,1250.0,6,7,Bus,Budget,Standard,Regular,157100.98
+Thanjavur,Culture,80.0,4,4,Bus,Budget,Budget,Peak,29808.25
+Coorg,Hill Station,390.0,6,4,Bus,Budget,Budget,Regular,54445.97
+Thanjavur,Culture,80.0,2,3,Train,Standard,Premium,Peak,16917.52
+Agra,Culture,2100.0,5,4,Train,Standard,Budget,Regular,77915.5
+Varanasi,Pilgrimage,1900.0,4,1,Car,Premium,Budget,Regular,56642.79
+Pondicherry,Beach,170.0,6,5,Bus,Standard,Budget,Regular,64417.01
+Munnar,Hill Station,430.0,5,2,Train,Standard,Standard,Regular,39254.02
+Ooty,Hill Station,280.0,2,2,Bus,Budget,Budget,Off-season,8577.32
+Ooty,Hill Station,280.0,3,6,Train,Premium,Standard,Regular,70717.58
+Alleppey,Nature,520.0,4,2,Train,Budget,Standard,Regular,27125.39
+Kodaikanal,Hill Station,310.0,5,7,Car,Standard,Standard,Off-season,97267.1
+Bengaluru,City,380.0,4,3,Bus,Premium,Standard,Regular,60990.14
+Madurai,Culture,190.0,5,4,Train,Budget,Standard,Regular,38449.64
+Rishikesh,Adventure,2500.0,5,4,Train,Standard,Standard,Regular,105717.34
+Madurai,Culture,190.0,3,6,Train,Budget,Budget,Regular,33081.19
+Hampi,Culture,600.0,3,7,Train,Budget,Standard,Regular,50988.75
+Bengaluru,City,380.0,3,1,Train,Budget,Standard,Regular,12665.64
+Goa,Beach,850.0,2,3,Bus,Standard,Standard,Regular,23495.21
+Goa,Beach,850.0,1,1,Bus,Premium,Budget,Off-season,9039.1
+Coorg,Hill Station,390.0,1,7,Train,Premium,Standard,Regular,37332.1
+Mysuru,Culture,330.0,4,8,Car,Premium,Budget,Off-season,78452.06
+Kochi,Beach,520.0,4,6,Car,Standard,Budget,Regular,71380.18
+Varkala,Beach,570.0,4,2,Bus,Standard,Standard,Regular,28073.42
+Yercaud,Hill Station,180.0,5,4,Train,Standard,Standard,Regular,47577.25
+Alleppey,Nature,520.0,2,4,Bus,Budget,Standard,Regular,20778.66
+Varanasi,Pilgrimage,1900.0,3,4,Car,Budget,Premium,Off-season,78165.15
+Mahabalipuram,Beach,260.0,2,5,Car,Budget,Premium,Regular,29661.0
+Rameswaram,Pilgrimage,420.0,4,6,Train,Budget,Budget,Regular,51970.5
+Kodaikanal,Hill Station,310.0,5,1,Bus,Budget,Budget,Regular,13866.89
+Mahabalipuram,Beach,260.0,6,3,Bus,Premium,Budget,Regular,50852.38
+Mahabalipuram,Beach,260.0,4,8,Train,Budget,Standard,Peak,93452.81
+Manali,Hill Station,2800.0,1,1,Bus,Budget,Standard,Regular,10976.5
+Bengaluru,City,380.0,3,1,Train,Budget,Standard,Off-season,11086.97
+Jaipur,Culture,1900.0,1,8,Bus,Budget,Budget,Off-season,27734.97
+Varkala,Beach,570.0,5,4,Train,Budget,Standard,Regular,51850.24
+Ooty,Hill Station,280.0,3,2,Bus,Standard,Premium,Peak,26539.88
+Yercaud,Hill Station,180.0,4,4,Bus,Budget,Budget,Off-season,20136.44
+Mumbai,City,1250.0,3,6,Bus,Standard,Budget,Peak,118638.39
+Chennai,City,350.0,2,5,Bus,Standard,Budget,Off-season,23157.79
+Madurai,Culture,190.0,2,8,Car,Budget,Standard,Regular,31265.76
+Pondicherry,Beach,170.0,5,4,Bus,Standard,Budget,Off-season,39947.51
+Mysuru,Culture,330.0,6,6,Flight,Standard,Standard,Regular,104783.7
+Varanasi,Pilgrimage,1900.0,3,5,Bus,Standard,Standard,Off-season,47639.39
+Agra,Culture,2100.0,2,7,Bus,Standard,Standard,Regular,45232.69
+Mumbai,City,1250.0,5,8,Train,Budget,Budget,Regular,161471.25
+Yercaud,Hill Station,180.0,5,4,Train,Standard,Standard,Peak,59886.52
+Hampi,Culture,600.0,2,3,Flight,Budget,Standard,Peak,28279.44
+Rishikesh,Adventure,2500.0,1,4,Bus,Standard,Budget,Regular,20303.51
+Jaipur,Culture,1900.0,6,2,Bus,Standard,Budget,Off-season,58109.97
+Pune,City,1050.0,3,4,Train,Budget,Standard,Regular,45792.02
+Agra,Culture,2100.0,2,6,Bus,Standard,Premium,Regular,43938.92
+Coorg,Hill Station,390.0,1,6,Bus,Standard,Standard,Off-season,21224.44
+Pondicherry,Beach,170.0,2,3,Train,Standard,Standard,Peak,18528.14
+Jaipur,Culture,1900.0,4,4,Bus,Premium,Budget,Regular,85613.69
+Goa,Beach,850.0,4,8,Train,Budget,Standard,Regular,108999.56
+Chennai,City,350.0,5,3,Train,Standard,Budget,Regular,45789.0
+Madurai,Culture,190.0,4,7,Car,Budget,Premium,Off-season,58332.95
+Pune,City,1050.0,3,5,Car,Standard,Standard,Regular,72819.37
+Varanasi,Pilgrimage,1900.0,1,5,Bus,Standard,Standard,Regular,20354.97
+Agra,Culture,2100.0,3,1,Bus,Budget,Standard,Regular,25398.27
+Varkala,Beach,570.0,1,6,Train,Budget,Budget,Regular,19517.29
+Kochi,Beach,520.0,3,6,Bus,Premium,Budget,Regular,69437.98
+Jaipur,Culture,1900.0,4,5,Bus,Standard,Budget,Regular,61916.5
+Shimla,Hill Station,2600.0,1,8,Train,Standard,Premium,Regular,43178.01
+Mysuru,Culture,330.0,2,3,Car,Standard,Standard,Peak,26791.22
+Manali,Hill Station,2800.0,6,2,Bus,Standard,Standard,Peak,116389.81
+Shimla,Hill Station,2600.0,4,1,Bus,Budget,Standard,Off-season,31742.49
+Tirupati,Pilgrimage,300.0,4,5,Bus,Standard,Budget,Peak,45929.18
+Mumbai,City,1250.0,6,1,Bus,Standard,Budget,Regular,45491.06
+Wayanad,Nature,410.0,5,2,Bus,Budget,Budget,Regular,24592.4
+Pondicherry,Beach,170.0,1,4,Bus,Standard,Budget,Regular,13273.52
+Pondicherry,Beach,170.0,6,3,Bus,Budget,Budget,Off-season,31598.49
+Manali,Hill Station,2800.0,4,7,Train,Budget,Standard,Regular,119359.98
+Manali,Hill Station,2800.0,1,4,Car,Budget,Budget,Regular,102591.16
+Shimla,Hill Station,2600.0,4,6,Car,Standard,Standard,Regular,167167.11
+Mysuru,Culture,330.0,2,4,Bus,Budget,Standard,Regular,16336.89
+Mumbai,City,1250.0,1,2,Train,Standard,Budget,Off-season,12282.4
+Varkala,Beach,570.0,6,8,Flight,Premium,Budget,Peak,207976.7
+Madurai,Culture,190.0,5,5,Train,Standard,Standard,Regular,51937.6
+Shimla,Hill Station,2600.0,6,1,Bus,Budget,Standard,Regular,65449.29
+Mahabalipuram,Beach,260.0,6,1,Bus,Standard,Budget,Peak,22535.6
+Wayanad,Nature,410.0,6,8,Flight,Standard,Budget,Off-season,109733.43
+Mahabalipuram,Beach,260.0,5,5,Car,Budget,Standard,Regular,65771.88
+Madurai,Culture,190.0,5,7,Train,Premium,Budget,Off-season,81874.16
+Kochi,Beach,520.0,3,5,Bus,Premium,Standard,Regular,67331.08
+Mahabalipuram,Beach,260.0,2,7,Bus,Standard,Premium,Regular,47352.19
+Pune,City,1050.0,5,4,Car,Standard,Standard,Off-season,75405.68
+Alleppey,Nature,520.0,4,3,Car,Standard,Premium,Off-season,47141.82
+Kodaikanal,Hill Station,310.0,2,1,Train,Standard,Budget,Off-season,6139.15
+Varanasi,Pilgrimage,1900.0,4,5,Bus,Budget,Standard,Off-season,48335.09
+Pune,City,1050.0,3,8,Car,Premium,Standard,Peak,151272.17
+Tirupati,Pilgrimage,300.0,1,6,Bus,Premium,Standard,Peak,32420.93
+Agra,Culture,2100.0,5,4,Car,Budget,Standard,Regular,111577.59
+Tirupati,Pilgrimage,300.0,5,5,Train,Standard,Budget,Regular,55935.2
+Munnar,Hill Station,430.0,6,1,Train,Budget,Standard,Off-season,24595.6
+Shimla,Hill Station,2600.0,2,6,Bus,Standard,Budget,Off-season,49100.44
+Alleppey,Nature,520.0,1,7,Car,Budget,Budget,Regular,30203.69
+Goa,Beach,850.0,2,1,Train,Standard,Budget,Regular,14166.01
+Rishikesh,Adventure,2500.0,3,7,Bus,Standard,Standard,Regular,82893.43
+Jaipur,Culture,1900.0,2,7,Train,Premium,Budget,Peak,80728.38
+Kochi,Beach,520.0,3,3,Bus,Standard,Budget,Regular,29620.32
+Hampi,Culture,600.0,1,3,Train,Budget,Budget,Regular,10981.32
+Ooty,Hill Station,280.0,3,5,Bus,Budget,Budget,Off-season,30582.78
+Hampi,Culture,600.0,2,7,Car,Budget,Standard,Regular,43668.91
+Wayanad,Nature,410.0,3,2,Bus,Budget,Budget,Regular,16049.56
+Manali,Hill Station,2800.0,6,5,Train,Budget,Standard,Regular,161205.99
+Munnar,Hill Station,430.0,1,7,Flight,Standard,Standard,Regular,29371.68
+Manali,Hill Station,2800.0,1,6,Bus,Standard,Standard,Regular,36944.29
+Jaipur,Culture,1900.0,2,8,Bus,Budget,Budget,Regular,39312.1
+Alleppey,Nature,520.0,2,1,Bus,Standard,Budget,Regular,7153.88
+Wayanad,Nature,410.0,3,5,Bus,Standard,Premium,Regular,50484.43
+Alleppey,Nature,520.0,5,6,Car,Budget,Standard,Off-season,80357.19
+Rameswaram,Pilgrimage,420.0,5,5,Train,Standard,Premium,Off-season,64738.61
+Ooty,Hill Station,280.0,3,8,Train,Standard,Standard,Off-season,61787.86
+Kochi,Beach,520.0,5,5,Train,Budget,Budget,Regular,74036.96
+Bengaluru,City,380.0,5,1,Train,Standard,Premium,Off-season,26902.85
+Thanjavur,Culture,80.0,2,3,Train,Budget,Standard,Off-season,9661.33
+Goa,Beach,850.0,3,8,Car,Standard,Standard,Regular,110001.01
+Varanasi,Pilgrimage,1900.0,6,2,Train,Standard,Budget,Regular,61380.5
+Varkala,Beach,570.0,4,1,Train,Standard,Budget,Regular,19089.51
+Yercaud,Hill Station,180.0,2,1,Flight,Standard,Budget,Regular,6388.99
+Mahabalipuram,Beach,260.0,2,2,Bus,Budget,Standard,Off-season,9898.04
+Shimla,Hill Station,2600.0,3,3,Car,Standard,Standard,Off-season,94364.57
+Agra,Culture,2100.0,6,8,Bus,Standard,Budget,Regular,139755.88
+Rameswaram,Pilgrimage,420.0,2,1,Train,Standard,Budget,Peak,8447.08
+Shimla,Hill Station,2600.0,3,4,Bus,Standard,Budget,Regular,59951.33
+Mumbai,City,1250.0,5,6,Car,Standard,Premium,Regular,179824.77
+Yercaud,Hill Station,180.0,4,4,Train,Premium,Budget,Regular,35205.88
+Wayanad,Nature,410.0,1,2,Bus,Premium,Standard,Off-season,8957.79
+Ooty,Hill Station,280.0,3,4,Car,Premium,Standard,Regular,47029.24
+Delhi,City,2200.0,6,7,Bus,Budget,Premium,Peak,234445.26
+Yercaud,Hill Station,180.0,5,6,Bus,Budget,Budget,Regular,46911.48
+Kochi,Beach,520.0,4,5,Bus,Premium,Standard,Peak,80993.05
+Agra,Culture,2100.0,4,3,Bus,Budget,Budget,Regular,49425.78
+Mumbai,City,1250.0,4,3,Bus,Standard,Budget,Regular,57966.26
+Pondicherry,Beach,170.0,2,8,Bus,Budget,Standard,Off-season,30780.98
+Mahabalipuram,Beach,260.0,4,8,Car,Budget,Budget,Regular,63648.67
+Goa,Beach,850.0,5,4,Bus,Budget,Premium,Peak,104895.02
+Munnar,Hill Station,430.0,6,5,Bus,Standard,Premium,Regular,114036.76
+Hyderabad,City,650.0,4,1,Car,Budget,Premium,Regular,31009.92
+Mysuru,Culture,330.0,3,3,Bus,Budget,Standard,Off-season,15576.1
+Mysuru,Culture,330.0,1,6,Car,Premium,Budget,Regular,36693.05
+Yercaud,Hill Station,180.0,5,8,Bus,Budget,Standard,Peak,92499.67
+Ooty,Hill Station,280.0,3,6,Train,Standard,Budget,Regular,50530.65
+Rameswaram,Pilgrimage,420.0,2,4,Train,Standard,Premium,Regular,19407.0
+Alleppey,Nature,520.0,3,3,Bus,Budget,Standard,Off-season,25087.47
+Coorg,Hill Station,390.0,2,5,Car,Standard,Budget,Regular,34488.61
+Kodaikanal,Hill Station,310.0,4,3,Train,Standard,Budget,Regular,33127.41
+Coorg,Hill Station,390.0,5,3,Car,Budget,Standard,Regular,44295.51
+Mysuru,Culture,330.0,6,1,Bus,Premium,Standard,Regular,20600.31
+Chennai,City,350.0,3,2,Train,Budget,Budget,Regular,18208.95
+Goa,Beach,850.0,1,2,Train,Standard,Standard,Off-season,10900.55
+Kodaikanal,Hill Station,310.0,2,5,Bus,Standard,Premium,Regular,28451.8
+Delhi,City,2200.0,6,4,Car,Standard,Standard,Peak,172985.26
+Kodaikanal,Hill Station,310.0,1,4,Bus,Standard,Standard,Off-season,13336.11
+Kodaikanal,Hill Station,310.0,4,3,Bus,Budget,Budget,Off-season,21309.26
+Bengaluru,City,380.0,3,1,Bus,Standard,Budget,Peak,17014.54
+Mahabalipuram,Beach,260.0,4,4,Car,Budget,Standard,Off-season,35947.15
+Tirupati,Pilgrimage,300.0,3,4,Bus,Budget,Premium,Regular,31817.1
+Tirupati,Pilgrimage,300.0,2,4,Car,Standard,Standard,Off-season,19835.02
+Kochi,Beach,520.0,2,4,Car,Standard,Budget,Regular,34780.88
+Mysuru,Culture,330.0,4,2,Train,Standard,Premium,Regular,26067.54
+Varkala,Beach,570.0,2,2,Train,Standard,Standard,Regular,14629.75
+Kochi,Beach,520.0,4,4,Bus,Budget,Budget,Regular,40444.32
+Shimla,Hill Station,2600.0,5,8,Train,Budget,Standard,Regular,182288.0
+Manali,Hill Station,2800.0,5,8,Bus,Budget,Budget,Peak,190736.78
+Yercaud,Hill Station,180.0,4,3,Train,Budget,Budget,Off-season,17845.25
+Mysuru,Culture,330.0,1,6,Bus,Standard,Standard,Off-season,16763.93
+Varanasi,Pilgrimage,1900.0,1,8,Train,Standard,Budget,Regular,30276.28
+Munnar,Hill Station,430.0,6,3,Car,Standard,Budget,Regular,48978.19
+Madurai,Culture,190.0,2,4,Train,Budget,Budget,Regular,12798.26
+Shimla,Hill Station,2600.0,4,3,Bus,Standard,Budget,Regular,65573.68
+Goa,Beach,850.0,6,5,Train,Budget,Standard,Peak,122856.9
+Munnar,Hill Station,430.0,5,7,Flight,Budget,Budget,Regular,101945.52
+Bengaluru,City,380.0,5,6,Train,Budget,Standard,Peak,114385.76
+Shimla,Hill Station,2600.0,3,6,Bus,Premium,Standard,Regular,111933.25
+Madurai,Culture,190.0,4,1,Train,Budget,Budget,Regular,8903.63
+Wayanad,Nature,410.0,6,7,Car,Standard,Standard,Peak,134014.99
+Thanjavur,Culture,80.0,6,4,Bus,Budget,Premium,Regular,45367.98
+Mumbai,City,1250.0,2,6,Train,Budget,Standard,Regular,47533.57
+Kochi,Beach,520.0,2,3,Train,Budget,Budget,Regular,16530.79
+Varkala,Beach,570.0,2,4,Bus,Standard,Premium,Regular,28171.61
+Mumbai,City,1250.0,1,5,Car,Standard,Standard,Off-season,46371.17
+Delhi,City,2200.0,2,8,Bus,Budget,Standard,Off-season,47183.0
+Tirupati,Pilgrimage,300.0,5,6,Bus,Budget,Standard,Off-season,49057.91
+Chennai,City,350.0,1,1,Bus,Budget,Standard,Regular,4140.72
+Bengaluru,City,380.0,2,3,Car,Standard,Budget,Regular,23453.05
+Varanasi,Pilgrimage,1900.0,5,3,Car,Budget,Budget,Off-season,74231.81
+Wayanad,Nature,410.0,2,3,Train,Budget,Premium,Off-season,16689.96
+Chennai,City,350.0,6,3,Bus,Standard,Budget,Off-season,48795.4
+Shimla,Hill Station,2600.0,6,3,Train,Budget,Standard,Regular,107494.62
+Hampi,Culture,600.0,1,6,Car,Standard,Standard,Regular,34425.21
+Hyderabad,City,650.0,4,5,Bus,Standard,Budget,Regular,58905.33
+Varanasi,Pilgrimage,1900.0,3,4,Train,Premium,Standard,Peak,77239.08
+Delhi,City,2200.0,2,6,Train,Budget,Budget,Regular,45694.03
+Munnar,Hill Station,430.0,1,7,Bus,Standard,Standard,Off-season,25520.07
+Mumbai,City,1250.0,5,2,Car,Standard,Budget,Off-season,68412.7
+Goa,Beach,850.0,3,4,Flight,Budget,Standard,Off-season,69258.03
+Rameswaram,Pilgrimage,420.0,5,2,Train,Standard,Budget,Peak,33872.26
+Kodaikanal,Hill Station,310.0,4,6,Train,Budget,Budget,Off-season,42250.43
+Goa,Beach,850.0,3,2,Car,Standard,Standard,Regular,46559.33
+Rameswaram,Pilgrimage,420.0,4,4,Bus,Standard,Standard,Peak,48408.34
+Madurai,Culture,190.0,3,4,Bus,Budget,Standard,Off-season,20401.34
+Hyderabad,City,650.0,3,3,Car,Budget,Standard,Regular,38783.12
+Kodaikanal,Hill Station,310.0,5,3,Bus,Standard,Budget,Regular,31727.14
+Ooty,Hill Station,280.0,4,1,Train,Standard,Standard,Regular,14866.35
+Manali,Hill Station,2800.0,5,1,Train,Standard,Standard,Off-season,69203.88
+Jaipur,Culture,1900.0,4,6,Bus,Standard,Standard,Peak,106785.24
+Mumbai,City,1250.0,1,8,Train,Standard,Budget,Regular,42375.4
+Goa,Beach,850.0,2,1,Train,Standard,Budget,Regular,11497.11
+Mysuru,Culture,330.0,5,8,Flight,Budget,Budget,Off-season,75569.31
+Chennai,City,350.0,6,8,Bus,Budget,Budget,Peak,126526.57
+Varkala,Beach,570.0,1,5,Bus,Premium,Budget,Peak,30070.07
+Varanasi,Pilgrimage,1900.0,3,5,Bus,Standard,Budget,Regular,52234.99
+Alleppey,Nature,520.0,1,1,Bus,Budget,Standard,Regular,4200.32
+Tirupati,Pilgrimage,300.0,6,4,Bus,Budget,Standard,Regular,39259.69
+Hampi,Culture,600.0,2,6,Bus,Budget,Standard,Regular,26072.75
+Hampi,Culture,600.0,1,6,Bus,Budget,Budget,Regular,14719.49
+Pondicherry,Beach,170.0,3,6,Bus,Budget,Standard,Off-season,35337.23
+Thanjavur,Culture,80.0,1,6,Car,Standard,Standard,Regular,18364.92
+Varkala,Beach,570.0,1,6,Car,Premium,Standard,Regular,42987.17
+Mahabalipuram,Beach,260.0,4,8,Bus,Budget,Standard,Off-season,64701.27
+Rameswaram,Pilgrimage,420.0,6,1,Car,Budget,Budget,Regular,19174.76
+Coorg,Hill Station,390.0,6,7,Bus,Budget,Budget,Off-season,79423.64
+Wayanad,Nature,410.0,1,1,Bus,Standard,Budget,Off-season,4340.66
+Varanasi,Pilgrimage,1900.0,3,8,Bus,Budget,Budget,Peak,74798.02
+Coorg,Hill Station,390.0,2,4,Bus,Standard,Standard,Off-season,22507.62
+Shimla,Hill Station,2600.0,3,6,Bus,Budget,Budget,Regular,66099.54
+Goa,Beach,850.0,6,6,Train,Budget,Budget,Peak,160143.46
+Agra,Culture,2100.0,1,4,Car,Standard,Premium,Regular,63767.19
+Rameswaram,Pilgrimage,420.0,5,4,Bus,Standard,Standard,Off-season,42898.18
+Mumbai,City,1250.0,3,3,Bus,Standard,Premium,Regular,52246.79
+Kodaikanal,Hill Station,310.0,4,8,Car,Standard,Budget,Regular,83306.48
+Wayanad,Nature,410.0,5,6,Train,Premium,Budget,Peak,128513.01
+Pondicherry,Beach,170.0,6,2,Bus,Standard,Standard,Regular,26427.96
+Rishikesh,Adventure,2500.0,2,6,Car,Standard,Standard,Regular,87333.04
+Hyderabad,City,650.0,4,2,Bus,Budget,Standard,Regular,26008.3
+Varkala,Beach,570.0,3,2,Train,Premium,Budget,Off-season,25375.3
+Ooty,Hill Station,280.0,3,4,Bus,Budget,Standard,Regular,31456.74
+Goa,Beach,850.0,1,1,Bus,Budget,Budget,Regular,5636.38
+Wayanad,Nature,410.0,3,1,Bus,Budget,Standard,Peak,11882.07
+Coorg,Hill Station,390.0,3,5,Car,Budget,Budget,Regular,45163.27
+Rishikesh,Adventure,2500.0,2,6,Train,Standard,Budget,Regular,45842.62
+Delhi,City,2200.0,6,6,Bus,Budget,Standard,Regular,139987.24
+Jaipur,Culture,1900.0,5,2,Car,Standard,Standard,Regular,82163.01
+Madurai,Culture,190.0,6,6,Bus,Budget,Standard,Regular,58927.68
+Jaipur,Culture,1900.0,6,2,Car,Premium,Premium,Regular,111492.73
+Kodaikanal,Hill Station,310.0,5,1,Bus,Premium,Budget,Regular,20528.98
+Thanjavur,Culture,80.0,4,6,Bus,Standard,Budget,Peak,51424.19
+Pune,City,1050.0,5,8,Bus,Budget,Standard,Off-season,111166.47
+Varanasi,Pilgrimage,1900.0,3,4,Car,Standard,Budget,Peak,81675.45
+Munnar,Hill Station,430.0,3,5,Bus,Budget,Standard,Off-season,36601.64
+Mysuru,Culture,330.0,2,2,Bus,Budget,Standard,Regular,8488.88
+Coorg,Hill Station,390.0,1,7,Car,Budget,Standard,Regular,28971.47
+Mahabalipuram,Beach,260.0,5,6,Train,Budget,Premium,Off-season,93258.08
+Tirupati,Pilgrimage,300.0,3,8,Car,Budget,Premium,Regular,59620.23
+Kochi,Beach,520.0,2,7,Car,Standard,Budget,Regular,47194.78
+Thanjavur,Culture,80.0,3,3,Bus,Standard,Budget,Peak,21244.93
+Shimla,Hill Station,2600.0,1,2,Car,Standard,Standard,Peak,91341.97
+Rameswaram,Pilgrimage,420.0,5,4,Train,Budget,Budget,Regular,47476.08
+Chennai,City,350.0,6,2,Car,Standard,Budget,Regular,40932.18
+Coorg,Hill Station,390.0,1,6,Bus,Budget,Standard,Off-season,18753.47
+Manali,Hill Station,2800.0,1,7,Bus,Standard,Budget,Regular,39167.91
+Delhi,City,2200.0,6,7,Train,Budget,Budget,Regular,167987.85
+Mahabalipuram,Beach,260.0,4,8,Bus,Budget,Budget,Regular,63933.31
+Rameswaram,Pilgrimage,420.0,6,7,Bus,Budget,Standard,Regular,80572.35
+Alleppey,Nature,520.0,6,2,Bus,Standard,Budget,Peak,47410.5
+Mahabalipuram,Beach,260.0,1,5,Bus,Standard,Budget,Regular,16332.8
+Rameswaram,Pilgrimage,420.0,3,4,Car,Standard,Budget,Regular,36531.4
+Shimla,Hill Station,2600.0,2,3,Flight,Budget,Budget,Off-season,75431.21
+Munnar,Hill Station,430.0,4,4,Bus,Budget,Standard,Regular,43658.07
+Wayanad,Nature,410.0,2,2,Flight,Standard,Budget,Peak,22084.26
+Pondicherry,Beach,170.0,6,3,Car,Standard,Budget,Regular,37758.09
+Rishikesh,Adventure,2500.0,1,1,Train,Standard,Standard,Regular,14695.7
+Hampi,Culture,600.0,1,8,Train,Standard,Standard,Regular,23430.29
+Thanjavur,Culture,80.0,3,5,Train,Premium,Budget,Regular,36438.45
+Pondicherry,Beach,170.0,2,2,Car,Budget,Budget,Off-season,9587.09
+Rishikesh,Adventure,2500.0,2,5,Bus,Budget,Premium,Off-season,38698.38
+Agra,Culture,2100.0,5,5,Car,Budget,Budget,Peak,129988.83
+Mahabalipuram,Beach,260.0,6,6,Train,Budget,Budget,Regular,84430.42
+Rishikesh,Adventure,2500.0,3,8,Train,Budget,Standard,Regular,95234.95
+Delhi,City,2200.0,5,3,Bus,Standard,Standard,Peak,106311.3
+Jaipur,Culture,1900.0,2,5,Train,Standard,Budget,Peak,49775.81
+Varkala,Beach,570.0,4,4,Bus,Standard,Standard,Regular,48413.32
+Goa,Beach,850.0,3,6,Bus,Standard,Standard,Off-season,73540.42
+Yercaud,Hill Station,180.0,6,8,Bus,Budget,Budget,Regular,60694.31
+Delhi,City,2200.0,6,1,Train,Standard,Standard,Off-season,67194.91
+Rameswaram,Pilgrimage,420.0,3,6,Train,Budget,Budget,Regular,36566.86
+Pondicherry,Beach,170.0,1,6,Bus,Standard,Budget,Regular,19227.72
+Kodaikanal,Hill Station,310.0,3,3,Bus,Standard,Budget,Regular,24111.05
+Delhi,City,2200.0,6,8,Train,Standard,Budget,Regular,199351.88
+Shimla,Hill Station,2600.0,6,7,Bus,Standard,Budget,Off-season,147488.35
+Varanasi,Pilgrimage,1900.0,1,2,Bus,Standard,Budget,Peak,14151.41
+Manali,Hill Station,2800.0,5,8,Car,Budget,Standard,Regular,212630.06
+Delhi,City,2200.0,4,2,Train,Standard,Budget,Peak,77777.94
+Mumbai,City,1250.0,2,6,Train,Budget,Budget,Off-season,39970.61
+Jaipur,Culture,1900.0,1,8,Train,Budget,Standard,Peak,48692.49
+Pondicherry,Beach,170.0,1,5,Car,Budget,Standard,Off-season,14552.8
+Wayanad,Nature,410.0,6,7,Train,Budget,Premium,Peak,151079.5
+Delhi,City,2200.0,4,5,Train,Premium,Standard,Off-season,107601.58
+Varanasi,Pilgrimage,1900.0,4,7,Flight,Budget,Budget,Regular,128958.39
+Thanjavur,Culture,80.0,1,6,Car,Premium,Standard,Regular,23396.63
+Alleppey,Nature,520.0,2,3,Bus,Premium,Standard,Peak,27105.35
+Kochi,Beach,520.0,6,8,Train,Premium,Budget,Regular,161675.92
+Delhi,City,2200.0,6,7,Car,Standard,Budget,Off-season,157776.05
+Mysuru,Culture,330.0,6,1,Bus,Budget,Standard,Regular,17591.42
+Tirupati,Pilgrimage,300.0,2,5,Bus,Standard,Budget,Off-season,18991.18
+Rameswaram,Pilgrimage,420.0,6,3,Car,Standard,Budget,Regular,37892.18
+Rishikesh,Adventure,2500.0,4,3,Car,Standard,Premium,Off-season,96838.65
+Thanjavur,Culture,80.0,2,3,Train,Standard,Standard,Off-season,11254.01
+Kodaikanal,Hill Station,310.0,6,8,Train,Standard,Budget,Regular,109417.42
+Tirupati,Pilgrimage,300.0,5,7,Train,Standard,Standard,Off-season,62328.43
+Pune,City,1050.0,6,7,Train,Standard,Premium,Regular,157574.27
+Alleppey,Nature,520.0,3,7,Car,Standard,Standard,Regular,76375.15
+Delhi,City,2200.0,5,7,Bus,Standard,Standard,Off-season,130936.05
+Varkala,Beach,570.0,5,4,Car,Budget,Budget,Regular,55984.02
+Varkala,Beach,570.0,4,6,Car,Standard,Budget,Regular,71611.49
+Kochi,Beach,520.0,5,6,Train,Standard,Standard,Regular,111714.67
+Rameswaram,Pilgrimage,420.0,3,6,Train,Budget,Premium,Regular,50180.29
+Yercaud,Hill Station,180.0,2,3,Bus,Budget,Standard,Regular,10889.63
+Bengaluru,City,380.0,5,8,Bus,Budget,Standard,Peak,134439.35
+Munnar,Hill Station,430.0,1,8,Bus,Standard,Standard,Regular,33790.11
+Rameswaram,Pilgrimage,420.0,6,3,Train,Budget,Standard,Regular,39340.25
+Jaipur,Culture,1900.0,2,3,Train,Budget,Budget,Regular,27942.7
+Pune,City,1050.0,4,1,Bus,Budget,Standard,Regular,22353.15
+Ooty,Hill Station,280.0,5,8,Bus,Budget,Standard,Peak,107319.51
+Madurai,Culture,190.0,3,1,Bus,Budget,Standard,Off-season,6942.62
+Mumbai,City,1250.0,4,3,Car,Budget,Standard,Off-season,76217.07
+Varkala,Beach,570.0,3,5,Bus,Standard,Budget,Off-season,37739.43
+Pune,City,1050.0,3,3,Train,Standard,Budget,Off-season,37209.88
+Alleppey,Nature,520.0,4,1,Train,Budget,Budget,Regular,15509.01
+Alleppey,Nature,520.0,5,7,Bus,Standard,Budget,Regular,98154.53
+Alleppey,Nature,520.0,2,5,Bus,Standard,Standard,Peak,33809.22
+Munnar,Hill Station,430.0,6,6,Bus,Budget,Budget,Regular,77527.2
+Rameswaram,Pilgrimage,420.0,4,4,Train,Standard,Standard,Regular,37094.73
+Bengaluru,City,380.0,5,8,Bus,Budget,Standard,Regular,124174.64
+Kodaikanal,Hill Station,310.0,6,3,Train,Standard,Budget,Regular,44697.1
+Pune,City,1050.0,4,1,Train,Budget,Budget,Off-season,19761.62
+Yercaud,Hill Station,180.0,1,3,Train,Budget,Standard,Regular,6757.07
+Delhi,City,2200.0,5,3,Bus,Standard,Premium,Peak,107997.8
+Bengaluru,City,380.0,5,7,Bus,Budget,Standard,Regular,109437.65
+Rameswaram,Pilgrimage,420.0,5,5,Train,Budget,Budget,Regular,53408.77
+Chennai,City,350.0,6,4,Bus,Standard,Premium,Peak,112153.89
+Yercaud,Hill Station,180.0,3,7,Car,Standard,Standard,Regular,50774.95
+Jaipur,Culture,1900.0,4,1,Train,Standard,Standard,Regular,47704.11
+Bengaluru,City,380.0,5,8,Bus,Standard,Budget,Off-season,110039.35
+Shimla,Hill Station,2600.0,3,7,Car,Premium,Premium,Peak,230545.65
+Agra,Culture,2100.0,6,2,Car,Budget,Budget,Peak,102086.57
+Mumbai,City,1250.0,3,3,Train,Budget,Budget,Peak,56076.85
+Hyderabad,City,650.0,6,2,Bus,Budget,Standard,Off-season,35982.71
+Madurai,Culture,190.0,5,8,Train,Budget,Budget,Off-season,59861.58
+Hyderabad,City,650.0,4,6,Train,Standard,Budget,Off-season,68154.22
+Mysuru,Culture,330.0,6,2,Train,Standard,Premium,Regular,40605.14
+Madurai,Culture,190.0,1,8,Bus,Premium,Standard,Off-season,25436.17
+Mysuru,Culture,330.0,4,2,Car,Budget,Budget,Off-season,19339.54
+Munnar,Hill Station,430.0,4,6,Bus,Budget,Standard,Off-season,55249.68
+Delhi,City,2200.0,1,5,Bus,Budget,Standard,Regular,27132.24
+Mumbai,City,1250.0,3,1,Bus,Budget,Standard,Regular,22443.77
+Shimla,Hill Station,2600.0,5,3,Bus,Standard,Standard,Off-season,74903.92
+Rishikesh,Adventure,2500.0,2,5,Car,Budget,Premium,Peak,111957.24
+Mumbai,City,1250.0,1,3,Train,Budget,Budget,Regular,19151.67
+Goa,Beach,850.0,3,1,Bus,Budget,Standard,Off-season,15016.98
+Rishikesh,Adventure,2500.0,4,3,Train,Budget,Budget,Regular,63535.67
+Hampi,Culture,600.0,4,1,Bus,Standard,Standard,Regular,14209.1
+Munnar,Hill Station,430.0,6,2,Flight,Budget,Budget,Regular,49202.89
+Rishikesh,Adventure,2500.0,1,7,Train,Standard,Standard,Regular,38813.68
+Yercaud,Hill Station,180.0,5,8,Train,Standard,Standard,Regular,82891.78
+Mumbai,City,1250.0,3,2,Train,Budget,Budget,Peak,40580.67
+Yercaud,Hill Station,180.0,1,5,Bus,Standard,Premium,Regular,13804.32
+Rishikesh,Adventure,2500.0,3,8,Train,Premium,Standard,Regular,121238.82
+Chennai,City,350.0,5,4,Flight,Standard,Budget,Regular,76943.76
+Ooty,Hill Station,280.0,1,8,Car,Standard,Budget,Regular,38295.38
+Varkala,Beach,570.0,1,3,Train,Standard,Standard,Off-season,12207.97
+Goa,Beach,850.0,3,7,Bus,Standard,Budget,Regular,94261.97
+Kodaikanal,Hill Station,310.0,1,5,Train,Standard,Budget,Off-season,14238.0
+Bengaluru,City,380.0,3,1,Bus,Standard,Budget,Regular,12897.79
+Madurai,Culture,190.0,4,5,Bus,Budget,Standard,Regular,32403.1
+Goa,Beach,850.0,3,4,Bus,Standard,Budget,Regular,41203.79
+Hyderabad,City,650.0,6,4,Bus,Standard,Standard,Peak,83861.12
+Hampi,Culture,600.0,5,7,Bus,Budget,Standard,Regular,83517.05
+Mahabalipuram,Beach,260.0,3,5,Train,Budget,Budget,Regular,36597.37
+Varkala,Beach,570.0,1,3,Flight,Standard,Budget,Peak,19527.24
+Hampi,Culture,600.0,3,4,Bus,Premium,Premium,Regular,54602.21
+Hampi,Culture,600.0,3,6,Car,Budget,Budget,Regular,49220.87
+Rameswaram,Pilgrimage,420.0,3,7,Bus,Standard,Budget,Off-season,47964.06
+Yercaud,Hill Station,180.0,2,5,Bus,Budget,Standard,Off-season,16075.41
+Jaipur,Culture,1900.0,2,6,Bus,Standard,Budget,Regular,44452.19
+Tirupati,Pilgrimage,300.0,6,2,Train,Premium,Budget,Peak,48362.59
+Goa,Beach,850.0,6,8,Car,Premium,Budget,Regular,213128.52
+Hampi,Culture,600.0,4,7,Flight,Budget,Standard,Regular,73335.3
+Madurai,Culture,190.0,3,6,Bus,Standard,Standard,Regular,35558.14
+Mumbai,City,1250.0,1,3,Flight,Budget,Standard,Regular,26849.68
+Mumbai,City,1250.0,3,6,Train,Standard,Budget,Regular,98139.89
+Madurai,Culture,190.0,1,5,Bus,Standard,Standard,Regular,13183.22
+Jaipur,Culture,1900.0,2,5,Train,Standard,Budget,Regular,35601.25
+Hyderabad,City,650.0,1,5,Car,Premium,Premium,Regular,46218.25
+Shimla,Hill Station,2600.0,6,6,Flight,Standard,Standard,Regular,291580.83
+Delhi,City,2200.0,6,1,Train,Budget,Standard,Regular,65713.63
+Rishikesh,Adventure,2500.0,1,5,Train,Budget,Standard,Regular,25526.92
+Hampi,Culture,600.0,6,8,Train,Budget,Standard,Regular,97463.59
+Chennai,City,350.0,2,1,Flight,Standard,Budget,Off-season,11569.49
+Manali,Hill Station,2800.0,6,3,Train,Standard,Premium,Regular,141382.68
+Madurai,Culture,190.0,4,2,Car,Budget,Budget,Peak,20210.61
+Mysuru,Culture,330.0,1,5,Bus,Budget,Standard,Regular,13682.5
+Delhi,City,2200.0,3,2,Train,Standard,Budget,Off-season,41708.06
+Yercaud,Hill Station,180.0,4,2,Train,Premium,Budget,Regular,23035.09
+Pondicherry,Beach,170.0,3,1,Car,Budget,Premium,Regular,12788.37
+Yercaud,Hill Station,180.0,3,3,Car,Standard,Budget,Regular,22880.06
+Mahabalipuram,Beach,260.0,3,7,Bus,Budget,Budget,Regular,51196.03
+Wayanad,Nature,410.0,1,8,Train,Budget,Premium,Regular,27636.62
+Mysuru,Culture,330.0,1,5,Bus,Standard,Standard,Regular,17227.64
+Delhi,City,2200.0,6,7,Bus,Budget,Standard,Regular,142572.15
+Pune,City,1050.0,3,7,Bus,Budget,Standard,Regular,61986.73
+Tirupati,Pilgrimage,300.0,5,6,Train,Standard,Standard,Off-season,69526.52
+Kochi,Beach,520.0,2,6,Bus,Standard,Standard,Off-season,27702.33
+Delhi,City,2200.0,6,7,Bus,Standard,Premium,Regular,211314.88
+Mumbai,City,1250.0,1,1,Car,Budget,Budget,Regular,33953.08
+Yercaud,Hill Station,180.0,3,8,Train,Premium,Premium,Regular,76064.03
+Alleppey,Nature,520.0,3,1,Flight,Budget,Standard,Peak,32363.82
+Thanjavur,Culture,80.0,6,1,Train,Standard,Budget,Regular,11748.91
+Ooty,Hill Station,280.0,1,3,Train,Premium,Standard,Off-season,15083.59
+Rameswaram,Pilgrimage,420.0,1,6,Train,Standard,Budget,Off-season,15696.81
+Jaipur,Culture,1900.0,2,2,Train,Standard,Standard,Off-season,23623.49
+Kodaikanal,Hill Station,310.0,6,2,Bus,Budget,Budget,Peak,34686.34
+Hyderabad,City,650.0,2,1,Train,Budget,Budget,Peak,11272.66
+Varanasi,Pilgrimage,1900.0,1,5,Bus,Budget,Standard,Regular,17081.71
+Hyderabad,City,650.0,2,8,Bus,Premium,Standard,Regular,60539.26
+Hampi,Culture,600.0,1,1,Train,Budget,Standard,Off-season,3861.63
+Goa,Beach,850.0,6,1,Bus,Budget,Standard,Off-season,28923.7
+Agra,Culture,2100.0,2,2,Bus,Budget,Premium,Regular,23666.79
+Hyderabad,City,650.0,5,5,Train,Standard,Premium,Regular,101075.89
+Alleppey,Nature,520.0,4,3,Train,Standard,Standard,Regular,35631.41
+Delhi,City,2200.0,1,8,Car,Standard,Standard,Off-season,90905.15
+Rishikesh,Adventure,2500.0,2,5,Flight,Standard,Standard,Regular,92737.91
+Ooty,Hill Station,280.0,3,4,Car,Premium,Budget,Off-season,43994.89
+Mysuru,Culture,330.0,1,1,Bus,Budget,Budget,Off-season,3178.29
+Bengaluru,City,380.0,1,1,Car,Budget,Budget,Off-season,12193.57
+Mysuru,Culture,330.0,2,4,Bus,Premium,Budget,Regular,24945.61
+Varkala,Beach,570.0,6,2,Bus,Standard,Budget,Off-season,31130.13
+Delhi,City,2200.0,1,2,Train,Standard,Budget,Regular,17014.5
+Wayanad,Nature,410.0,4,1,Car,Standard,Standard,Regular,24128.16
+Wayanad,Nature,410.0,5,3,Bus,Budget,Standard,Off-season,32827.68
+Varanasi,Pilgrimage,1900.0,5,6,Bus,Budget,Budget,Peak,95485.95
+Rishikesh,Adventure,2500.0,4,5,Train,Standard,Standard,Regular,87054.37
+Tirupati,Pilgrimage,300.0,5,8,Car,Budget,Budget,Peak,94181.63
+Pune,City,1050.0,6,8,Train,Standard,Standard,Off-season,153450.58
+Rameswaram,Pilgrimage,420.0,1,3,Bus,Standard,Standard,Regular,9648.18
+Chennai,City,350.0,3,8,Bus,Standard,Standard,Peak,84496.06
+Alleppey,Nature,520.0,1,7,Bus,Budget,Premium,Peak,34666.96
+Hyderabad,City,650.0,3,5,Bus,Premium,Standard,Regular,72571.56
+Hyderabad,City,650.0,5,3,Bus,Standard,Standard,Off-season,55544.28
+Kochi,Beach,520.0,6,1,Train,Standard,Budget,Regular,24014.5
+Munnar,Hill Station,430.0,3,2,Bus,Standard,Budget,Regular,20443.36
+Bengaluru,City,380.0,6,6,Car,Standard,Standard,Regular,119678.4
+Rishikesh,Adventure,2500.0,3,4,Bus,Budget,Budget,Off-season,43520.68
+Coorg,Hill Station,390.0,5,1,Car,Standard,Standard,Regular,26677.17
+Jaipur,Culture,1900.0,4,8,Bus,Standard,Standard,Regular,124191.91
+Coorg,Hill Station,390.0,3,3,Bus,Budget,Budget,Regular,24416.1
+Kodaikanal,Hill Station,310.0,5,4,Train,Budget,Budget,Regular,44524.1
+Kochi,Beach,520.0,3,7,Car,Premium,Budget,Off-season,88421.87
+Yercaud,Hill Station,180.0,2,5,Car,Standard,Budget,Regular,19743.87
+Chennai,City,350.0,3,4,Bus,Budget,Standard,Regular,32057.94
+Pune,City,1050.0,1,5,Bus,Budget,Standard,Regular,17635.28
+Madurai,Culture,190.0,3,1,Train,Budget,Standard,Regular,8428.74
+Bengaluru,City,380.0,4,6,Car,Standard,Budget,Regular,78924.87
+Agra,Culture,2100.0,4,2,Train,Standard,Budget,Regular,52312.47
+Delhi,City,2200.0,3,4,Train,Standard,Budget,Peak,81253.41
+Rishikesh,Adventure,2500.0,4,1,Train,Standard,Budget,Regular,45882.83
+Hampi,Culture,600.0,1,1,Train,Budget,Standard,Off-season,3814.53
+Ooty,Hill Station,280.0,6,3,Car,Standard,Budget,Regular,46756.46
+Agra,Culture,2100.0,5,1,Car,Standard,Standard,Regular,58006.66
+Munnar,Hill Station,430.0,2,7,Bus,Budget,Budget,Regular,29471.79
+Tirupati,Pilgrimage,300.0,6,8,Train,Premium,Standard,Regular,121594.44
+Varanasi,Pilgrimage,1900.0,1,5,Bus,Budget,Premium,Peak,22312.14
+Mahabalipuram,Beach,260.0,4,6,Bus,Budget,Budget,Off-season,40640.09
+Jaipur,Culture,1900.0,2,2,Bus,Premium,Budget,Regular,23568.39
+Munnar,Hill Station,430.0,2,3,Train,Budget,Standard,Regular,16371.67
+Bengaluru,City,380.0,4,3,Bus,Budget,Standard,Off-season,32049.06
+Hyderabad,City,650.0,5,6,Bus,Budget,Standard,Regular,84600.28
+Shimla,Hill Station,2600.0,6,6,Train,Budget,Standard,Regular,179722.66
+Hampi,Culture,600.0,3,3,Bus,Budget,Budget,Off-season,20505.5
+Jaipur,Culture,1900.0,1,7,Flight,Budget,Standard,Regular,41583.68
+Delhi,City,2200.0,1,4,Car,Standard,Standard,Peak,82513.5
+Hyderabad,City,650.0,5,2,Train,Standard,Standard,Peak,57021.53
+Delhi,City,2200.0,1,6,Bus,Standard,Standard,Regular,35090.18
+Hyderabad,City,650.0,4,5,Bus,Budget,Premium,Regular,62500.88
+Chennai,City,350.0,5,2,Train,Standard,Standard,Regular,40360.88
+Ooty,Hill Station,280.0,6,8,Bus,Budget,Standard,Regular,111420.07
+Goa,Beach,850.0,2,5,Bus,Standard,Standard,Regular,36670.49
+Mumbai,City,1250.0,6,8,Flight,Budget,Standard,Regular,268487.85
+Jaipur,Culture,1900.0,2,3,Train,Budget,Premium,Regular,31959.15
+Varanasi,Pilgrimage,1900.0,4,4,Bus,Standard,Standard,Off-season,56033.4
+Bengaluru,City,380.0,5,5,Car,Budget,Budget,Peak,101360.98
+Pune,City,1050.0,1,6,Bus,Standard,Standard,Peak,34717.94
+Pune,City,1050.0,4,3,Car,Budget,Standard,Regular,57572.68
+Yercaud,Hill Station,180.0,1,5,Bus,Budget,Premium,Regular,12493.05
+Kodaikanal,Hill Station,310.0,1,7,Train,Budget,Standard,Regular,17062.88
+Yercaud,Hill Station,180.0,6,5,Train,Premium,Standard,Peak,96912.26
+Jaipur,Culture,1900.0,2,1,Train,Budget,Premium,Off-season,21522.45
+Rishikesh,Adventure,2500.0,2,7,Bus,Budget,Budget,Regular,34618.08
+Tirupati,Pilgrimage,300.0,4,8,Bus,Standard,Budget,Regular,68107.97
+Yercaud,Hill Station,180.0,2,6,Car,Budget,Budget,Off-season,22804.84
+Delhi,City,2200.0,4,2,Train,Budget,Standard,Peak,70131.11
+Munnar,Hill Station,430.0,4,1,Bus,Budget,Premium,Peak,20054.84
+Pondicherry,Beach,170.0,2,3,Train,Budget,Premium,Off-season,13828.89
+Tirupati,Pilgrimage,300.0,3,1,Bus,Standard,Budget,Regular,8464.72
+Munnar,Hill Station,430.0,3,2,Bus,Budget,Budget,Regular,19037.55
+Alleppey,Nature,520.0,5,5,Train,Standard,Standard,Off-season,71015.72
+Hampi,Culture,600.0,2,7,Train,Budget,Premium,Off-season,29594.89
+Rishikesh,Adventure,2500.0,5,3,Car,Budget,Standard,Regular,123449.08
+Mumbai,City,1250.0,2,3,Bus,Budget,Standard,Regular,24869.44
+Kochi,Beach,520.0,5,8,Bus,Standard,Budget,Off-season,100256.94
+Manali,Hill Station,2800.0,6,3,Bus,Standard,Budget,Regular,98242.6
+Hampi,Culture,600.0,4,8,Bus,Budget,Premium,Regular,72678.31
+Jaipur,Culture,1900.0,1,5,Car,Premium,Budget,Regular,63134.15
+Madurai,Culture,190.0,4,7,Bus,Premium,Standard,Regular,76037.32
+Bengaluru,City,380.0,6,3,Train,Standard,Budget,Regular,58221.39
+Hampi,Culture,600.0,1,8,Bus,Standard,Budget,Off-season,23680.86
+Mysuru,Culture,330.0,5,2,Train,Standard,Standard,Off-season,24899.65
+Goa,Beach,850.0,5,2,Car,Standard,Standard,Regular,66796.98
+Chennai,City,350.0,1,8,Train,Standard,Standard,Peak,45341.47
+Hyderabad,City,650.0,2,2,Train,Budget,Standard,Regular,15987.66
+Coorg,Hill Station,390.0,1,4,Train,Budget,Standard,Off-season,12363.14
+Rameswaram,Pilgrimage,420.0,4,2,Train,Budget,Budget,Off-season,15364.44
+Rishikesh,Adventure,2500.0,6,8,Bus,Budget,Standard,Regular,133742.6
+Mahabalipuram,Beach,260.0,1,1,Bus,Budget,Budget,Regular,3270.41
+Mysuru,Culture,330.0,3,3,Train,Standard,Standard,Peak,33256.07
+Mysuru,Culture,330.0,6,3,Train,Budget,Budget,Off-season,38538.15
+Shimla,Hill Station,2600.0,6,5,Bus,Standard,Budget,Off-season,132200.09
+Jaipur,Culture,1900.0,4,8,Train,Standard,Standard,Off-season,117852.69
+Varanasi,Pilgrimage,1900.0,6,6,Bus,Budget,Budget,Off-season,79631.24
+Varanasi,Pilgrimage,1900.0,1,5,Bus,Budget,Budget,Off-season,17158.1
+Agra,Culture,2100.0,6,3,Bus,Budget,Budget,Regular,66332.46
+Hampi,Culture,600.0,3,5,Train,Standard,Standard,Regular,46309.11
+Delhi,City,2200.0,5,7,Train,Premium,Premium,Off-season,204248.33
+Tirupati,Pilgrimage,300.0,4,5,Train,Standard,Standard,Regular,42776.31
+Goa,Beach,850.0,2,4,Car,Standard,Budget,Peak,61046.08
+Wayanad,Nature,410.0,4,2,Train,Budget,Budget,Regular,19747.56
+Ooty,Hill Station,280.0,5,3,Car,Premium,Budget,Off-season,46877.78
+Mahabalipuram,Beach,260.0,5,1,Train,Standard,Standard,Regular,19621.38
+Bengaluru,City,380.0,5,2,Bus,Premium,Premium,Regular,56755.61
+Thanjavur,Culture,80.0,4,7,Bus,Budget,Standard,Off-season,40153.49
+Pondicherry,Beach,170.0,4,8,Train,Budget,Premium,Regular,73232.73
+Rishikesh,Adventure,2500.0,4,1,Train,Standard,Standard,Off-season,43651.2
+Alleppey,Nature,520.0,5,2,Bus,Budget,Budget,Regular,33542.88
+Thanjavur,Culture,80.0,2,5,Car,Premium,Standard,Regular,22819.25
+Pondicherry,Beach,170.0,5,1,Bus,Premium,Standard,Regular,19797.41
+Bengaluru,City,380.0,3,2,Train,Budget,Premium,Regular,27736.48
+Madurai,Culture,190.0,4,4,Car,Standard,Standard,Off-season,32158.8
+Munnar,Hill Station,430.0,4,4,Car,Budget,Budget,Regular,40496.5
+Madurai,Culture,190.0,5,4,Bus,Budget,Budget,Off-season,34489.78
+Manali,Hill Station,2800.0,4,1,Bus,Standard,Budget,Regular,45000.42
+Kochi,Beach,520.0,4,4,Car,Premium,Standard,Off-season,64561.17
+Hampi,Culture,600.0,2,7,Car,Premium,Budget,Peak,57915.76
+Varanasi,Pilgrimage,1900.0,1,7,Train,Budget,Budget,Peak,31663.61
+Mysuru,Culture,330.0,3,5,Bus,Premium,Budget,Off-season,47003.31
+Chennai,City,350.0,3,5,Bus,Budget,Budget,Regular,38593.89
+Munnar,Hill Station,430.0,2,2,Car,Premium,Budget,Regular,24573.39
+Rishikesh,Adventure,2500.0,3,3,Bus,Standard,Standard,Off-season,39381.67
+Rishikesh,Adventure,2500.0,4,8,Bus,Standard,Standard,Off-season,95331.82
+Jaipur,Culture,1900.0,4,6,Car,Budget,Premium,Regular,121423.01
+Coorg,Hill Station,390.0,1,5,Bus,Standard,Standard,Off-season,15931.13
+Pondicherry,Beach,170.0,4,2,Train,Premium,Standard,Regular,24298.17
+Agra,Culture,2100.0,1,8,Train,Budget,Budget,Off-season,24841.81
+Ooty,Hill Station,280.0,3,8,Car,Standard,Budget,Off-season,64354.85
+Rishikesh,Adventure,2500.0,4,3,Train,Standard,Budget,Regular,71215.68
+Bengaluru,City,380.0,1,5,Flight,Standard,Standard,Peak,37645.81
+Chennai,City,350.0,4,5,Train,Budget,Premium,Peak,81693.84
+Kochi,Beach,520.0,5,2,Bus,Standard,Standard,Off-season,34861.48
+Chennai,City,350.0,3,7,Bus,Standard,Standard,Regular,67657.73
+Hyderabad,City,650.0,3,8,Train,Premium,Standard,Regular,107496.82
+Kodaikanal,Hill Station,310.0,5,4,Bus,Budget,Budget,Peak,51990.81
+Rameswaram,Pilgrimage,420.0,1,8,Car,Budget,Standard,Regular,27702.14
+Yercaud,Hill Station,180.0,4,5,Bus,Budget,Standard,Regular,31809.03
+Shimla,Hill Station,2600.0,5,7,Train,Standard,Standard,Regular,168968.21
+Manali,Hill Station,2800.0,5,4,Train,Premium,Standard,Regular,154643.88
+Shimla,Hill Station,2600.0,6,1,Bus,Standard,Budget,Off-season,50362.5
+Jaipur,Culture,1900.0,5,6,Bus,Budget,Budget,Off-season,87182.59
+Varanasi,Pilgrimage,1900.0,5,1,Bus,Premium,Standard,Peak,52402.47
+Mahabalipuram,Beach,260.0,2,4,Bus,Standard,Premium,Regular,23798.32
+Hampi,Culture,600.0,3,5,Bus,Budget,Budget,Peak,38614.79
+Manali,Hill Station,2800.0,2,6,Train,Premium,Budget,Regular,68222.66
+Mahabalipuram,Beach,260.0,2,8,Car,Budget,Budget,Regular,36462.87
+Tirupati,Pilgrimage,300.0,6,8,Train,Premium,Premium,Regular,152906.75
+Kodaikanal,Hill Station,310.0,4,1,Bus,Budget,Premium,Peak,15978.23
+Shimla,Hill Station,2600.0,1,7,Bus,Standard,Budget,Regular,36208.67
+Bengaluru,City,380.0,6,4,Bus,Premium,Standard,Regular,119468.54
+Delhi,City,2200.0,6,8,Car,Standard,Premium,Regular,228054.33
+Pune,City,1050.0,4,4,Train,Premium,Premium,Regular,76582.69
+Hyderabad,City,650.0,6,1,Car,Budget,Budget,Peak,40857.71
+Tirupati,Pilgrimage,300.0,1,6,Train,Budget,Budget,Peak,16730.27
+Varkala,Beach,570.0,5,2,Car,Budget,Standard,Off-season,35319.98
+Shimla,Hill Station,2600.0,6,4,Bus,Premium,Premium,Off-season,131447.13
+Kochi,Beach,520.0,4,5,Car,Standard,Budget,Off-season,46844.02
+Shimla,Hill Station,2600.0,5,8,Train,Budget,Budget,Peak,221732.0
+Delhi,City,2200.0,5,6,Bus,Budget,Budget,Regular,105109.74
+Manali,Hill Station,2800.0,5,7,Bus,Standard,Budget,Off-season,146092.6
+Mahabalipuram,Beach,260.0,5,8,Bus,Standard,Standard,Peak,141580.04
+Varanasi,Pilgrimage,1900.0,5,8,Bus,Standard,Standard,Regular,117164.55
+Agra,Culture,2100.0,4,5,Bus,Premium,Budget,Regular,80369.45
+Tirupati,Pilgrimage,300.0,2,3,Flight,Premium,Premium,Peak,28050.31
+Goa,Beach,850.0,3,5,Bus,Standard,Standard,Regular,55659.18
+Mumbai,City,1250.0,3,3,Bus,Budget,Budget,Off-season,31588.7
+Madurai,Culture,190.0,4,3,Car,Budget,Standard,Off-season,22730.39
+Thanjavur,Culture,80.0,6,5,Train,Budget,Standard,Off-season,38751.74
+Jaipur,Culture,1900.0,3,3,Train,Standard,Standard,Off-season,45598.3
+Agra,Culture,2100.0,5,1,Train,Standard,Standard,Regular,49321.65
+Jaipur,Culture,1900.0,6,3,Bus,Standard,Budget,Off-season,69876.44
+Kodaikanal,Hill Station,310.0,6,5,Bus,Standard,Standard,Regular,83480.67
+Yercaud,Hill Station,180.0,5,5,Train,Budget,Budget,Regular,43155.85
+Bengaluru,City,380.0,5,4,Car,Premium,Standard,Regular,93812.27
+Mumbai,City,1250.0,4,1,Car,Standard,Budget,Peak,52865.68
+Madurai,Culture,190.0,6,4,Car,Budget,Budget,Regular,42857.26
+Mumbai,City,1250.0,3,6,Bus,Budget,Standard,Off-season,74750.36
+Hampi,Culture,600.0,1,4,Flight,Standard,Budget,Off-season,17330.41
+Manali,Hill Station,2800.0,6,3,Train,Budget,Premium,Off-season,129416.0
+Manali,Hill Station,2800.0,1,7,Bus,Standard,Budget,Regular,37975.71
+Hyderabad,City,650.0,5,8,Train,Budget,Standard,Regular,115638.05
+Mumbai,City,1250.0,5,4,Train,Standard,Budget,Peak,123169.29
+Yercaud,Hill Station,180.0,2,8,Car,Budget,Standard,Off-season,29057.32
+Pondicherry,Beach,170.0,4,7,Bus,Premium,Budget,Off-season,71490.48
+Manali,Hill Station,2800.0,5,5,Train,Budget,Standard,Regular,146655.5
+Rameswaram,Pilgrimage,420.0,5,4,Train,Standard,Budget,Regular,53246.87
+Delhi,City,2200.0,2,8,Bus,Standard,Budget,Peak,68696.68
+Varanasi,Pilgrimage,1900.0,3,1,Train,Standard,Budget,Regular,25598.95
+Chennai,City,350.0,5,3,Car,Budget,Budget,Regular,41415.58
+Thanjavur,Culture,80.0,1,3,Train,Budget,Budget,Regular,5808.36
+Manali,Hill Station,2800.0,6,2,Train,Budget,Standard,Off-season,106836.13
+Jaipur,Culture,1900.0,5,7,Car,Standard,Budget,Off-season,125334.28
+Thanjavur,Culture,80.0,1,8,Train,Standard,Budget,Off-season,16974.82
+Pondicherry,Beach,170.0,6,1,Train,Budget,Standard,Regular,16576.43
+Varkala,Beach,570.0,6,2,Bus,Budget,Standard,Off-season,34022.3
+Madurai,Culture,190.0,5,3,Bus,Standard,Standard,Regular,32738.52
+Mysuru,Culture,330.0,1,6,Bus,Standard,Standard,Off-season,17034.0
+Coorg,Hill Station,390.0,6,3,Bus,Standard,Premium,Regular,57914.66
+Chennai,City,350.0,2,4,Car,Standard,Budget,Peak,36349.03
+Delhi,City,2200.0,5,4,Car,Premium,Premium,Peak,226083.67
+Pune,City,1050.0,6,3,Train,Budget,Standard,Regular,74898.06
+Mysuru,Culture,330.0,1,2,Bus,Budget,Budget,Regular,5480.34
+Yercaud,Hill Station,180.0,4,7,Bus,Standard,Budget,Off-season,45942.13
+Yercaud,Hill Station,180.0,1,2,Train,Budget,Budget,Regular,4836.23
+Varkala,Beach,570.0,4,2,Car,Budget,Budget,Peak,37003.68
+Rameswaram,Pilgrimage,420.0,5,5,Car,Budget,Standard,Regular,63262.81
+Mysuru,Culture,330.0,2,4,Flight,Budget,Budget,Regular,20559.6
+Munnar,Hill Station,430.0,3,2,Car,Standard,Standard,Off-season,24500.17
+Bengaluru,City,380.0,4,2,Train,Budget,Standard,Peak,31768.14
+Coorg,Hill Station,390.0,4,8,Car,Budget,Budget,Peak,89477.43
+Bengaluru,City,380.0,6,5,Bus,Premium,Premium,Regular,132492.24
+Varanasi,Pilgrimage,1900.0,2,1,Car,Budget,Budget,Off-season,41246.15
+Pondicherry,Beach,170.0,2,6,Train,Premium,Budget,Off-season,31442.79
+Hampi,Culture,600.0,1,6,Train,Standard,Standard,Regular,20699.17
+Goa,Beach,850.0,5,1,Bus,Budget,Budget,Regular,29311.35
+Manali,Hill Station,2800.0,2,3,Train,Budget,Budget,Peak,46805.33
+Hyderabad,City,650.0,2,7,Bus,Standard,Premium,Regular,46534.12
+Kochi,Beach,520.0,5,3,Train,Budget,Budget,Peak,54564.18
+Kodaikanal,Hill Station,310.0,3,8,Car,Budget,Budget,Peak,75298.62
+Yercaud,Hill Station,180.0,3,8,Bus,Standard,Premium,Regular,58353.84
+Wayanad,Nature,410.0,3,4,Car,Standard,Premium,Regular,45150.12
+Rishikesh,Adventure,2500.0,3,3,Train,Premium,Standard,Off-season,63376.94
+Delhi,City,2200.0,5,4,Bus,Budget,Budget,Off-season,79834.0
+Hampi,Culture,600.0,1,4,Train,Budget,Standard,Peak,15873.07
+Rishikesh,Adventure,2500.0,1,7,Flight,Premium,Budget,Regular,58658.88
+Rameswaram,Pilgrimage,420.0,4,5,Bus,Standard,Premium,Off-season,51608.24
+Rameswaram,Pilgrimage,420.0,1,2,Bus,Budget,Premium,Off-season,6286.04
+Chennai,City,350.0,3,1,Train,Standard,Premium,Off-season,12369.76
+Hyderabad,City,650.0,5,1,Train,Budget,Budget,Peak,29020.99
+Shimla,Hill Station,2600.0,3,5,Bus,Budget,Premium,Regular,77905.69
+Rishikesh,Adventure,2500.0,6,2,Bus,Budget,Standard,Regular,65389.23
+Jaipur,Culture,1900.0,6,6,Bus,Premium,Budget,Regular,147986.59
+Mahabalipuram,Beach,260.0,4,8,Train,Premium,Standard,Peak,127195.92
+Hyderabad,City,650.0,1,4,Train,Budget,Standard,Regular,16879.46
+Madurai,Culture,190.0,2,3,Bus,Standard,Standard,Regular,12618.36
+Madurai,Culture,190.0,1,7,Bus,Standard,Standard,Regular,19024.57
+Mahabalipuram,Beach,260.0,4,3,Car,Budget,Budget,Regular,29586.04
+Tirupati,Pilgrimage,300.0,4,5,Bus,Budget,Budget,Regular,33461.22
+Goa,Beach,850.0,6,8,Bus,Premium,Standard,Regular,231958.9
+Mahabalipuram,Beach,260.0,2,1,Car,Standard,Standard,Regular,11445.62
+Mumbai,City,1250.0,2,8,Train,Budget,Budget,Peak,83919.71
+Rishikesh,Adventure,2500.0,3,5,Car,Standard,Standard,Off-season,101766.27
+Mumbai,City,1250.0,6,2,Train,Budget,Standard,Off-season,62812.03
+Varkala,Beach,570.0,1,8,Bus,Standard,Budget,Regular,28583.77
+Manali,Hill Station,2800.0,3,7,Flight,Budget,Premium,Regular,197079.51
+Agra,Culture,2100.0,2,2,Bus,Standard,Standard,Regular,20622.36
+Hampi,Culture,600.0,2,8,Bus,Premium,Budget,Off-season,39119.43
+Varanasi,Pilgrimage,1900.0,1,2,Flight,Standard,Budget,Off-season,24758.88
+Thanjavur,Culture,80.0,4,8,Bus,Premium,Standard,Regular,62002.89
+Alleppey,Nature,520.0,6,1,Flight,Premium,Budget,Peak,72415.74
+Kochi,Beach,520.0,1,7,Bus,Budget,Budget,Off-season,18825.05
+Yercaud,Hill Station,180.0,4,7,Train,Budget,Standard,Off-season,44157.34
+Ooty,Hill Station,280.0,4,5,Bus,Standard,Premium,Regular,57323.16
+Bengaluru,City,380.0,4,8,Bus,Standard,Budget,Regular,94341.39
+Thanjavur,Culture,80.0,6,6,Bus,Budget,Standard,Regular,53870.93
+Shimla,Hill Station,2600.0,5,3,Train,Standard,Budget,Regular,107654.12
+Agra,Culture,2100.0,2,2,Car,Budget,Budget,Regular,62788.74
+Mysuru,Culture,330.0,1,4,Bus,Standard,Budget,Regular,12170.84
+Hampi,Culture,600.0,1,1,Train,Budget,Budget,Regular,4605.13
+Chennai,City,350.0,5,1,Train,Standard,Budget,Peak,25612.92
+Madurai,Culture,190.0,2,3,Bus,Budget,Standard,Peak,12680.17
+Ooty,Hill Station,280.0,5,3,Train,Budget,Standard,Off-season,34086.42
+Kochi,Beach,520.0,6,7,Train,Standard,Standard,Regular,116705.15
+Mahabalipuram,Beach,260.0,1,6,Bus,Standard,Budget,Regular,18436.09
+Bengaluru,City,380.0,1,1,Train,Budget,Standard,Regular,5494.72
+Mysuru,Culture,330.0,4,7,Train,Standard,Budget,Off-season,57074.73
+Shimla,Hill Station,2600.0,6,4,Car,Budget,Standard,Regular,139680.17
+Alleppey,Nature,520.0,5,1,Car,Budget,Budget,Peak,34860.46
+Mysuru,Culture,330.0,3,4,Flight,Budget,Standard,Regular,33642.33
+Goa,Beach,850.0,2,4,Train,Budget,Budget,Regular,29199.17
+Mahabalipuram,Beach,260.0,5,2,Bus,Budget,Standard,Regular,23489.05
+Mumbai,City,1250.0,6,3,Bus,Budget,Premium,Regular,85252.41
+Jaipur,Culture,1900.0,4,1,Train,Budget,Standard,Off-season,39120.67
+Manali,Hill Station,2800.0,4,5,Car,Premium,Standard,Regular,169317.05
+Manali,Hill Station,2800.0,4,5,Car,Standard,Budget,Regular,138997.67
+Mumbai,City,1250.0,5,6,Train,Standard,Standard,Regular,135636.47
+Madurai,Culture,190.0,5,6,Car,Budget,Budget,Regular,48508.48
+Hampi,Culture,600.0,4,6,Flight,Budget,Standard,Regular,72606.96
+Goa,Beach,850.0,6,5,Bus,Budget,Premium,Regular,124157.11
+Jaipur,Culture,1900.0,4,7,Train,Standard,Premium,Off-season,114609.58
+Manali,Hill Station,2800.0,2,1,Bus,Standard,Budget,Regular,22325.17
+Thanjavur,Culture,80.0,2,1,Car,Premium,Budget,Off-season,5272.87
+Varkala,Beach,570.0,2,5,Flight,Premium,Standard,Regular,42238.97
+Yercaud,Hill Station,180.0,3,6,Train,Standard,Standard,Regular,40626.27
+Kodaikanal,Hill Station,310.0,4,6,Bus,Budget,Standard,Regular,54097.88
+Varkala,Beach,570.0,1,3,Bus,Standard,Standard,Regular,11255.28
+Munnar,Hill Station,430.0,1,7,Car,Standard,Standard,Peak,46000.96
+Pondicherry,Beach,170.0,5,1,Car,Standard,Budget,Peak,20811.8
+Ooty,Hill Station,280.0,6,8,Train,Budget,Premium,Regular,132616.19
+Delhi,City,2200.0,6,1,Car,Budget,Standard,Regular,83076.24
+Madurai,Culture,190.0,4,5,Flight,Standard,Budget,Regular,42941.14
+Rameswaram,Pilgrimage,420.0,2,8,Bus,Standard,Premium,Off-season,36878.2
+Ooty,Hill Station,280.0,1,4,Bus,Premium,Budget,Off-season,15508.76
+Delhi,City,2200.0,1,7,Train,Standard,Budget,Regular,39370.27
+Wayanad,Nature,410.0,2,8,Train,Budget,Budget,Peak,44627.95
+Wayanad,Nature,410.0,1,3,Bus,Budget,Budget,Peak,12066.79
+Varkala,Beach,570.0,4,7,Train,Standard,Standard,Regular,79280.47
+Rishikesh,Adventure,2500.0,2,7,Train,Standard,Budget,Regular,48525.0
+Kochi,Beach,520.0,2,8,Bus,Budget,Standard,Off-season,36378.6
+Alleppey,Nature,520.0,3,3,Car,Standard,Standard,Regular,39243.33
+Shimla,Hill Station,2600.0,6,8,Bus,Premium,Standard,Off-season,221630.53
+Pune,City,1050.0,2,5,Bus,Standard,Budget,Regular,30564.12
+Varkala,Beach,570.0,6,5,Bus,Budget,Standard,Regular,75980.35
+Chennai,City,350.0,4,1,Car,Standard,Budget,Regular,18401.95
+Pune,City,1050.0,4,6,Bus,Standard,Budget,Regular,65186.94
+Mysuru,Culture,330.0,3,6,Bus,Budget,Standard,Regular,43156.09
+Rameswaram,Pilgrimage,420.0,1,2,Train,Budget,Budget,Regular,6308.38
+Shimla,Hill Station,2600.0,3,6,Bus,Standard,Premium,Regular,105841.09
+Agra,Culture,2100.0,5,6,Bus,Budget,Premium,Regular,120200.21
+Chennai,City,350.0,2,5,Train,Budget,Standard,Off-season,26422.2
+Agra,Culture,2100.0,2,6,Train,Budget,Budget,Peak,51772.42
+Bengaluru,City,380.0,2,3,Bus,Budget,Standard,Off-season,18101.45
+Ooty,Hill Station,280.0,4,3,Flight,Premium,Budget,Regular,55063.22
+Thanjavur,Culture,80.0,1,2,Train,Standard,Standard,Regular,5442.89
+Wayanad,Nature,410.0,6,3,Bus,Standard,Standard,Regular,44562.71
+Wayanad,Nature,410.0,2,8,Bus,Budget,Premium,Off-season,38447.18
+Kochi,Beach,520.0,5,1,Train,Standard,Standard,Off-season,19768.37
+Varanasi,Pilgrimage,1900.0,4,7,Car,Budget,Budget,Regular,97826.21
+Coorg,Hill Station,390.0,1,1,Train,Budget,Budget,Off-season,3749.63
+Pune,City,1050.0,4,4,Bus,Budget,Budget,Off-season,40014.26
+Mahabalipuram,Beach,260.0,4,4,Bus,Standard,Standard,Off-season,38018.85
+Mahabalipuram,Beach,260.0,4,1,Bus,Standard,Budget,Regular,10489.35
+Bengaluru,City,380.0,1,6,Bus,Budget,Standard,Off-season,21847.24
+Ooty,Hill Station,280.0,2,4,Train,Standard,Standard,Peak,26270.02
+Manali,Hill Station,2800.0,3,1,Bus,Budget,Standard,Regular,39513.7
+Munnar,Hill Station,430.0,6,7,Bus,Standard,Budget,Regular,110021.89
+Mysuru,Culture,330.0,1,6,Bus,Standard,Standard,Regular,20884.43
+Agra,Culture,2100.0,5,7,Car,Standard,Standard,Regular,145080.77
+Mahabalipuram,Beach,260.0,5,3,Bus,Budget,Budget,Regular,36802.92
+Coorg,Hill Station,390.0,6,5,Bus,Budget,Standard,Regular,70277.98
+Munnar,Hill Station,430.0,5,8,Train,Budget,Budget,Peak,124285.93
+Tirupati,Pilgrimage,300.0,3,7,Train,Budget,Standard,Regular,37798.26
+Ooty,Hill Station,280.0,2,3,Bus,Premium,Budget,Regular,21458.03
+Jaipur,Culture,1900.0,2,5,Train,Budget,Standard,Peak,54380.47
+Pondicherry,Beach,170.0,2,5,Train,Standard,Standard,Regular,24493.55
+Rishikesh,Adventure,2500.0,2,4,Bus,Budget,Budget,Off-season,27565.97
+Mahabalipuram,Beach,260.0,4,7,Car,Premium,Premium,Peak,123204.85
+Ooty,Hill Station,280.0,3,5,Flight,Premium,Budget,Peak,75877.6
+Mahabalipuram,Beach,260.0,5,6,Bus,Budget,Standard,Regular,72448.73
+Alleppey,Nature,520.0,4,8,Train,Premium,Budget,Peak,119975.72
+Agra,Culture,2100.0,4,5,Train,Budget,Budget,Regular,78647.45
+Yercaud,Hill Station,180.0,6,2,Train,Budget,Budget,Off-season,20464.46
+Thanjavur,Culture,80.0,5,1,Car,Standard,Standard,Peak,15171.37
+Jaipur,Culture,1900.0,2,2,Bus,Standard,Standard,Off-season,19696.98
+Ooty,Hill Station,280.0,6,8,Bus,Budget,Budget,Peak,107678.23
+Rameswaram,Pilgrimage,420.0,1,1,Train,Budget,Budget,Regular,3990.47
+Rishikesh,Adventure,2500.0,4,2,Bus,Standard,Budget,Regular,47119.11
+Alleppey,Nature,520.0,1,6,Bus,Standard,Standard,Peak,28580.81
+Munnar,Hill Station,430.0,1,2,Bus,Budget,Standard,Regular,7640.9
+Kochi,Beach,520.0,2,7,Train,Standard,Budget,Regular,34455.79
+Jaipur,Culture,1900.0,2,5,Bus,Budget,Budget,Peak,39956.05
+Thanjavur,Culture,80.0,5,3,Flight,Budget,Budget,Peak,30439.93
+Shimla,Hill Station,2600.0,2,7,Train,Standard,Budget,Regular,60816.26
+Bengaluru,City,380.0,5,5,Bus,Standard,Standard,Regular,95328.93
+Madurai,Culture,190.0,1,1,Train,Standard,Standard,Peak,4316.86
+Chennai,City,350.0,5,3,Train,Budget,Budget,Peak,55282.93
+Kochi,Beach,520.0,6,8,Bus,Budget,Premium,Off-season,139766.63
+Mahabalipuram,Beach,260.0,2,1,Car,Standard,Standard,Off-season,11259.94
+Bengaluru,City,380.0,3,4,Bus,Standard,Budget,Peak,49265.94
+Coorg,Hill Station,390.0,5,3,Train,Standard,Budget,Regular,39974.48
+Tirupati,Pilgrimage,300.0,3,3,Train,Budget,Budget,Regular,20907.4
+Shimla,Hill Station,2600.0,5,8,Train,Standard,Budget,Peak,215397.37
+Munnar,Hill Station,430.0,2,7,Bus,Premium,Standard,Regular,48865.67
+Yercaud,Hill Station,180.0,6,5,Train,Standard,Standard,Regular,62407.69
+Wayanad,Nature,410.0,6,1,Bus,Premium,Budget,Off-season,17362.87
+Ooty,Hill Station,280.0,1,4,Car,Standard,Standard,Peak,25509.83
+Shimla,Hill Station,2600.0,6,2,Train,Budget,Budget,Regular,100299.94
+Rameswaram,Pilgrimage,420.0,6,5,Train,Budget,Standard,Regular,60620.11
+Kodaikanal,Hill Station,310.0,2,2,Car,Standard,Budget,Regular,16759.66
+Tirupati,Pilgrimage,300.0,4,3,Flight,Premium,Standard,Regular,42568.46
+Mahabalipuram,Beach,260.0,5,1,Bus,Budget,Budget,Peak,17080.92
+Pune,City,1050.0,1,8,Train,Budget,Premium,Regular,29936.74
+Madurai,Culture,190.0,1,8,Bus,Budget,Standard,Regular,16263.94
+Munnar,Hill Station,430.0,3,3,Bus,Premium,Budget,Off-season,31956.72
+Ooty,Hill Station,280.0,6,5,Car,Premium,Standard,Peak,132290.54
+Varanasi,Pilgrimage,1900.0,3,7,Car,Premium,Standard,Regular,133164.93
+Bengaluru,City,380.0,4,3,Train,Standard,Budget,Off-season,36585.85
+Chennai,City,350.0,5,6,Train,Standard,Budget,Peak,118076.35
+Rishikesh,Adventure,2500.0,1,8,Train,Budget,Budget,Off-season,29647.88
+Chennai,City,350.0,1,1,Bus,Standard,Standard,Regular,4709.27
+Kodaikanal,Hill Station,310.0,4,4,Bus,Budget,Standard,Regular,35644.06
+Munnar,Hill Station,430.0,2,5,Flight,Budget,Standard,Regular,30246.8
+Jaipur,Culture,1900.0,5,8,Bus,Budget,Standard,Regular,125464.66
+Shimla,Hill Station,2600.0,1,3,Train,Standard,Standard,Peak,31031.35
+Coorg,Hill Station,390.0,4,8,Car,Standard,Premium,Peak,122108.76
+Delhi,City,2200.0,1,7,Flight,Budget,Standard,Regular,51099.63
+Kodaikanal,Hill Station,310.0,1,1,Bus,Standard,Budget,Regular,4230.51
+Rishikesh,Adventure,2500.0,5,6,Bus,Budget,Standard,Peak,121715.91
+Kodaikanal,Hill Station,310.0,5,5,Train,Budget,Standard,Regular,66630.69
+Kodaikanal,Hill Station,310.0,1,3,Bus,Standard,Premium,Regular,11653.98
+Rishikesh,Adventure,2500.0,3,2,Bus,Budget,Budget,Peak,46621.64
+Munnar,Hill Station,430.0,6,5,Train,Budget,Standard,Off-season,68724.37
+Shimla,Hill Station,2600.0,2,3,Train,Budget,Budget,Peak,39921.83
+Pondicherry,Beach,170.0,1,4,Train,Standard,Budget,Regular,11815.49
+Delhi,City,2200.0,3,6,Car,Premium,Standard,Regular,144560.85
+Tirupati,Pilgrimage,300.0,3,6,Train,Budget,Standard,Regular,32345.01
+Mahabalipuram,Beach,260.0,1,4,Bus,Budget,Standard,Off-season,10110.21
+Goa,Beach,850.0,5,4,Bus,Budget,Standard,Regular,80577.11
+Rameswaram,Pilgrimage,420.0,2,2,Flight,Budget,Budget,Off-season,14403.7
+Rishikesh,Adventure,2500.0,5,6,Flight,Premium,Standard,Off-season,191225.22
+Alleppey,Nature,520.0,2,1,Train,Budget,Standard,Peak,10530.79
+Chennai,City,350.0,5,7,Bus,Budget,Standard,Regular,96916.96
+Rishikesh,Adventure,2500.0,1,2,Bus,Standard,Standard,Peak,18755.19
+Thanjavur,Culture,80.0,6,4,Bus,Budget,Budget,Regular,37239.14
+Hampi,Culture,600.0,3,4,Car,Budget,Budget,Regular,38474.79
+Delhi,City,2200.0,2,7,Bus,Standard,Premium,Regular,68769.27
+Mysuru,Culture,330.0,6,4,Train,Standard,Budget,Regular,57254.47
+Munnar,Hill Station,430.0,5,7,Car,Premium,Budget,Regular,143723.71
+Munnar,Hill Station,430.0,4,6,Bus,Standard,Budget,Regular,66687.87
+Delhi,City,2200.0,4,8,Flight,Standard,Budget,Regular,200764.2
+Delhi,City,2200.0,6,1,Bus,Budget,Budget,Peak,61724.06
+Goa,Beach,850.0,1,1,Bus,Budget,Budget,Peak,7859.89
+Varkala,Beach,570.0,1,3,Bus,Budget,Standard,Off-season,9999.3
+Varanasi,Pilgrimage,1900.0,4,7,Car,Budget,Standard,Off-season,89298.0
+Munnar,Hill Station,430.0,2,8,Bus,Premium,Premium,Regular,67580.27
+Jaipur,Culture,1900.0,1,1,Car,Budget,Budget,Regular,51610.25
+Rishikesh,Adventure,2500.0,4,4,Bus,Budget,Standard,Regular,66083.71
+Varkala,Beach,570.0,6,4,Train,Standard,Standard,Regular,74865.96
+Ooty,Hill Station,280.0,4,6,Bus,Budget,Standard,Off-season,49407.43
+Thanjavur,Culture,80.0,1,5,Bus,Standard,Standard,Off-season,11142.27
+Mysuru,Culture,330.0,4,6,Train,Standard,Budget,Peak,67704.44
+Chennai,City,350.0,4,5,Bus,Budget,Standard,Regular,53390.26
+Ooty,Hill Station,280.0,5,1,Train,Standard,Standard,Regular,19097.23
+Rameswaram,Pilgrimage,420.0,6,1,Train,Premium,Standard,Off-season,24535.44
+Ooty,Hill Station,280.0,2,2,Bus,Standard,Budget,Regular,11144.38
+Chennai,City,350.0,1,4,Train,Premium,Standard,Off-season,21020.28
+Chennai,City,350.0,4,4,Train,Budget,Standard,Regular,47712.04
+Mumbai,City,1250.0,6,7,Car,Standard,Standard,Regular,187801.59
+Agra,Culture,2100.0,3,7,Train,Standard,Budget,Regular,77197.58
+Shimla,Hill Station,2600.0,4,3,Bus,Budget,Premium,Peak,80717.62
+Pune,City,1050.0,3,4,Train,Premium,Budget,Off-season,49958.09
+Rishikesh,Adventure,2500.0,3,2,Train,Standard,Budget,Regular,49469.91
+Chennai,City,350.0,6,3,Bus,Standard,Standard,Regular,53427.35
+Kochi,Beach,520.0,6,3,Car,Standard,Budget,Regular,55250.44
+Varkala,Beach,570.0,5,4,Train,Budget,Standard,Regular,65496.82
+Madurai,Culture,190.0,3,3,Flight,Budget,Standard,Regular,22975.55
+Kodaikanal,Hill Station,310.0,1,5,Bus,Standard,Premium,Peak,24275.02
+Mahabalipuram,Beach,260.0,1,3,Bus,Premium,Budget,Off-season,12285.5
+Wayanad,Nature,410.0,4,5,Train,Budget,Budget,Off-season,34676.95
+Mahabalipuram,Beach,260.0,2,8,Train,Standard,Budget,Regular,43325.04
+Goa,Beach,850.0,3,8,Train,Standard,Budget,Regular,95276.17
+Tirupati,Pilgrimage,300.0,1,8,Car,Budget,Premium,Peak,33653.01
+Manali,Hill Station,2800.0,1,2,Bus,Budget,Premium,Off-season,17275.3
+Coorg,Hill Station,390.0,5,6,Train,Budget,Standard,Regular,75213.5
+Manali,Hill Station,2800.0,2,4,Bus,Standard,Standard,Regular,46457.99
+Shimla,Hill Station,2600.0,3,2,Car,Premium,Budget,Regular,95299.59
+Mumbai,City,1250.0,6,7,Bus,Standard,Budget,Regular,163601.77
+Delhi,City,2200.0,1,1,Car,Budget,Standard,Regular,54462.88
+Thanjavur,Culture,80.0,3,1,Bus,Standard,Budget,Regular,5961.87
+Wayanad,Nature,410.0,1,8,Flight,Budget,Standard,Regular,27551.04
+Madurai,Culture,190.0,5,8,Train,Budget,Premium,Off-season,81468.74
+Manali,Hill Station,2800.0,1,1,Bus,Budget,Budget,Regular,11520.18
+Kochi,Beach,520.0,5,5,Bus,Budget,Standard,Regular,66640.98
+Manali,Hill Station,2800.0,3,2,Car,Budget,Standard,Off-season,81046.73
+Bengaluru,City,380.0,3,3,Bus,Standard,Budget,Regular,38709.24
+Shimla,Hill Station,2600.0,4,1,Train,Budget,Budget,Peak,61445.49
+Chennai,City,350.0,6,1,Train,Standard,Budget,Regular,24050.77
+Thanjavur,Culture,80.0,1,8,Train,Standard,Standard,Off-season,19400.88
+Manali,Hill Station,2800.0,5,5,Train,Budget,Standard,Regular,130166.04
+Goa,Beach,850.0,4,8,Train,Standard,Premium,Regular,153149.6
+Rameswaram,Pilgrimage,420.0,5,8,Bus,Budget,Standard,Off-season,79433.81
+Delhi,City,2200.0,1,5,Train,Budget,Standard,Peak,30169.26
+Rishikesh,Adventure,2500.0,5,2,Bus,Budget,Premium,Regular,61678.04
+Shimla,Hill Station,2600.0,5,8,Bus,Budget,Standard,Off-season,147607.66
+Varanasi,Pilgrimage,1900.0,2,7,Bus,Premium,Budget,Peak,65708.49
+Shimla,Hill Station,2600.0,4,4,Train,Budget,Standard,Peak,100290.02
+Thanjavur,Culture,80.0,1,5,Car,Standard,Standard,Off-season,12166.0
+Manali,Hill Station,2800.0,4,4,Bus,Standard,Budget,Peak,94025.06
+Mumbai,City,1250.0,5,3,Flight,Premium,Premium,Regular,153564.59
+Hampi,Culture,600.0,4,8,Train,Budget,Budget,Regular,65429.95
+Hyderabad,City,650.0,3,1,Train,Budget,Premium,Regular,18177.82
+Mysuru,Culture,330.0,6,1,Car,Standard,Budget,Off-season,17351.25
+Kodaikanal,Hill Station,310.0,2,4,Bus,Standard,Budget,Regular,17797.46
+Rishikesh,Adventure,2500.0,1,2,Bus,Budget,Budget,Peak,15710.86
+Varkala,Beach,570.0,2,3,Car,Premium,Standard,Regular,30806.84
+Munnar,Hill Station,430.0,4,4,Car,Standard,Budget,Regular,50542.86
+Agra,Culture,2100.0,1,5,Bus,Standard,Premium,Regular,22079.71
+Mumbai,City,1250.0,2,5,Car,Budget,Budget,Regular,59126.29
+Shimla,Hill Station,2600.0,2,2,Flight,Budget,Budget,Regular,68898.24
+Bengaluru,City,380.0,3,2,Train,Standard,Standard,Regular,24742.09
+Tirupati,Pilgrimage,300.0,4,6,Car,Standard,Premium,Peak,79687.03
+Pune,City,1050.0,2,8,Car,Budget,Budget,Regular,55898.86
+Tirupati,Pilgrimage,300.0,5,1,Bus,Budget,Premium,Off-season,16034.25
+Varkala,Beach,570.0,6,3,Train,Standard,Budget,Regular,51630.98
+Mysuru,Culture,330.0,1,7,Car,Standard,Standard,Regular,32216.86
+Bengaluru,City,380.0,3,1,Train,Standard,Standard,Off-season,13375.7
+Bengaluru,City,380.0,4,6,Train,Standard,Budget,Regular,66296.35
+Mahabalipuram,Beach,260.0,5,8,Bus,Budget,Budget,Off-season,82398.15
+Mahabalipuram,Beach,260.0,4,7,Bus,Budget,Budget,Off-season,56368.56
+Ooty,Hill Station,280.0,2,6,Train,Budget,Standard,Regular,25000.61
+Kodaikanal,Hill Station,310.0,3,3,Bus,Budget,Standard,Off-season,19908.04
+Varanasi,Pilgrimage,1900.0,3,2,Bus,Budget,Budget,Peak,37804.78
+Hampi,Culture,600.0,6,6,Train,Budget,Budget,Peak,89457.57
+Goa,Beach,850.0,2,7,Bus,Standard,Standard,Peak,64672.55
+Jaipur,Culture,1900.0,2,4,Car,Premium,Standard,Off-season,72291.89
+Kochi,Beach,520.0,6,6,Bus,Standard,Standard,Regular,104533.37
+Ooty,Hill Station,280.0,1,7,Train,Budget,Budget,Off-season,20440.74
+Rameswaram,Pilgrimage,420.0,6,6,Train,Standard,Standard,Off-season,72235.84
+Madurai,Culture,190.0,1,4,Bus,Budget,Budget,Regular,8412.51
+Wayanad,Nature,410.0,6,7,Train,Budget,Budget,Regular,93097.81
+Manali,Hill Station,2800.0,6,5,Bus,Budget,Budget,Regular,134716.5
+Pondicherry,Beach,170.0,3,2,Car,Standard,Standard,Off-season,17668.52
+Coorg,Hill Station,390.0,4,7,Bus,Premium,Standard,Peak,122453.57
+Varkala,Beach,570.0,6,7,Train,Premium,Budget,Off-season,107676.33
+Alleppey,Nature,520.0,4,5,Train,Standard,Standard,Regular,52733.69
+Jaipur,Culture,1900.0,3,1,Train,Premium,Budget,Regular,33415.0
+Bengaluru,City,380.0,4,3,Bus,Premium,Budget,Regular,51176.14
+Mysuru,Culture,330.0,5,1,Bus,Premium,Standard,Off-season,19373.62
+Hyderabad,City,650.0,4,7,Train,Standard,Budget,Peak,107948.98
+Yercaud,Hill Station,180.0,1,3,Bus,Standard,Standard,Peak,9322.44
+Jaipur,Culture,1900.0,5,3,Bus,Budget,Standard,Off-season,59642.26
+Jaipur,Culture,1900.0,2,5,Bus,Premium,Standard,Regular,50289.44
+Delhi,City,2200.0,3,2,Bus,Budget,Budget,Regular,33318.08
+Rishikesh,Adventure,2500.0,4,2,Flight,Budget,Budget,Regular,158484.36
+Varanasi,Pilgrimage,1900.0,2,2,Train,Budget,Premium,Regular,24548.15
+Varkala,Beach,570.0,6,1,Train,Standard,Budget,Off-season,25084.8
+Manali,Hill Station,2800.0,1,3,Train,Standard,Premium,Peak,33421.8
+Tirupati,Pilgrimage,300.0,4,3,Bus,Budget,Budget,Regular,21506.37
+Bengaluru,City,380.0,3,8,Bus,Budget,Budget,Regular,59507.64
+Hyderabad,City,650.0,2,6,Bus,Budget,Budget,Off-season,28042.96
+Mahabalipuram,Beach,260.0,6,3,Bus,Standard,Standard,Off-season,43957.41
+Pondicherry,Beach,170.0,3,8,Bus,Standard,Standard,Regular,68737.04
+Manali,Hill Station,2800.0,2,8,Bus,Premium,Budget,Off-season,73417.85
+Madurai,Culture,190.0,2,2,Car,Standard,Standard,Regular,11111.28
+Wayanad,Nature,410.0,1,6,Flight,Premium,Standard,Regular,35434.96
+Tirupati,Pilgrimage,300.0,6,1,Train,Standard,Standard,Regular,16657.83
+Shimla,Hill Station,2600.0,4,3,Flight,Standard,Budget,Off-season,129637.45
+Mysuru,Culture,330.0,5,4,Car,Budget,Budget,Regular,56115.22
+Kochi,Beach,520.0,6,7,Train,Standard,Budget,Regular,110222.8
+Alleppey,Nature,520.0,1,4,Flight,Budget,Budget,Regular,17156.2
+Mysuru,Culture,330.0,2,4,Bus,Standard,Standard,Off-season,18267.06
+Pune,City,1050.0,4,6,Train,Budget,Budget,Peak,82922.18
+Varkala,Beach,570.0,5,5,Car,Budget,Standard,Regular,69598.28
+Manali,Hill Station,2800.0,2,2,Train,Standard,Standard,Off-season,34033.09
+Hampi,Culture,600.0,1,4,Flight,Standard,Premium,Peak,25531.67
+Mahabalipuram,Beach,260.0,1,3,Bus,Premium,Standard,Regular,12736.6
+Hyderabad,City,650.0,2,7,Car,Budget,Standard,Peak,66151.56
+Thanjavur,Culture,80.0,2,4,Bus,Budget,Budget,Off-season,10330.73
+Bengaluru,City,380.0,1,2,Bus,Premium,Budget,Regular,12557.59
+Thanjavur,Culture,80.0,5,1,Train,Standard,Standard,Off-season,10242.48
+Hyderabad,City,650.0,5,6,Bus,Budget,Standard,Regular,87966.66
+Chennai,City,350.0,5,5,Car,Budget,Budget,Regular,63661.55
+Ooty,Hill Station,280.0,3,7,Bus,Budget,Budget,Regular,44984.16
+Alleppey,Nature,520.0,1,7,Bus,Standard,Budget,Regular,25081.83
+Varkala,Beach,570.0,4,1,Flight,Premium,Standard,Peak,49339.6
+Munnar,Hill Station,430.0,3,5,Bus,Premium,Budget,Off-season,52130.18
+Mysuru,Culture,330.0,1,5,Bus,Standard,Premium,Regular,20310.58
+Shimla,Hill Station,2600.0,2,1,Bus,Budget,Standard,Regular,16215.14
+Goa,Beach,850.0,2,1,Bus,Budget,Standard,Off-season,9462.02
+Hampi,Culture,600.0,3,1,Train,Standard,Standard,Regular,13847.0
+Mahabalipuram,Beach,260.0,3,5,Train,Standard,Standard,Off-season,39563.25
+Kochi,Beach,520.0,1,3,Bus,Budget,Budget,Regular,9296.04
+Madurai,Culture,190.0,4,1,Bus,Budget,Standard,Peak,11171.94
+Manali,Hill Station,2800.0,4,6,Train,Standard,Standard,Regular,133819.98
+Hyderabad,City,650.0,1,1,Train,Standard,Budget,Regular,6529.59
+Chennai,City,350.0,5,2,Car,Budget,Budget,Regular,35105.79
+Chennai,City,350.0,1,2,Bus,Budget,Standard,Off-season,6651.59
+Rameswaram,Pilgrimage,420.0,5,1,Car,Standard,Premium,Peak,32188.07
+Mysuru,Culture,330.0,5,2,Car,Budget,Budget,Peak,37644.69
+Thanjavur,Culture,80.0,1,8,Bus,Budget,Budget,Regular,15913.29
+Mahabalipuram,Beach,260.0,2,5,Bus,Standard,Standard,Regular,24392.3
+Varanasi,Pilgrimage,1900.0,3,2,Bus,Standard,Standard,Off-season,31523.06
+Agra,Culture,2100.0,5,2,Train,Premium,Budget,Off-season,66707.97
+Mumbai,City,1250.0,2,8,Train,Budget,Budget,Regular,53318.18
+Mumbai,City,1250.0,3,7,Train,Standard,Standard,Regular,88116.98
+Kodaikanal,Hill Station,310.0,5,2,Train,Standard,Standard,Peak,36768.46
+Coorg,Hill Station,390.0,4,4,Train,Budget,Budget,Regular,34985.09
+Munnar,Hill Station,430.0,4,8,Train,Standard,Budget,Regular,74947.96
+Pondicherry,Beach,170.0,3,8,Train,Budget,Standard,Off-season,50446.5
+Pune,City,1050.0,5,2,Bus,Budget,Premium,Regular,43697.55
+Manali,Hill Station,2800.0,4,5,Bus,Premium,Standard,Peak,141873.35
+Ooty,Hill Station,280.0,2,6,Car,Premium,Budget,Peak,53433.94
+Tirupati,Pilgrimage,300.0,6,4,Train,Budget,Standard,Regular,45841.58
+Goa,Beach,850.0,2,5,Car,Standard,Standard,Regular,56823.81
+Munnar,Hill Station,430.0,5,8,Car,Standard,Budget,Regular,104526.71
+Shimla,Hill Station,2600.0,5,2,Car,Budget,Standard,Peak,132674.43
+Pune,City,1050.0,1,5,Bus,Standard,Standard,Regular,22337.42
+Munnar,Hill Station,430.0,6,5,Bus,Standard,Standard,Off-season,75636.6
+Mysuru,Culture,330.0,5,1,Train,Standard,Budget,Off-season,14929.43
+Thanjavur,Culture,80.0,6,8,Train,Standard,Standard,Regular,93568.42
+Mysuru,Culture,330.0,3,5,Car,Premium,Budget,Regular,48606.27
+Wayanad,Nature,410.0,1,2,Bus,Standard,Standard,Regular,7829.34
+Rishikesh,Adventure,2500.0,4,7,Bus,Standard,Budget,Peak,127067.44
+Ooty,Hill Station,280.0,5,1,Bus,Standard,Budget,Off-season,14022.15
+Jaipur,Culture,1900.0,2,8,Train,Budget,Standard,Regular,50355.03
+Delhi,City,2200.0,2,1,Train,Budget,Standard,Regular,23843.77
+Rameswaram,Pilgrimage,420.0,6,5,Train,Budget,Budget,Peak,64610.9
+Wayanad,Nature,410.0,6,5,Bus,Standard,Budget,Off-season,62809.47
+Varkala,Beach,570.0,3,6,Car,Budget,Budget,Regular,55441.56
+Alleppey,Nature,520.0,3,2,Bus,Standard,Premium,Regular,24815.24
+Goa,Beach,850.0,5,6,Car,Budget,Budget,Regular,110752.09
+Rameswaram,Pilgrimage,420.0,5,2,Train,Standard,Standard,Regular,31285.15
+Kochi,Beach,520.0,3,4,Bus,Premium,Premium,Off-season,55879.33
+Hyderabad,City,650.0,6,6,Bus,Standard,Budget,Off-season,78612.42
+Rameswaram,Pilgrimage,420.0,4,8,Train,Premium,Standard,Peak,122541.5
+Rameswaram,Pilgrimage,420.0,2,3,Train,Standard,Standard,Regular,15905.65
+Wayanad,Nature,410.0,2,7,Car,Standard,Standard,Off-season,38089.18
+Delhi,City,2200.0,4,7,Train,Standard,Budget,Regular,112194.09
+Hyderabad,City,650.0,2,6,Train,Standard,Premium,Peak,45742.99
+Kodaikanal,Hill Station,310.0,5,4,Car,Budget,Premium,Regular,67329.19
+Manali,Hill Station,2800.0,4,2,Bus,Budget,Standard,Off-season,52700.61
+Manali,Hill Station,2800.0,2,6,Car,Standard,Premium,Peak,137171.78
+Pune,City,1050.0,1,8,Bus,Standard,Standard,Regular,33284.78
+Varanasi,Pilgrimage,1900.0,4,5,Car,Budget,Premium,Off-season,85425.64
+Jaipur,Culture,1900.0,6,2,Bus,Standard,Standard,Regular,66470.72
+Bengaluru,City,380.0,2,7,Bus,Standard,Standard,Off-season,43627.83
+Hampi,Culture,600.0,2,3,Train,Standard,Standard,Regular,17777.41
+Hampi,Culture,600.0,4,6,Car,Budget,Budget,Off-season,46088.62
+Alleppey,Nature,520.0,3,4,Train,Budget,Standard,Regular,32204.75
+Varkala,Beach,570.0,4,2,Train,Budget,Standard,Regular,26632.63
+Bengaluru,City,380.0,5,1,Bus,Standard,Budget,Peak,21544.01
+Hyderabad,City,650.0,3,7,Car,Standard,Standard,Off-season,66704.97
+Hampi,Culture,600.0,6,7,Car,Budget,Budget,Peak,103284.42
+Hampi,Culture,600.0,4,5,Bus,Budget,Standard,Peak,49874.01
+Wayanad,Nature,410.0,3,6,Car,Standard,Standard,Regular,52730.33
+Hyderabad,City,650.0,5,1,Car,Standard,Budget,Regular,28631.86
+Rameswaram,Pilgrimage,420.0,4,1,Bus,Premium,Premium,Regular,15456.83
+Agra,Culture,2100.0,5,6,Car,Standard,Premium,Regular,159492.23
+Wayanad,Nature,410.0,3,5,Bus,Budget,Standard,Regular,41553.63
+Pune,City,1050.0,4,2,Bus,Budget,Standard,Regular,32238.11
+Coorg,Hill Station,390.0,3,5,Train,Premium,Standard,Off-season,64159.09
+Munnar,Hill Station,430.0,4,3,Bus,Budget,Budget,Off-season,24853.21
+Alleppey,Nature,520.0,2,1,Flight,Standard,Standard,Regular,18282.99
+Rishikesh,Adventure,2500.0,3,4,Train,Standard,Standard,Peak,76959.61
+Goa,Beach,850.0,4,2,Car,Standard,Premium,Peak,70137.63
+Pune,City,1050.0,1,1,Bus,Standard,Budget,Regular,7044.52
+Bengaluru,City,380.0,6,1,Car,Budget,Budget,Regular,27055.27
+Mumbai,City,1250.0,1,5,Flight,Standard,Standard,Regular,44253.94
+Mumbai,City,1250.0,3,4,Bus,Standard,Budget,Regular,56556.55
+Kochi,Beach,520.0,1,1,Train,Budget,Budget,Off-season,4395.72
+Hyderabad,City,650.0,6,6,Train,Standard,Standard,Peak,146535.3
+Tirupati,Pilgrimage,300.0,4,1,Train,Premium,Budget,Regular,15477.87
+Alleppey,Nature,520.0,3,1,Bus,Premium,Standard,Off-season,13747.59
+Shimla,Hill Station,2600.0,6,7,Train,Standard,Standard,Regular,193310.0
+Kodaikanal,Hill Station,310.0,2,2,Train,Budget,Standard,Regular,11567.61
+Rameswaram,Pilgrimage,420.0,5,4,Car,Premium,Budget,Regular,56837.89
+Wayanad,Nature,410.0,5,1,Bus,Budget,Standard,Peak,22950.86
+Agra,Culture,2100.0,2,1,Bus,Budget,Standard,Off-season,12901.06
+Varanasi,Pilgrimage,1900.0,6,1,Car,Standard,Standard,Regular,67955.21
+Kochi,Beach,520.0,6,2,Flight,Standard,Standard,Off-season,59466.4
+Mumbai,City,1250.0,2,1,Car,Standard,Premium,Off-season,33504.6
+Hampi,Culture,600.0,5,2,Bus,Premium,Standard,Off-season,34776.59
+Mysuru,Culture,330.0,4,5,Bus,Budget,Budget,Peak,48089.88
+Jaipur,Culture,1900.0,3,5,Bus,Standard,Budget,Off-season,46288.34
+Ooty,Hill Station,280.0,5,1,Bus,Premium,Budget,Off-season,17462.65
+Rameswaram,Pilgrimage,420.0,5,3,Train,Standard,Standard,Regular,41670.75
+Kodaikanal,Hill Station,310.0,5,4,Bus,Standard,Budget,Off-season,50021.3
+Kodaikanal,Hill Station,310.0,1,6,Bus,Standard,Standard,Regular,18530.0
+Varanasi,Pilgrimage,1900.0,5,1,Car,Standard,Budget,Regular,62728.05
+Mahabalipuram,Beach,260.0,2,4,Train,Standard,Standard,Peak,26118.12
+Rameswaram,Pilgrimage,420.0,4,1,Train,Standard,Budget,Regular,13575.37
+Manali,Hill Station,2800.0,2,2,Train,Budget,Budget,Off-season,27281.87
+Varanasi,Pilgrimage,1900.0,6,5,Bus,Standard,Budget,Peak,118918.84
+Hyderabad,City,650.0,1,2,Train,Budget,Standard,Off-season,9084.18
+Bengaluru,City,380.0,6,8,Train,Standard,Budget,Off-season,119045.66
+Mahabalipuram,Beach,260.0,1,2,Car,Standard,Standard,Peak,15379.1
+Thanjavur,Culture,80.0,5,4,Bus,Budget,Budget,Regular,27212.13
+Ooty,Hill Station,280.0,6,2,Bus,Standard,Budget,Peak,43093.77
+Rameswaram,Pilgrimage,420.0,5,4,Train,Standard,Premium,Peak,78018.52
+Jaipur,Culture,1900.0,4,5,Car,Budget,Standard,Regular,113769.6
+Kochi,Beach,520.0,3,7,Bus,Standard,Premium,Peak,85200.46
+Madurai,Culture,190.0,1,3,Car,Standard,Standard,Regular,14351.89
+Hampi,Culture,600.0,3,2,Train,Premium,Standard,Regular,23508.01
+Wayanad,Nature,410.0,2,8,Flight,Standard,Standard,Off-season,42318.95
+Tirupati,Pilgrimage,300.0,6,6,Car,Premium,Premium,Peak,131287.81
+Chennai,City,350.0,2,4,Flight,Budget,Budget,Peak,30421.85
+Varanasi,Pilgrimage,1900.0,4,6,Train,Premium,Standard,Regular,99545.43
+Munnar,Hill Station,430.0,2,8,Car,Budget,Standard,Regular,50402.79
+Hampi,Culture,600.0,2,4,Train,Budget,Budget,Off-season,15511.73
+Varkala,Beach,570.0,3,6,Bus,Budget,Premium,Regular,56515.8
+Goa,Beach,850.0,4,7,Train,Budget,Standard,Peak,111132.26
+Shimla,Hill Station,2600.0,1,7,Train,Premium,Standard,Off-season,51384.89
+Mahabalipuram,Beach,260.0,6,7,Bus,Standard,Standard,Regular,105539.84
+Rishikesh,Adventure,2500.0,4,5,Car,Standard,Budget,Peak,133791.1
+Manali,Hill Station,2800.0,4,8,Bus,Standard,Standard,Peak,171169.62
+Mysuru,Culture,330.0,5,7,Bus,Standard,Budget,Peak,105565.71
+Munnar,Hill Station,430.0,6,2,Bus,Premium,Standard,Peak,62568.14
+Bengaluru,City,380.0,3,5,Train,Standard,Standard,Peak,76094.35
+Kodaikanal,Hill Station,310.0,5,1,Train,Standard,Premium,Regular,18685.75
+Madurai,Culture,190.0,5,3,Bus,Budget,Premium,Regular,32728.33
+Wayanad,Nature,410.0,5,2,Bus,Premium,Budget,Regular,36164.42
+Mahabalipuram,Beach,260.0,1,2,Bus,Budget,Budget,Peak,7623.4
+Madurai,Culture,190.0,3,5,Flight,Budget,Premium,Regular,37132.74
+Bengaluru,City,380.0,3,3,Bus,Standard,Budget,Regular,33652.31
+Tirupati,Pilgrimage,300.0,5,6,Train,Budget,Premium,Regular,70153.57
+Pondicherry,Beach,170.0,4,7,Train,Standard,Budget,Regular,58994.91
+Wayanad,Nature,410.0,5,3,Train,Budget,Standard,Peak,48662.82
+Kodaikanal,Hill Station,310.0,6,6,Train,Standard,Budget,Regular,91183.01
+Varanasi,Pilgrimage,1900.0,3,1,Bus,Standard,Budget,Regular,22835.42
+Chennai,City,350.0,1,4,Bus,Budget,Standard,Regular,14140.29
+Yercaud,Hill Station,180.0,4,3,Bus,Premium,Budget,Regular,29683.14
+Manali,Hill Station,2800.0,2,1,Car,Budget,Budget,Off-season,58952.83
+Chennai,City,350.0,5,2,Car,Premium,Standard,Off-season,48418.65
+Wayanad,Nature,410.0,1,3,Train,Budget,Budget,Regular,8308.57
+Shimla,Hill Station,2600.0,1,2,Train,Budget,Budget,Off-season,15822.82
+Munnar,Hill Station,430.0,5,2,Bus,Premium,Premium,Off-season,43919.14
+Rishikesh,Adventure,2500.0,2,2,Bus,Premium,Standard,Regular,27660.4
+Shimla,Hill Station,2600.0,1,8,Train,Standard,Budget,Regular,47620.65
+Alleppey,Nature,520.0,6,8,Train,Budget,Standard,Peak,154672.0
+Jaipur,Culture,1900.0,2,2,Bus,Standard,Standard,Off-season,20308.95
+Mahabalipuram,Beach,260.0,6,3,Bus,Budget,Budget,Off-season,33039.65
+Varkala,Beach,570.0,2,5,Train,Standard,Budget,Off-season,24959.58
+Rameswaram,Pilgrimage,420.0,1,8,Bus,Standard,Budget,Off-season,21351.12
+Rishikesh,Adventure,2500.0,1,5,Train,Standard,Budget,Regular,27413.96
+Shimla,Hill Station,2600.0,2,3,Bus,Budget,Premium,Regular,35111.6
+Yercaud,Hill Station,180.0,5,7,Bus,Standard,Budget,Regular,74155.42
+Chennai,City,350.0,2,1,Train,Standard,Standard,Off-season,6238.26
+Madurai,Culture,190.0,4,1,Car,Standard,Standard,Regular,12673.99
+Shimla,Hill Station,2600.0,5,6,Car,Budget,Standard,Regular,151313.08
+Coorg,Hill Station,390.0,1,4,Bus,Standard,Budget,Regular,13888.14
+Yercaud,Hill Station,180.0,5,3,Bus,Standard,Budget,Off-season,30150.08
+Rameswaram,Pilgrimage,420.0,1,4,Bus,Standard,Premium,Regular,14179.81
+Shimla,Hill Station,2600.0,1,3,Train,Standard,Budget,Off-season,21775.15
+Coorg,Hill Station,390.0,5,3,Flight,Budget,Budget,Regular,54217.43
+Varkala,Beach,570.0,1,2,Bus,Budget,Standard,Regular,6966.86
+Mysuru,Culture,330.0,5,7,Bus,Premium,Premium,Regular,141634.27
+Madurai,Culture,190.0,6,3,Bus,Standard,Standard,Peak,50931.87
+Chennai,City,350.0,5,8,Train,Standard,Standard,Peak,161197.18
+Pune,City,1050.0,6,2,Train,Budget,Premium,Off-season,58038.03
+Varanasi,Pilgrimage,1900.0,6,4,Train,Standard,Budget,Off-season,89831.44
+Coorg,Hill Station,390.0,3,1,Train,Budget,Budget,Regular,11406.84
+Ooty,Hill Station,280.0,4,7,Bus,Budget,Standard,Off-season,52980.83
+Wayanad,Nature,410.0,6,8,Flight,Budget,Budget,Off-season,107581.85
+Delhi,City,2200.0,1,2,Train,Standard,Budget,Regular,17915.23
+Kodaikanal,Hill Station,310.0,2,3,Train,Standard,Standard,Off-season,14059.05
+Pondicherry,Beach,170.0,2,8,Bus,Budget,Budget,Off-season,24102.71
+Rishikesh,Adventure,2500.0,1,7,Car,Budget,Budget,Peak,106829.51
+Varkala,Beach,570.0,4,8,Bus,Standard,Premium,Off-season,94511.53
+Hyderabad,City,650.0,4,5,Bus,Budget,Budget,Peak,61427.06
+Pune,City,1050.0,5,1,Car,Budget,Standard,Regular,42629.83
+Kochi,Beach,520.0,2,4,Train,Budget,Budget,Off-season,17679.2
+Hyderabad,City,650.0,5,2,Bus,Budget,Standard,Regular,34849.44
+Pune,City,1050.0,6,5,Car,Standard,Budget,Peak,133861.84
+Manali,Hill Station,2800.0,6,5,Bus,Budget,Standard,Regular,129829.21
+Jaipur,Culture,1900.0,3,3,Bus,Budget,Budget,Peak,46884.9
+Varkala,Beach,570.0,1,8,Car,Standard,Standard,Peak,50547.66
+Tirupati,Pilgrimage,300.0,5,8,Train,Budget,Budget,Regular,64610.98
+Munnar,Hill Station,430.0,6,2,Bus,Premium,Budget,Off-season,44113.32
+Coorg,Hill Station,390.0,6,3,Train,Budget,Budget,Regular,47041.37
+Varkala,Beach,570.0,2,3,Bus,Budget,Budget,Regular,14470.64
+Mysuru,Culture,330.0,5,7,Train,Standard,Standard,Peak,88229.05
+Rameswaram,Pilgrimage,420.0,2,1,Car,Budget,Budget,Off-season,11722.57
+Manali,Hill Station,2800.0,1,1,Train,Standard,Budget,Peak,21475.18
+Kochi,Beach,520.0,6,4,Bus,Standard,Standard,Regular,65104.5
+Pune,City,1050.0,1,1,Bus,Budget,Budget,Peak,7256.66
+Yercaud,Hill Station,180.0,5,7,Train,Standard,Budget,Regular,64371.86
+Varanasi,Pilgrimage,1900.0,4,1,Car,Budget,Standard,Off-season,54239.31
+Hampi,Culture,600.0,5,1,Bus,Standard,Budget,Off-season,13946.51
+Madurai,Culture,190.0,4,4,Train,Standard,Standard,Regular,33455.58
+Bengaluru,City,380.0,2,3,Train,Budget,Standard,Regular,18537.8
+Thanjavur,Culture,80.0,6,8,Bus,Budget,Budget,Peak,91132.1
+Jaipur,Culture,1900.0,3,2,Train,Budget,Budget,Peak,46551.78
+Varkala,Beach,570.0,6,1,Bus,Standard,Standard,Regular,24048.73
+Varanasi,Pilgrimage,1900.0,2,1,Train,Budget,Budget,Regular,17951.91
+Agra,Culture,2100.0,5,6,Car,Budget,Standard,Peak,176140.9
+Pune,City,1050.0,5,6,Train,Budget,Budget,Regular,89166.35
+Kodaikanal,Hill Station,310.0,6,4,Bus,Standard,Standard,Off-season,48740.73
+Jaipur,Culture,1900.0,2,6,Train,Standard,Standard,Regular,50180.03
+Mysuru,Culture,330.0,1,6,Train,Standard,Standard,Regular,20658.32
+Mysuru,Culture,330.0,2,8,Bus,Premium,Standard,Off-season,38707.79
+Wayanad,Nature,410.0,2,1,Train,Standard,Standard,Regular,7907.48
+Agra,Culture,2100.0,6,7,Flight,Standard,Budget,Off-season,195582.51
+Varanasi,Pilgrimage,1900.0,3,2,Car,Standard,Budget,Regular,62983.26
+Rameswaram,Pilgrimage,420.0,3,4,Train,Budget,Standard,Off-season,24849.6
+Tirupati,Pilgrimage,300.0,6,6,Bus,Standard,Budget,Off-season,61919.81
+Pondicherry,Beach,170.0,4,1,Train,Budget,Standard,Peak,13245.09
+Wayanad,Nature,410.0,3,3,Bus,Budget,Standard,Regular,22258.68
+Coorg,Hill Station,390.0,6,6,Car,Budget,Budget,Peak,98828.19
+Bengaluru,City,380.0,5,5,Train,Budget,Budget,Regular,72158.95
+Manali,Hill Station,2800.0,1,7,Train,Premium,Premium,Regular,70711.82
+Yercaud,Hill Station,180.0,3,2,Train,Budget,Standard,Regular,12284.36
+Delhi,City,2200.0,3,7,Train,Standard,Standard,Regular,110732.97
+Mahabalipuram,Beach,260.0,4,8,Train,Budget,Premium,Regular,83058.7
+Chennai,City,350.0,1,3,Bus,Standard,Standard,Regular,12842.19
+Thanjavur,Culture,80.0,3,5,Train,Standard,Standard,Regular,30794.5
+Manali,Hill Station,2800.0,4,2,Bus,Premium,Standard,Regular,68938.31
+Hampi,Culture,600.0,3,1,Flight,Standard,Standard,Off-season,25212.24
+Alleppey,Nature,520.0,2,5,Train,Budget,Standard,Off-season,23907.96
+Pondicherry,Beach,170.0,2,5,Train,Standard,Standard,Peak,31164.0
+Mumbai,City,1250.0,4,7,Bus,Standard,Budget,Regular,107531.57
+Jaipur,Culture,1900.0,1,3,Train,Standard,Budget,Off-season,15842.9
+Hyderabad,City,650.0,5,7,Car,Budget,Standard,Regular,128172.51
+Kodaikanal,Hill Station,310.0,1,1,Train,Budget,Budget,Off-season,3777.67
+Goa,Beach,850.0,6,6,Train,Budget,Standard,Regular,113835.09
+Goa,Beach,850.0,1,2,Car,Standard,Standard,Regular,27875.64
+Mumbai,City,1250.0,1,5,Train,Premium,Budget,Regular,42306.22
+Tirupati,Pilgrimage,300.0,2,2,Bus,Standard,Standard,Off-season,7885.95
+Coorg,Hill Station,390.0,6,5,Train,Standard,Premium,Regular,102520.0
+Mahabalipuram,Beach,260.0,4,6,Train,Budget,Budget,Peak,66215.42
+Mysuru,Culture,330.0,3,5,Car,Budget,Budget,Regular,37883.25
+Hyderabad,City,650.0,3,8,Bus,Budget,Budget,Regular,70339.06
+Agra,Culture,2100.0,1,8,Bus,Standard,Standard,Regular,34327.46
+Chennai,City,350.0,1,1,Bus,Standard,Budget,Regular,4626.75
+Delhi,City,2200.0,6,6,Bus,Standard,Standard,Regular,163593.11
+Manali,Hill Station,2800.0,1,4,Car,Budget,Standard,Regular,87219.42
+Madurai,Culture,190.0,2,6,Train,Standard,Budget,Peak,30336.38
+Mumbai,City,1250.0,3,8,Flight,Standard,Standard,Regular,150998.51
+Wayanad,Nature,410.0,6,1,Train,Standard,Budget,Regular,22168.02
+Yercaud,Hill Station,180.0,5,6,Train,Budget,Budget,Off-season,45586.19
+Madurai,Culture,190.0,6,2,Train,Budget,Budget,Peak,27237.08
+Alleppey,Nature,520.0,6,1,Bus,Premium,Standard,Regular,28908.85
+Agra,Culture,2100.0,3,4,Train,Standard,Standard,Off-season,51048.62
+Mumbai,City,1250.0,1,3,Bus,Premium,Budget,Regular,26398.25
+Rameswaram,Pilgrimage,420.0,3,5,Train,Standard,Premium,Peak,58283.61
+Alleppey,Nature,520.0,5,6,Train,Budget,Standard,Off-season,67207.44
+Chennai,City,350.0,6,1,Train,Standard,Budget,Regular,23374.77
+Alleppey,Nature,520.0,5,2,Bus,Standard,Standard,Peak,44842.85
+Kodaikanal,Hill Station,310.0,4,8,Bus,Budget,Premium,Off-season,77472.19
+Munnar,Hill Station,430.0,1,3,Bus,Standard,Standard,Off-season,11532.25
+Kochi,Beach,520.0,5,3,Bus,Premium,Budget,Regular,55959.68
+Madurai,Culture,190.0,2,8,Train,Standard,Standard,Regular,28411.99
+Madurai,Culture,190.0,2,8,Car,Premium,Budget,Peak,52954.4
+Goa,Beach,850.0,5,6,Flight,Budget,Standard,Regular,150119.48
+Manali,Hill Station,2800.0,6,7,Bus,Budget,Budget,Regular,166374.19
+Yercaud,Hill Station,180.0,6,4,Train,Budget,Standard,Peak,54863.16
+Varanasi,Pilgrimage,1900.0,2,8,Flight,Budget,Standard,Regular,71395.5
+Bengaluru,City,380.0,2,4,Bus,Standard,Budget,Regular,23802.64
+Rameswaram,Pilgrimage,420.0,4,4,Car,Budget,Budget,Peak,44051.03
+Rishikesh,Adventure,2500.0,4,5,Bus,Standard,Budget,Regular,76591.93
+Rishikesh,Adventure,2500.0,1,7,Bus,Budget,Budget,Regular,26244.09
+Alleppey,Nature,520.0,4,2,Car,Budget,Premium,Regular,40085.13
+Thanjavur,Culture,80.0,6,2,Bus,Standard,Budget,Peak,25048.76
+Mahabalipuram,Beach,260.0,2,5,Bus,Budget,Budget,Off-season,17466.9
+Hyderabad,City,650.0,4,8,Train,Premium,Budget,Peak,173840.67
+Pondicherry,Beach,170.0,1,4,Bus,Budget,Standard,Regular,11569.35
+Pune,City,1050.0,4,3,Bus,Premium,Budget,Regular,41561.46
+Bengaluru,City,380.0,6,1,Train,Premium,Budget,Peak,36951.9
+Rishikesh,Adventure,2500.0,4,4,Bus,Premium,Premium,Regular,100813.49
+Tirupati,Pilgrimage,300.0,2,3,Bus,Budget,Standard,Regular,12196.4
+Hyderabad,City,650.0,2,4,Bus,Standard,Budget,Regular,24676.83
+Coorg,Hill Station,390.0,1,3,Car,Standard,Standard,Regular,20145.35
+Thanjavur,Culture,80.0,3,1,Car,Premium,Budget,Off-season,8188.13
+Hyderabad,City,650.0,4,6,Train,Standard,Standard,Off-season,76158.03
+Bengaluru,City,380.0,2,4,Car,Standard,Budget,Peak,39231.42
+Kochi,Beach,520.0,4,1,Train,Standard,Standard,Regular,18308.67
+Munnar,Hill Station,430.0,4,2,Flight,Budget,Standard,Regular,36887.79
+Varkala,Beach,570.0,3,7,Train,Premium,Standard,Peak,105734.6
+Kodaikanal,Hill Station,310.0,4,4,Car,Premium,Budget,Regular,52030.27
+Pondicherry,Beach,170.0,5,2,Bus,Budget,Standard,Regular,28392.28
+Delhi,City,2200.0,4,3,Bus,Standard,Budget,Regular,55054.34
+Coorg,Hill Station,390.0,6,4,Bus,Budget,Budget,Regular,59234.56
+Delhi,City,2200.0,6,6,Train,Budget,Budget,Off-season,135506.48
+Pondicherry,Beach,170.0,3,6,Bus,Standard,Budget,Regular,39664.87
+Rishikesh,Adventure,2500.0,5,1,Bus,Budget,Standard,Off-season,45658.27
+Hyderabad,City,650.0,6,2,Bus,Standard,Budget,Peak,53651.55
+Pune,City,1050.0,1,2,Bus,Standard,Premium,Regular,11219.05
+Mysuru,Culture,330.0,5,1,Car,Budget,Standard,Peak,24968.06
+Pune,City,1050.0,6,4,Bus,Budget,Standard,Off-season,65567.22
+Goa,Beach,850.0,1,4,Car,Standard,Standard,Off-season,38202.32
+Alleppey,Nature,520.0,1,6,Bus,Premium,Budget,Regular,29865.8
+Varanasi,Pilgrimage,1900.0,5,2,Bus,Standard,Premium,Regular,50460.6
+Yercaud,Hill Station,180.0,2,5,Car,Budget,Standard,Peak,28072.26
+Mysuru,Culture,330.0,3,1,Bus,Budget,Budget,Peak,11567.28
+Alleppey,Nature,520.0,1,6,Train,Budget,Budget,Off-season,16374.81
+Madurai,Culture,190.0,1,4,Bus,Budget,Budget,Off-season,7692.12
+Agra,Culture,2100.0,4,2,Bus,Standard,Standard,Peak,53440.43
+Chennai,City,350.0,4,4,Train,Standard,Budget,Regular,45150.88
+Wayanad,Nature,410.0,5,7,Bus,Standard,Standard,Regular,91549.63
+Rishikesh,Adventure,2500.0,3,4,Flight,Standard,Standard,Regular,136436.55
+Chennai,City,350.0,1,6,Bus,Budget,Budget,Regular,19000.74
+Agra,Culture,2100.0,4,2,Car,Budget,Budget,Peak,91943.51
+Varkala,Beach,570.0,3,6,Bus,Premium,Standard,Regular,85907.25
+Yercaud,Hill Station,180.0,4,7,Car,Standard,Standard,Regular,57971.72
+Pune,City,1050.0,4,4,Bus,Budget,Standard,Off-season,45676.43
+Mysuru,Culture,330.0,6,7,Bus,Budget,Standard,Regular,75185.61
+Shimla,Hill Station,2600.0,4,4,Bus,Standard,Budget,Regular,73796.66
+Thanjavur,Culture,80.0,1,1,Car,Budget,Budget,Off-season,3181.54
+Coorg,Hill Station,390.0,3,4,Flight,Standard,Standard,Regular,51377.11
+Mumbai,City,1250.0,6,6,Bus,Standard,Budget,Regular,144318.42
+Hampi,Culture,600.0,1,8,Bus,Standard,Standard,Off-season,22436.63
+Coorg,Hill Station,390.0,4,4,Flight,Budget,Budget,Off-season,45986.45
+Rishikesh,Adventure,2500.0,4,4,Car,Budget,Standard,Regular,108806.71
+Ooty,Hill Station,280.0,6,8,Bus,Premium,Standard,Off-season,128935.13
+Agra,Culture,2100.0,4,6,Bus,Standard,Standard,Regular,69288.73
+Varkala,Beach,570.0,3,4,Bus,Budget,Budget,Off-season,29002.37
+Mysuru,Culture,330.0,5,2,Bus,Standard,Budget,Regular,27232.56
+Coorg,Hill Station,390.0,2,1,Train,Budget,Standard,Regular,8404.3
+Yercaud,Hill Station,180.0,6,4,Flight,Budget,Premium,Peak,75020.15
+Hampi,Culture,600.0,1,4,Car,Budget,Premium,Regular,23853.41
+Coorg,Hill Station,390.0,5,5,Bus,Budget,Premium,Off-season,66126.91
+Thanjavur,Culture,80.0,6,2,Train,Budget,Standard,Peak,25835.44
+Kodaikanal,Hill Station,310.0,3,8,Bus,Standard,Budget,Peak,70505.62
+Shimla,Hill Station,2600.0,1,4,Bus,Budget,Budget,Peak,27421.45
+Ooty,Hill Station,280.0,4,3,Car,Budget,Standard,Regular,31415.68
+Varkala,Beach,570.0,3,3,Train,Standard,Standard,Regular,32417.91
+Pondicherry,Beach,170.0,2,7,Bus,Budget,Budget,Off-season,27269.93
+Shimla,Hill Station,2600.0,4,6,Car,Standard,Budget,Peak,154106.76
+Manali,Hill Station,2800.0,4,5,Bus,Standard,Standard,Regular,103201.89
+Shimla,Hill Station,2600.0,6,8,Train,Premium,Premium,Off-season,264547.63
+Hampi,Culture,600.0,4,2,Bus,Budget,Standard,Off-season,17602.49
+Varanasi,Pilgrimage,1900.0,1,8,Car,Premium,Standard,Regular,74326.25
+Agra,Culture,2100.0,1,1,Flight,Standard,Standard,Off-season,25387.0
+Pune,City,1050.0,4,8,Car,Standard,Standard,Off-season,112347.6
+Mysuru,Culture,330.0,5,2,Train,Standard,Standard,Regular,30584.19
+Hyderabad,City,650.0,6,5,Train,Standard,Premium,Off-season,109784.97
+Manali,Hill Station,2800.0,2,7,Bus,Standard,Budget,Off-season,50221.21
+Agra,Culture,2100.0,6,5,Bus,Budget,Budget,Off-season,71339.64
+Varanasi,Pilgrimage,1900.0,4,2,Bus,Budget,Standard,Regular,36705.65
+Mahabalipuram,Beach,260.0,4,7,Train,Standard,Standard,Off-season,68373.96
+Hampi,Culture,600.0,5,5,Train,Budget,Standard,Peak,65901.81
+Kochi,Beach,520.0,1,8,Train,Standard,Standard,Peak,39912.89
+Rameswaram,Pilgrimage,420.0,3,4,Bus,Budget,Standard,Off-season,22215.03
+Mysuru,Culture,330.0,6,1,Bus,Standard,Standard,Peak,21549.71
+Jaipur,Culture,1900.0,6,1,Bus,Budget,Standard,Regular,40112.96
+Hampi,Culture,600.0,4,2,Bus,Budget,Budget,Regular,20779.68
+Thanjavur,Culture,80.0,5,2,Train,Budget,Standard,Off-season,16377.69
+Shimla,Hill Station,2600.0,1,7,Train,Budget,Standard,Regular,40646.91
+Pondicherry,Beach,170.0,2,3,Train,Standard,Standard,Regular,14232.54
+Ooty,Hill Station,280.0,1,5,Train,Standard,Standard,Off-season,19227.23
+Goa,Beach,850.0,5,4,Train,Budget,Standard,Regular,76063.24
+Wayanad,Nature,410.0,3,8,Bus,Standard,Budget,Regular,69067.16
+Yercaud,Hill Station,180.0,6,6,Flight,Budget,Budget,Regular,60579.59
+Bengaluru,City,380.0,6,8,Train,Premium,Standard,Off-season,150368.17
+Hyderabad,City,650.0,3,4,Train,Premium,Budget,Regular,54382.36
+Rameswaram,Pilgrimage,420.0,2,1,Car,Standard,Budget,Off-season,13431.76
+Delhi,City,2200.0,3,5,Car,Standard,Premium,Regular,133873.66
+Alleppey,Nature,520.0,4,7,Flight,Budget,Standard,Regular,92820.26
+Rishikesh,Adventure,2500.0,6,8,Car,Budget,Budget,Regular,169412.39
+Mysuru,Culture,330.0,6,2,Car,Standard,Budget,Off-season,31296.47
+Thanjavur,Culture,80.0,5,2,Car,Standard,Standard,Regular,22566.41
+Delhi,City,2200.0,5,7,Car,Standard,Premium,Regular,205978.05
+Varanasi,Pilgrimage,1900.0,5,3,Bus,Standard,Budget,Regular,61375.77
+Mumbai,City,1250.0,3,2,Train,Budget,Standard,Regular,33237.38
+Yercaud,Hill Station,180.0,4,5,Train,Budget,Budget,Regular,32313.19
+Delhi,City,2200.0,1,6,Bus,Budget,Budget,Regular,22497.37
+Thanjavur,Culture,80.0,3,6,Bus,Standard,Budget,Regular,31168.49
+Bengaluru,City,380.0,2,2,Bus,Standard,Standard,Off-season,13713.66
+Hampi,Culture,600.0,2,1,Train,Budget,Premium,Regular,8654.71
+Chennai,City,350.0,1,3,Bus,Budget,Budget,Regular,11253.77
+Delhi,City,2200.0,4,5,Flight,Budget,Budget,Off-season,119647.42
+Munnar,Hill Station,430.0,3,6,Bus,Budget,Standard,Regular,52838.4
+Rishikesh,Adventure,2500.0,2,8,Bus,Standard,Standard,Regular,55511.65
+Alleppey,Nature,520.0,5,8,Train,Standard,Standard,Regular,118685.11
+Goa,Beach,850.0,2,7,Bus,Budget,Budget,Regular,42808.52
+Kochi,Beach,520.0,2,7,Train,Budget,Budget,Regular,30947.91
+Agra,Culture,2100.0,2,4,Bus,Budget,Budget,Off-season,25559.11
+Munnar,Hill Station,430.0,1,8,Car,Standard,Standard,Regular,39495.63
+Munnar,Hill Station,430.0,4,1,Bus,Standard,Standard,Peak,20194.7
+Coorg,Hill Station,390.0,6,4,Train,Premium,Budget,Off-season,69815.25
+Chennai,City,350.0,6,7,Bus,Standard,Budget,Regular,102085.02
+Rameswaram,Pilgrimage,420.0,6,2,Train,Budget,Premium,Regular,41866.57
+Munnar,Hill Station,430.0,6,3,Bus,Budget,Standard,Regular,51200.29
+Pune,City,1050.0,5,8,Bus,Budget,Budget,Regular,105497.33
+Hyderabad,City,650.0,4,5,Bus,Standard,Budget,Regular,54787.08
+Alleppey,Nature,520.0,2,3,Train,Standard,Budget,Regular,16474.85
+Ooty,Hill Station,280.0,4,5,Train,Budget,Standard,Regular,45367.27
+Ooty,Hill Station,280.0,2,2,Bus,Standard,Budget,Off-season,9459.07
+Agra,Culture,2100.0,5,7,Bus,Standard,Standard,Peak,146222.43
+Varkala,Beach,570.0,1,5,Train,Budget,Premium,Peak,21711.13
+Coorg,Hill Station,390.0,5,3,Train,Standard,Budget,Regular,48124.96
+Goa,Beach,850.0,3,8,Car,Budget,Standard,Off-season,88543.96
+Hampi,Culture,600.0,4,1,Train,Standard,Standard,Peak,22511.01
+Chennai,City,350.0,5,5,Bus,Standard,Budget,Off-season,68153.84
+Coorg,Hill Station,390.0,4,2,Car,Budget,Standard,Peak,39317.38
+Ooty,Hill Station,280.0,3,5,Bus,Budget,Standard,Regular,36606.44
+Wayanad,Nature,410.0,4,1,Train,Standard,Premium,Off-season,16164.57
+Rameswaram,Pilgrimage,420.0,1,2,Car,Standard,Standard,Peak,17960.24
+Yercaud,Hill Station,180.0,2,2,Train,Premium,Budget,Regular,10392.92
+Kochi,Beach,520.0,2,5,Bus,Budget,Standard,Regular,25693.44
+Wayanad,Nature,410.0,6,7,Bus,Standard,Budget,Off-season,95402.92
+Thanjavur,Culture,80.0,2,4,Car,Standard,Budget,Off-season,12930.8
+Mumbai,City,1250.0,4,4,Train,Standard,Budget,Off-season,65768.61
+Munnar,Hill Station,430.0,4,2,Bus,Budget,Standard,Regular,24632.62
+Varanasi,Pilgrimage,1900.0,5,2,Car,Standard,Standard,Regular,76710.16
+Thanjavur,Culture,80.0,4,2,Bus,Premium,Budget,Peak,21752.91
+Madurai,Culture,190.0,4,7,Bus,Standard,Standard,Peak,64714.47
+Pondicherry,Beach,170.0,2,6,Bus,Standard,Budget,Off-season,24806.76
+Hampi,Culture,600.0,4,5,Train,Standard,Standard,Peak,63673.95
+Chennai,City,350.0,2,3,Car,Budget,Standard,Regular,21551.33
+Thanjavur,Culture,80.0,1,7,Train,Standard,Budget,Regular,16768.01
+Hyderabad,City,650.0,6,8,Bus,Budget,Standard,Peak,170204.13
+Bengaluru,City,380.0,1,3,Bus,Premium,Standard,Off-season,19075.55
+Rameswaram,Pilgrimage,420.0,5,2,Train,Standard,Standard,Off-season,25686.56
+Varanasi,Pilgrimage,1900.0,5,3,Bus,Budget,Standard,Peak,71768.29
+Mumbai,City,1250.0,1,7,Train,Budget,Standard,Off-season,28584.89
+Manali,Hill Station,2800.0,2,6,Train,Budget,Standard,Peak,75157.41
+Pondicherry,Beach,170.0,4,6,Train,Budget,Budget,Off-season,39395.62
+Mahabalipuram,Beach,260.0,3,4,Car,Budget,Standard,Regular,35620.25
+Ooty,Hill Station,280.0,5,8,Train,Budget,Standard,Regular,97022.05
+Varanasi,Pilgrimage,1900.0,4,4,Train,Standard,Premium,Regular,83403.17
+Rishikesh,Adventure,2500.0,2,7,Train,Budget,Budget,Peak,57030.88
+Manali,Hill Station,2800.0,5,5,Bus,Budget,Budget,Regular,103621.54
+Mahabalipuram,Beach,260.0,2,8,Bus,Budget,Budget,Off-season,28850.87
+Chennai,City,350.0,5,6,Car,Standard,Budget,Peak,123250.14
+Varkala,Beach,570.0,3,3,Train,Premium,Standard,Regular,43845.25
+Munnar,Hill Station,430.0,5,8,Bus,Budget,Standard,Off-season,95659.43
+Delhi,City,2200.0,2,4,Bus,Standard,Budget,Regular,33018.75
+Rameswaram,Pilgrimage,420.0,6,8,Train,Premium,Budget,Off-season,111498.53
+Rishikesh,Adventure,2500.0,5,2,Train,Standard,Budget,Regular,87731.61
+Kodaikanal,Hill Station,310.0,2,1,Car,Standard,Standard,Regular,13674.12
+Wayanad,Nature,410.0,3,4,Bus,Standard,Standard,Regular,38090.14
+Mysuru,Culture,330.0,1,2,Car,Standard,Budget,Regular,15201.83
+Chennai,City,350.0,5,5,Train,Budget,Budget,Regular,65142.9
+Bengaluru,City,380.0,6,1,Bus,Budget,Standard,Regular,27266.98
+Mysuru,Culture,330.0,6,4,Car,Budget,Budget,Off-season,43697.62
+Chennai,City,350.0,6,1,Bus,Standard,Standard,Peak,26856.9
+Alleppey,Nature,520.0,4,6,Train,Budget,Premium,Peak,83787.86
+Pondicherry,Beach,170.0,6,5,Train,Standard,Budget,Regular,70368.72
+Munnar,Hill Station,430.0,3,8,Bus,Premium,Budget,Off-season,81939.1
+Varkala,Beach,570.0,4,7,Train,Budget,Budget,Regular,60678.83
+Agra,Culture,2100.0,1,4,Bus,Standard,Budget,Regular,18795.17
+Hampi,Culture,600.0,3,4,Train,Premium,Standard,Regular,47357.63
+Kochi,Beach,520.0,6,6,Bus,Budget,Standard,Off-season,79550.84
+Kodaikanal,Hill Station,310.0,1,6,Bus,Budget,Standard,Off-season,18061.92
+Kodaikanal,Hill Station,310.0,1,3,Train,Budget,Budget,Regular,10167.73
+Mumbai,City,1250.0,2,2,Flight,Standard,Premium,Off-season,45751.24
+Munnar,Hill Station,430.0,4,1,Bus,Budget,Budget,Regular,13547.25
+Madurai,Culture,190.0,2,8,Bus,Budget,Budget,Regular,27215.47
+Kochi,Beach,520.0,6,4,Bus,Standard,Budget,Regular,66183.4
+Ooty,Hill Station,280.0,5,4,Train,Budget,Premium,Regular,59607.32
+Kodaikanal,Hill Station,310.0,5,7,Train,Budget,Standard,Off-season,70785.42
+Chennai,City,350.0,4,5,Train,Standard,Standard,Regular,63178.85
+Mahabalipuram,Beach,260.0,2,7,Bus,Standard,Standard,Off-season,25061.51
+Jaipur,Culture,1900.0,5,4,Train,Standard,Standard,Regular,88761.3
+Manali,Hill Station,2800.0,1,4,Bus,Budget,Budget,Regular,19993.41
+Manali,Hill Station,2800.0,1,2,Bus,Premium,Premium,Off-season,21163.43
+Goa,Beach,850.0,1,2,Bus,Budget,Budget,Regular,10128.68
+Rishikesh,Adventure,2500.0,3,4,Train,Budget,Premium,Regular,69065.82
+Mumbai,City,1250.0,2,5,Bus,Standard,Standard,Regular,41943.83
+Chennai,City,350.0,6,7,Bus,Standard,Premium,Off-season,137818.72
+Mumbai,City,1250.0,6,5,Flight,Budget,Standard,Regular,183664.83
+Varkala,Beach,570.0,3,8,Bus,Premium,Standard,Peak,109824.26
+Hampi,Culture,600.0,4,7,Car,Standard,Standard,Off-season,64075.62
+Tirupati,Pilgrimage,300.0,6,3,Train,Budget,Standard,Regular,36723.68
+Kochi,Beach,520.0,6,8,Car,Standard,Budget,Peak,156493.04
+Hampi,Culture,600.0,4,2,Bus,Standard,Standard,Off-season,21702.88
+Kochi,Beach,520.0,2,1,Bus,Budget,Standard,Off-season,6384.95
+Madurai,Culture,190.0,6,1,Car,Premium,Standard,Regular,19276.75
+Mysuru,Culture,330.0,2,8,Train,Budget,Standard,Regular,31484.68
+Kodaikanal,Hill Station,310.0,1,4,Bus,Budget,Standard,Regular,11206.67
+Mumbai,City,1250.0,1,3,Bus,Budget,Budget,Peak,21047.42
+Yercaud,Hill Station,180.0,2,7,Train,Standard,Standard,Peak,39584.29
+Varanasi,Pilgrimage,1900.0,5,2,Train,Budget,Budget,Regular,61666.95
+Pune,City,1050.0,4,2,Bus,Budget,Premium,Regular,32176.03
+Alleppey,Nature,520.0,3,3,Train,Standard,Budget,Regular,30793.83
+Thanjavur,Culture,80.0,5,6,Car,Premium,Budget,Regular,70687.21
+Mysuru,Culture,330.0,6,2,Train,Budget,Budget,Regular,27280.22
+Rameswaram,Pilgrimage,420.0,4,2,Car,Standard,Premium,Regular,32906.61
+Varkala,Beach,570.0,5,7,Bus,Premium,Budget,Regular,138122.64
+Munnar,Hill Station,430.0,6,2,Bus,Standard,Budget,Regular,38233.61
+Kodaikanal,Hill Station,310.0,3,5,Train,Budget,Budget,Peak,47710.43
+Pondicherry,Beach,170.0,1,6,Bus,Budget,Budget,Peak,19623.76
+Wayanad,Nature,410.0,2,3,Bus,Standard,Premium,Regular,17978.48
+Goa,Beach,850.0,1,3,Flight,Standard,Budget,Peak,26378.38
+Pune,City,1050.0,3,8,Train,Standard,Standard,Regular,90187.95
+Chennai,City,350.0,2,3,Bus,Standard,Budget,Regular,17133.65
+Mahabalipuram,Beach,260.0,2,1,Bus,Premium,Budget,Regular,7188.95
+Hampi,Culture,600.0,1,3,Train,Budget,Standard,Off-season,8929.37
+Tirupati,Pilgrimage,300.0,4,1,Bus,Standard,Standard,Regular,10429.22
+Kochi,Beach,520.0,2,1,Bus,Standard,Budget,Off-season,6873.38
+Pune,City,1050.0,5,6,Bus,Budget,Standard,Regular,87705.49
+Kodaikanal,Hill Station,310.0,4,7,Flight,Budget,Budget,Regular,66385.1
+Mumbai,City,1250.0,3,5,Bus,Budget,Standard,Peak,87007.51
+Alleppey,Nature,520.0,2,7,Car,Budget,Standard,Regular,44015.24
+Varkala,Beach,570.0,3,4,Train,Standard,Budget,Regular,41247.57
+Yercaud,Hill Station,180.0,1,2,Train,Budget,Standard,Regular,5447.52
+Mysuru,Culture,330.0,3,7,Car,Standard,Budget,Peak,62698.53
+Bengaluru,City,380.0,4,1,Bus,Standard,Standard,Peak,20015.88
+Goa,Beach,850.0,2,8,Bus,Standard,Budget,Regular,51103.19
+Rameswaram,Pilgrimage,420.0,1,7,Bus,Budget,Premium,Regular,21608.95
+Coorg,Hill Station,390.0,5,1,Bus,Premium,Budget,Peak,29750.31
+Wayanad,Nature,410.0,1,3,Bus,Standard,Premium,Regular,11609.34
+Rameswaram,Pilgrimage,420.0,2,8,Car,Budget,Premium,Peak,51997.17
+Coorg,Hill Station,390.0,3,5,Flight,Standard,Standard,Off-season,46786.12
+Madurai,Culture,190.0,5,4,Train,Standard,Standard,Off-season,39764.66
+Bengaluru,City,380.0,6,7,Bus,Budget,Premium,Regular,148182.92
+Alleppey,Nature,520.0,5,7,Flight,Standard,Budget,Regular,113133.9
+Mysuru,Culture,330.0,6,6,Train,Standard,Premium,Regular,106169.25
+Wayanad,Nature,410.0,4,2,Bus,Standard,Standard,Off-season,20666.73
+Varkala,Beach,570.0,5,4,Bus,Standard,Budget,Regular,60920.15
+Pondicherry,Beach,170.0,1,8,Bus,Budget,Standard,Off-season,20966.13
+Mysuru,Culture,330.0,6,4,Bus,Premium,Standard,Regular,66403.8
+Tirupati,Pilgrimage,300.0,6,2,Bus,Premium,Budget,Regular,28458.13
+Munnar,Hill Station,430.0,4,5,Car,Premium,Budget,Regular,79358.72
+Jaipur,Culture,1900.0,2,1,Train,Budget,Standard,Peak,26267.57
+Alleppey,Nature,520.0,3,7,Bus,Budget,Budget,Peak,64782.21
+Yercaud,Hill Station,180.0,1,3,Bus,Budget,Budget,Regular,7062.57
+Rishikesh,Adventure,2500.0,5,7,Bus,Standard,Standard,Regular,124493.65
+Yercaud,Hill Station,180.0,3,7,Bus,Premium,Standard,Regular,55465.18
+Chennai,City,350.0,6,5,Train,Premium,Budget,Regular,108658.99
+Rishikesh,Adventure,2500.0,4,5,Train,Standard,Premium,Peak,108221.03
+Wayanad,Nature,410.0,1,2,Train,Premium,Standard,Regular,10418.43
+Pune,City,1050.0,1,1,Bus,Budget,Standard,Regular,6237.72
+Pondicherry,Beach,170.0,6,5,Bus,Budget,Budget,Off-season,56766.2
+Coorg,Hill Station,390.0,1,5,Bus,Budget,Budget,Regular,13114.89
+Mahabalipuram,Beach,260.0,1,1,Car,Budget,Budget,Regular,7512.74
+Ooty,Hill Station,280.0,5,3,Train,Premium,Budget,Off-season,52894.28
+Kodaikanal,Hill Station,310.0,3,8,Bus,Standard,Budget,Regular,61982.93
+Mahabalipuram,Beach,260.0,4,2,Train,Budget,Standard,Regular,18877.63
+Yercaud,Hill Station,180.0,2,8,Train,Standard,Budget,Peak,32048.41
+Thanjavur,Culture,80.0,3,4,Car,Standard,Standard,Regular,22692.96
+Hyderabad,City,650.0,3,8,Train,Standard,Standard,Regular,100864.45
+Mumbai,City,1250.0,4,7,Car,Budget,Budget,Regular,126125.97
+Alleppey,Nature,520.0,4,5,Car,Budget,Budget,Peak,68768.87
+Bengaluru,City,380.0,3,7,Train,Standard,Standard,Regular,79687.13
+Pondicherry,Beach,170.0,2,6,Train,Standard,Budget,Regular,30556.15
+Wayanad,Nature,410.0,6,8,Train,Standard,Premium,Regular,137472.91
+Bengaluru,City,380.0,4,7,Bus,Standard,Budget,Peak,106586.89
+Varkala,Beach,570.0,1,3,Train,Standard,Budget,Off-season,10867.25
+Mumbai,City,1250.0,6,4,Car,Budget,Standard,Off-season,103253.87
+Rameswaram,Pilgrimage,420.0,1,7,Bus,Standard,Budget,Regular,18503.93
+Bengaluru,City,380.0,1,5,Train,Budget,Budget,Regular,16904.5
+Bengaluru,City,380.0,6,4,Train,Standard,Standard,Regular,84383.4
+Yercaud,Hill Station,180.0,5,5,Car,Budget,Standard,Peak,62915.63
+Manali,Hill Station,2800.0,2,1,Bus,Standard,Budget,Regular,22231.78
+Mumbai,City,1250.0,1,1,Bus,Budget,Standard,Peak,10411.51
+Chennai,City,350.0,5,8,Bus,Standard,Standard,Off-season,94151.64
+Pune,City,1050.0,1,6,Train,Standard,Budget,Regular,28556.0
+Chennai,City,350.0,6,3,Train,Standard,Budget,Regular,55399.71
+Rameswaram,Pilgrimage,420.0,1,5,Car,Budget,Standard,Peak,26142.55
+Pondicherry,Beach,170.0,5,2,Train,Budget,Budget,Regular,24620.93
+Hyderabad,City,650.0,5,2,Car,Budget,Standard,Peak,55868.94
+Chennai,City,350.0,4,1,Bus,Budget,Standard,Regular,14502.14
+Madurai,Culture,190.0,6,2,Train,Budget,Standard,Regular,21062.85
+Varkala,Beach,570.0,6,3,Bus,Premium,Premium,Peak,100566.65
+Manali,Hill Station,2800.0,2,2,Car,Budget,Budget,Regular,77790.02
+Agra,Culture,2100.0,3,1,Train,Standard,Budget,Peak,39443.4
+Manali,Hill Station,2800.0,4,4,Train,Budget,Standard,Off-season,72407.54
+Bengaluru,City,380.0,1,8,Train,Budget,Standard,Regular,28753.85
+Tirupati,Pilgrimage,300.0,4,7,Train,Budget,Premium,Regular,64021.01
+Hampi,Culture,600.0,3,5,Train,Standard,Standard,Regular,43304.52
+Thanjavur,Culture,80.0,6,4,Car,Budget,Standard,Regular,43567.35
+Wayanad,Nature,410.0,6,7,Bus,Standard,Budget,Off-season,91954.57
+Varanasi,Pilgrimage,1900.0,5,7,Bus,Premium,Standard,Peak,171108.73
+Hampi,Culture,600.0,6,5,Flight,Standard,Budget,Regular,96375.19
+Mumbai,City,1250.0,6,2,Car,Budget,Premium,Regular,80759.71
+Goa,Beach,850.0,6,7,Train,Budget,Standard,Peak,184298.53
+Mysuru,Culture,330.0,2,1,Train,Budget,Standard,Regular,6972.02
+Varanasi,Pilgrimage,1900.0,6,3,Train,Budget,Standard,Regular,73195.98
+Wayanad,Nature,410.0,5,4,Bus,Premium,Standard,Off-season,60152.18
+Thanjavur,Culture,80.0,1,1,Bus,Budget,Budget,Regular,2084.07
+Goa,Beach,850.0,1,2,Train,Standard,Standard,Regular,12298.16
+Mahabalipuram,Beach,260.0,1,7,Car,Premium,Premium,Regular,42249.76
+Pune,City,1050.0,2,4,Car,Premium,Standard,Regular,54188.39
+Delhi,City,2200.0,2,4,Car,Standard,Budget,Regular,77592.34
+Bengaluru,City,380.0,2,5,Bus,Standard,Standard,Regular,32573.04
+Yercaud,Hill Station,180.0,3,3,Bus,Standard,Standard,Regular,19147.58
+Manali,Hill Station,2800.0,5,3,Car,Budget,Standard,Peak,169284.74
+Goa,Beach,850.0,6,8,Bus,Premium,Premium,Regular,263477.6
+Pune,City,1050.0,5,3,Car,Premium,Standard,Regular,95092.35
+Tirupati,Pilgrimage,300.0,4,3,Bus,Budget,Budget,Off-season,19664.67
+Bengaluru,City,380.0,4,4,Train,Standard,Premium,Regular,65492.89
+Goa,Beach,850.0,5,4,Train,Standard,Standard,Regular,92210.46
+Shimla,Hill Station,2600.0,6,3,Bus,Budget,Standard,Regular,87680.86
+Manali,Hill Station,2800.0,3,5,Train,Budget,Budget,Off-season,78188.62
+Bengaluru,City,380.0,2,2,Train,Standard,Premium,Regular,17922.22
+Delhi,City,2200.0,3,3,Bus,Premium,Standard,Off-season,58795.1
+Varanasi,Pilgrimage,1900.0,3,8,Flight,Standard,Budget,Regular,127912.26
+Pondicherry,Beach,170.0,3,2,Flight,Budget,Standard,Off-season,18321.71
+Manali,Hill Station,2800.0,1,1,Car,Budget,Standard,Regular,67788.07
+Coorg,Hill Station,390.0,2,3,Train,Standard,Premium,Regular,18801.0
+Mysuru,Culture,330.0,3,8,Bus,Standard,Premium,Peak,97955.76
+Mahabalipuram,Beach,260.0,5,6,Train,Premium,Budget,Regular,99916.41
+Kochi,Beach,520.0,1,2,Train,Standard,Standard,Peak,12814.45
+Madurai,Culture,190.0,6,7,Car,Budget,Standard,Peak,86320.23
+Agra,Culture,2100.0,6,4,Car,Standard,Standard,Regular,112890.41
+Coorg,Hill Station,390.0,3,5,Car,Standard,Budget,Regular,47040.14
+Delhi,City,2200.0,4,7,Train,Standard,Standard,Regular,141628.79
+Goa,Beach,850.0,4,8,Train,Standard,Standard,Regular,123987.21
+Mahabalipuram,Beach,260.0,1,4,Car,Standard,Budget,Peak,23275.06
+Rameswaram,Pilgrimage,420.0,2,2,Train,Standard,Budget,Regular,10732.76
+Hyderabad,City,650.0,3,8,Car,Standard,Budget,Regular,93087.02
+Mahabalipuram,Beach,260.0,4,5,Car,Premium,Standard,Peak,90819.75
+Goa,Beach,850.0,5,7,Flight,Budget,Budget,Regular,146607.91
+Tirupati,Pilgrimage,300.0,1,8,Bus,Budget,Premium,Regular,24620.76
+Madurai,Culture,190.0,6,1,Train,Budget,Standard,Peak,17736.11
+Delhi,City,2200.0,6,7,Bus,Standard,Budget,Peak,209991.84
+Ooty,Hill Station,280.0,3,7,Bus,Budget,Standard,Peak,60233.11
+Chennai,City,350.0,4,8,Bus,Budget,Standard,Off-season,77175.34
+Ooty,Hill Station,280.0,2,5,Train,Budget,Budget,Regular,24265.51
+Goa,Beach,850.0,1,1,Flight,Budget,Standard,Regular,13329.44
+Wayanad,Nature,410.0,6,5,Train,Budget,Budget,Regular,71460.31
+Tirupati,Pilgrimage,300.0,5,2,Train,Standard,Premium,Peak,38420.88
+Mumbai,City,1250.0,1,8,Bus,Standard,Standard,Off-season,41296.02
+Manali,Hill Station,2800.0,3,8,Bus,Standard,Standard,Regular,122354.29
+Hyderabad,City,650.0,3,5,Bus,Budget,Budget,Peak,53362.69
+Bengaluru,City,380.0,4,3,Train,Premium,Budget,Regular,56497.79
+Alleppey,Nature,520.0,1,5,Flight,Standard,Standard,Regular,22582.58
+Goa,Beach,850.0,3,7,Flight,Budget,Budget,Off-season,86575.17
+Madurai,Culture,190.0,2,7,Train,Premium,Budget,Regular,30363.36
+Tirupati,Pilgrimage,300.0,4,5,Train,Standard,Standard,Regular,47716.79
+Varkala,Beach,570.0,5,6,Bus,Budget,Premium,Off-season,74616.76
+Kodaikanal,Hill Station,310.0,4,7,Bus,Budget,Budget,Regular,56958.25
+Yercaud,Hill Station,180.0,6,3,Train,Standard,Budget,Regular,35050.0
+Mysuru,Culture,330.0,3,8,Bus,Premium,Premium,Peak,117727.12
+Bengaluru,City,380.0,1,7,Train,Budget,Premium,Regular,30193.37
+Varkala,Beach,570.0,6,1,Train,Budget,Budget,Peak,33420.86
+Munnar,Hill Station,430.0,3,3,Car,Premium,Premium,Peak,67211.41
+Mumbai,City,1250.0,4,8,Car,Budget,Budget,Regular,128460.3
+Chennai,City,350.0,1,5,Car,Standard,Standard,Regular,24473.23
+Varkala,Beach,570.0,1,8,Train,Standard,Budget,Regular,29445.81
+Kodaikanal,Hill Station,310.0,4,6,Train,Budget,Premium,Regular,55985.93
+Jaipur,Culture,1900.0,4,6,Bus,Standard,Budget,Regular,84252.63
+Munnar,Hill Station,430.0,3,6,Car,Premium,Budget,Regular,80745.23
+Rameswaram,Pilgrimage,420.0,5,1,Bus,Budget,Standard,Off-season,11928.89
+Chennai,City,350.0,5,7,Car,Budget,Budget,Peak,107102.8
+Manali,Hill Station,2800.0,3,2,Bus,Budget,Budget,Off-season,37142.0
+Hampi,Culture,600.0,2,6,Bus,Standard,Standard,Peak,33485.23
+Tirupati,Pilgrimage,300.0,5,7,Train,Budget,Standard,Off-season,61250.7
+Coorg,Hill Station,390.0,1,2,Bus,Standard,Budget,Regular,7688.81
+Mahabalipuram,Beach,260.0,4,1,Car,Premium,Budget,Regular,16126.08
+Shimla,Hill Station,2600.0,4,2,Bus,Budget,Standard,Regular,53486.67
+Varanasi,Pilgrimage,1900.0,4,8,Bus,Standard,Standard,Off-season,76378.82
+Agra,Culture,2100.0,4,3,Car,Budget,Budget,Off-season,73339.1
+Coorg,Hill Station,390.0,3,1,Train,Standard,Budget,Regular,12581.76
+Varanasi,Pilgrimage,1900.0,5,6,Car,Budget,Standard,Regular,117814.71
+Bengaluru,City,380.0,5,7,Bus,Standard,Standard,Peak,152793.31
+Thanjavur,Culture,80.0,6,3,Train,Premium,Budget,Regular,40045.87
+Rameswaram,Pilgrimage,420.0,1,5,Train,Premium,Standard,Regular,21045.43
+Wayanad,Nature,410.0,3,1,Train,Premium,Premium,Peak,21873.81
+Manali,Hill Station,2800.0,4,8,Train,Standard,Budget,Off-season,121434.74
+Goa,Beach,850.0,6,3,Bus,Budget,Standard,Peak,85098.66
+Delhi,City,2200.0,6,6,Bus,Budget,Budget,Off-season,115868.55
+Alleppey,Nature,520.0,2,3,Car,Standard,Budget,Peak,31603.61
+Pune,City,1050.0,5,7,Flight,Standard,Premium,Off-season,173319.52
+Varanasi,Pilgrimage,1900.0,5,5,Bus,Budget,Budget,Regular,67805.62
+Ooty,Hill Station,280.0,3,7,Train,Standard,Budget,Peak,71013.13
+Pune,City,1050.0,4,3,Train,Premium,Premium,Regular,57868.73
+Yercaud,Hill Station,180.0,4,1,Bus,Budget,Premium,Peak,13346.61
+Agra,Culture,2100.0,6,2,Bus,Standard,Budget,Regular,67087.81
+Delhi,City,2200.0,1,8,Car,Budget,Standard,Regular,78173.83
+Madurai,Culture,190.0,3,3,Train,Budget,Standard,Regular,18261.27
+Hyderabad,City,650.0,6,5,Car,Budget,Standard,Off-season,86870.43
+Varanasi,Pilgrimage,1900.0,4,5,Car,Standard,Standard,Regular,85759.35
+Tirupati,Pilgrimage,300.0,6,6,Bus,Standard,Standard,Peak,93311.32
+Mumbai,City,1250.0,3,3,Bus,Budget,Standard,Off-season,35450.97
+Delhi,City,2200.0,5,5,Bus,Standard,Standard,Peak,121693.84
+Mysuru,Culture,330.0,6,8,Bus,Standard,Standard,Regular,104053.25
+Agra,Culture,2100.0,2,7,Car,Standard,Budget,Regular,94952.42
+Kodaikanal,Hill Station,310.0,4,5,Bus,Premium,Standard,Regular,65515.88
+Mysuru,Culture,330.0,5,2,Car,Budget,Standard,Peak,37926.51
+Coorg,Hill Station,390.0,3,5,Bus,Budget,Standard,Off-season,33969.43
+Alleppey,Nature,520.0,6,8,Bus,Budget,Standard,Regular,116741.3
+Thanjavur,Culture,80.0,2,5,Bus,Standard,Budget,Peak,18135.56
+Ooty,Hill Station,280.0,2,1,Bus,Standard,Standard,Peak,8577.94
+Hyderabad,City,650.0,6,5,Train,Budget,Standard,Peak,107745.98
+Jaipur,Culture,1900.0,6,4,Bus,Premium,Budget,Regular,116908.9
+Shimla,Hill Station,2600.0,1,7,Car,Budget,Standard,Off-season,79689.14
+Madurai,Culture,190.0,5,2,Car,Standard,Standard,Peak,31407.42
+Pondicherry,Beach,170.0,4,5,Bus,Budget,Budget,Regular,41421.46
+Mysuru,Culture,330.0,4,6,Bus,Standard,Premium,Off-season,61890.84
+Manali,Hill Station,2800.0,5,1,Train,Standard,Budget,Regular,73011.01
+Alleppey,Nature,520.0,2,2,Train,Budget,Standard,Regular,14909.13
+Shimla,Hill Station,2600.0,5,8,Train,Standard,Budget,Off-season,149975.79
+Coorg,Hill Station,390.0,5,3,Car,Standard,Budget,Regular,44125.35
+Madurai,Culture,190.0,1,5,Car,Standard,Premium,Peak,25891.97
+Bengaluru,City,380.0,3,4,Car,Budget,Budget,Regular,42347.52
+Hampi,Culture,600.0,3,8,Car,Budget,Premium,Off-season,67866.61
+Alleppey,Nature,520.0,3,8,Train,Budget,Budget,Peak,75416.35
+Goa,Beach,850.0,5,2,Bus,Budget,Standard,Regular,40893.63
+Varanasi,Pilgrimage,1900.0,5,8,Car,Budget,Premium,Off-season,127048.87
+Yercaud,Hill Station,180.0,6,5,Train,Standard,Budget,Regular,57669.82
+Ooty,Hill Station,280.0,6,1,Train,Standard,Standard,Peak,28822.03
+Kochi,Beach,520.0,3,4,Train,Standard,Budget,Peak,42511.94
+Chennai,City,350.0,1,1,Bus,Budget,Standard,Regular,4200.58
+Manali,Hill Station,2800.0,2,1,Train,Budget,Premium,Regular,33490.72
+Jaipur,Culture,1900.0,1,2,Train,Standard,Premium,Regular,15072.79
+Yercaud,Hill Station,180.0,5,1,Train,Budget,Premium,Regular,14401.83
+Pune,City,1050.0,6,1,Train,Premium,Standard,Regular,48999.04
+Yercaud,Hill Station,180.0,1,2,Car,Budget,Standard,Regular,8361.95
+Coorg,Hill Station,390.0,1,4,Bus,Budget,Standard,Off-season,11457.87
+Kodaikanal,Hill Station,310.0,5,2,Train,Budget,Budget,Regular,28838.32
+Alleppey,Nature,520.0,5,7,Car,Standard,Standard,Off-season,89978.18
+Madurai,Culture,190.0,4,4,Bus,Standard,Budget,Off-season,25751.37
+Shimla,Hill Station,2600.0,1,5,Bus,Standard,Budget,Regular,27910.92
+Hyderabad,City,650.0,3,7,Train,Budget,Standard,Peak,95809.94
+Pondicherry,Beach,170.0,1,6,Bus,Standard,Budget,Off-season,17366.33
+Rishikesh,Adventure,2500.0,3,6,Train,Standard,Standard,Regular,97669.85
+Hyderabad,City,650.0,3,6,Car,Budget,Premium,Off-season,64732.5
+Pondicherry,Beach,170.0,6,1,Train,Standard,Budget,Off-season,13469.12
+Alleppey,Nature,520.0,3,7,Train,Budget,Standard,Regular,58221.81
+Agra,Culture,2100.0,3,4,Train,Budget,Budget,Off-season,44842.71
+Coorg,Hill Station,390.0,2,4,Train,Standard,Standard,Regular,25290.4
+Pune,City,1050.0,1,1,Train,Standard,Standard,Regular,8323.72
+Hyderabad,City,650.0,2,2,Car,Budget,Premium,Off-season,25291.51
+Pondicherry,Beach,170.0,6,1,Car,Budget,Standard,Peak,21929.96
+Varanasi,Pilgrimage,1900.0,2,3,Train,Budget,Standard,Peak,34673.2
+Varanasi,Pilgrimage,1900.0,2,7,Train,Standard,Budget,Regular,37255.86
+Alleppey,Nature,520.0,2,7,Car,Budget,Budget,Off-season,38408.55
+Thanjavur,Culture,80.0,4,8,Train,Standard,Standard,Regular,56161.15
+Mysuru,Culture,330.0,6,2,Train,Budget,Standard,Off-season,30427.82
+Rishikesh,Adventure,2500.0,5,5,Car,Standard,Budget,Regular,141723.69
+Rishikesh,Adventure,2500.0,4,7,Car,Standard,Budget,Regular,150107.12
+Mumbai,City,1250.0,4,8,Bus,Budget,Budget,Regular,99966.77
+Wayanad,Nature,410.0,2,6,Bus,Budget,Budget,Peak,34309.63
+Mumbai,City,1250.0,6,2,Bus,Premium,Standard,Regular,79609.37
+Pondicherry,Beach,170.0,2,4,Car,Budget,Premium,Regular,27386.58
+Pune,City,1050.0,3,1,Bus,Standard,Premium,Regular,19084.96
+Alleppey,Nature,520.0,5,4,Bus,Standard,Standard,Regular,62355.42
+Shimla,Hill Station,2600.0,6,4,Bus,Budget,Standard,Off-season,87684.14
+Shimla,Hill Station,2600.0,1,6,Car,Budget,Standard,Off-season,78338.16
+Bengaluru,City,380.0,1,5,Car,Budget,Budget,Regular,27963.32
+Hyderabad,City,650.0,6,2,Train,Standard,Standard,Peak,58782.49
+Mumbai,City,1250.0,3,7,Car,Budget,Budget,Peak,132264.43
+Pune,City,1050.0,2,6,Train,Standard,Standard,Off-season,34349.62
+Varkala,Beach,570.0,4,1,Car,Budget,Standard,Regular,23950.09
+Yercaud,Hill Station,180.0,4,6,Train,Budget,Budget,Regular,39176.96
+Shimla,Hill Station,2600.0,3,7,Bus,Standard,Budget,Regular,91027.07
+Coorg,Hill Station,390.0,4,4,Train,Budget,Standard,Regular,48566.29
+Thanjavur,Culture,80.0,6,6,Train,Standard,Budget,Regular,58129.35
+Kochi,Beach,520.0,5,5,Train,Standard,Standard,Off-season,77023.33
+Ooty,Hill Station,280.0,6,7,Bus,Budget,Premium,Peak,137941.48
+Alleppey,Nature,520.0,4,1,Car,Budget,Budget,Regular,23625.11
+Kodaikanal,Hill Station,310.0,2,2,Car,Standard,Standard,Peak,21834.23
+Pune,City,1050.0,2,1,Car,Budget,Standard,Regular,29803.62
+Mysuru,Culture,330.0,2,5,Bus,Budget,Standard,Regular,22604.09
+Delhi,City,2200.0,6,6,Train,Budget,Budget,Peak,169383.85
+Kodaikanal,Hill Station,310.0,3,3,Flight,Budget,Premium,Peak,49458.68
+Goa,Beach,850.0,4,7,Bus,Budget,Standard,Off-season,79990.01
+Varanasi,Pilgrimage,1900.0,2,3,Train,Budget,Budget,Regular,22531.18
+Thanjavur,Culture,80.0,5,3,Train,Budget,Standard,Off-season,23998.68
+Mysuru,Culture,330.0,6,3,Bus,Standard,Budget,Regular,43169.49
+Manali,Hill Station,2800.0,5,8,Flight,Standard,Budget,Peak,341784.79
+Delhi,City,2200.0,6,2,Bus,Budget,Budget,Regular,64271.26
+Pune,City,1050.0,5,7,Bus,Budget,Standard,Off-season,103504.72
+Hampi,Culture,600.0,6,5,Car,Budget,Standard,Regular,65223.7
+Varkala,Beach,570.0,2,6,Car,Budget,Standard,Regular,40283.37
+Rishikesh,Adventure,2500.0,3,4,Train,Standard,Budget,Regular,66866.36
+Kochi,Beach,520.0,4,6,Train,Standard,Budget,Regular,67715.48
+Manali,Hill Station,2800.0,3,7,Train,Premium,Budget,Regular,134590.61
+Rameswaram,Pilgrimage,420.0,6,5,Train,Standard,Budget,Regular,67005.23
+Manali,Hill Station,2800.0,1,1,Flight,Premium,Premium,Peak,48629.19
+Thanjavur,Culture,80.0,4,6,Car,Budget,Standard,Off-season,37219.53
+Munnar,Hill Station,430.0,2,1,Train,Budget,Budget,Off-season,6384.56
+Mahabalipuram,Beach,260.0,6,2,Bus,Budget,Budget,Regular,30121.84
+Kochi,Beach,520.0,6,1,Bus,Budget,Standard,Off-season,18787.28
+Tirupati,Pilgrimage,300.0,4,7,Bus,Standard,Standard,Peak,68738.2
+Alleppey,Nature,520.0,5,1,Flight,Standard,Budget,Off-season,39261.62
+Coorg,Hill Station,390.0,1,8,Bus,Standard,Budget,Regular,28257.44
+Varanasi,Pilgrimage,1900.0,1,8,Bus,Budget,Budget,Off-season,21091.2
+Bengaluru,City,380.0,1,6,Car,Budget,Budget,Regular,28870.03
+Mahabalipuram,Beach,260.0,1,7,Train,Budget,Standard,Peak,21502.98
+Mysuru,Culture,330.0,5,3,Train,Standard,Budget,Regular,35830.98
+Mysuru,Culture,330.0,6,6,Train,Budget,Budget,Peak,81001.69
+Tirupati,Pilgrimage,300.0,2,7,Train,Budget,Standard,Regular,26276.88
+Munnar,Hill Station,430.0,2,5,Bus,Budget,Standard,Off-season,22788.06
+Goa,Beach,850.0,4,1,Flight,Standard,Budget,Regular,45858.53
+Mahabalipuram,Beach,260.0,1,4,Train,Standard,Budget,Off-season,11756.91
+Tirupati,Pilgrimage,300.0,6,2,Bus,Budget,Budget,Regular,22942.59
+Rishikesh,Adventure,2500.0,5,3,Car,Standard,Standard,Peak,150509.71
+Rameswaram,Pilgrimage,420.0,6,6,Train,Budget,Budget,Peak,74800.19
+Pune,City,1050.0,5,8,Bus,Standard,Budget,Peak,158228.99
+Mahabalipuram,Beach,260.0,3,5,Bus,Budget,Premium,Peak,51068.37
+Alleppey,Nature,520.0,5,5,Bus,Budget,Standard,Off-season,65946.44
+Rameswaram,Pilgrimage,420.0,2,1,Train,Budget,Premium,Peak,9372.65
+Mumbai,City,1250.0,5,8,Bus,Budget,Budget,Off-season,119352.17
+Madurai,Culture,190.0,4,7,Bus,Budget,Budget,Off-season,42524.88
+Alleppey,Nature,520.0,5,6,Car,Standard,Budget,Off-season,85225.04
+Varanasi,Pilgrimage,1900.0,5,2,Bus,Standard,Budget,Regular,48269.73
+Thanjavur,Culture,80.0,3,5,Bus,Premium,Standard,Off-season,36876.51
+Rameswaram,Pilgrimage,420.0,5,8,Car,Standard,Budget,Regular,83783.14
+Agra,Culture,2100.0,1,5,Flight,Standard,Budget,Peak,54751.29
+Hyderabad,City,650.0,2,4,Bus,Standard,Standard,Peak,33382.63
+Wayanad,Nature,410.0,2,3,Train,Premium,Budget,Off-season,16222.15
+Manali,Hill Station,2800.0,5,4,Bus,Standard,Standard,Regular,117721.25
+Chennai,City,350.0,2,1,Car,Budget,Premium,Off-season,13176.17
+Mahabalipuram,Beach,260.0,2,6,Bus,Standard,Premium,Regular,35302.47
+Mahabalipuram,Beach,260.0,1,3,Car,Budget,Budget,Off-season,12001.02
+Kodaikanal,Hill Station,310.0,4,8,Bus,Standard,Budget,Regular,77479.64
+Munnar,Hill Station,430.0,2,8,Train,Budget,Premium,Regular,52238.64
+Hampi,Culture,600.0,5,1,Bus,Budget,Budget,Regular,15443.23
+Shimla,Hill Station,2600.0,3,4,Flight,Budget,Standard,Peak,167517.47
+Pondicherry,Beach,170.0,1,5,Bus,Standard,Premium,Regular,18239.12
+Thanjavur,Culture,80.0,3,3,Train,Standard,Budget,Regular,18535.97
+Goa,Beach,850.0,4,6,Bus,Standard,Standard,Regular,93434.39
+Mysuru,Culture,330.0,3,5,Bus,Premium,Premium,Off-season,56596.17
+Alleppey,Nature,520.0,5,4,Train,Budget,Standard,Peak,78415.66
+Munnar,Hill Station,430.0,3,5,Bus,Standard,Standard,Off-season,46532.38
+Tirupati,Pilgrimage,300.0,3,8,Train,Standard,Budget,Regular,52622.62
+Rishikesh,Adventure,2500.0,6,6,Train,Standard,Budget,Off-season,141875.55
+Delhi,City,2200.0,1,3,Train,Premium,Standard,Peak,38215.26
+Wayanad,Nature,410.0,5,5,Bus,Budget,Budget,Peak,70617.73
+Agra,Culture,2100.0,5,5,Bus,Premium,Budget,Regular,121690.34
+Varkala,Beach,570.0,6,1,Bus,Standard,Budget,Peak,28658.19
+Jaipur,Culture,1900.0,1,5,Bus,Standard,Standard,Off-season,22507.25
+Madurai,Culture,190.0,2,4,Train,Budget,Budget,Regular,11834.23
+Goa,Beach,850.0,4,4,Bus,Standard,Budget,Regular,60194.18
+Madurai,Culture,190.0,6,2,Train,Budget,Standard,Off-season,21446.63
+Coorg,Hill Station,390.0,4,6,Train,Standard,Premium,Off-season,77229.34
+Ooty,Hill Station,280.0,6,3,Car,Budget,Budget,Regular,44249.1
+Agra,Culture,2100.0,4,6,Train,Standard,Budget,Regular,87593.49
+Hyderabad,City,650.0,3,2,Car,Standard,Premium,Regular,43143.28
+Ooty,Hill Station,280.0,3,2,Bus,Budget,Budget,Off-season,14360.38
+Bengaluru,City,380.0,1,2,Train,Standard,Standard,Off-season,8443.65
+Mahabalipuram,Beach,260.0,5,5,Bus,Budget,Standard,Off-season,56235.77
+Mumbai,City,1250.0,6,6,Car,Premium,Standard,Peak,254269.37
+Coorg,Hill Station,390.0,2,4,Train,Premium,Budget,Regular,27169.83
+Varanasi,Pilgrimage,1900.0,5,1,Train,Standard,Budget,Off-season,40720.3

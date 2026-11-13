@@ -1,0 +1,31 @@
+destination,destination_type,distance_km,hotel_per_night,food_per_person_day,local_per_person_day
+Ooty,Hill Station,280,2200,900,450
+Kodaikanal,Hill Station,310,2100,850,430
+Yercaud,Hill Station,180,1600,700,350
+Munnar,Hill Station,430,2400,950,500
+Coorg,Hill Station,390,2300,900,480
+Pondicherry,Beach,170,1900,850,500
+Mahabalipuram,Beach,260,2000,900,520
+Rameswaram,Pilgrimage,420,1700,700,400
+Madurai,Culture,190,1600,700,380
+Thanjavur,Culture,80,1500,650,350
+Chennai,City,350,2300,1000,600
+Bengaluru,City,380,2600,1100,650
+Mysuru,Culture,330,1900,800,430
+Hyderabad,City,650,2500,1000,600
+Kochi,Beach,520,2300,950,550
+Varkala,Beach,570,2100,900,500
+Goa,Beach,850,3000,1200,700
+Jaipur,Culture,1900,2600,1000,550
+Delhi,City,2200,2800,1100,650
+Agra,Culture,2100,2200,850,450
+Manali,Hill Station,2800,3200,1200,650
+Shimla,Hill Station,2600,3000,1100,600
+Rishikesh,Adventure,2500,2400,900,500
+Varanasi,Pilgrimage,1900,1900,750,400
+Pune,City,1050,2400,950,550
+Mumbai,City,1250,3300,1300,750
+Alleppey,Nature,520,2200,900,500
+Wayanad,Nature,410,2100,850,450
+Hampi,Culture,600,1800,700,400
+Tirupati,Pilgrimage,300,1700,700,400

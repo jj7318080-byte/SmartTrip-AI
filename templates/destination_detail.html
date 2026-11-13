@@ -1,0 +1,69 @@
+
+{% extends "base.html" %}
+
+{% block title %}{{ destination.destination }} | SmartTrip{% endblock %}
+
+{% block heading %}Destination Overview{% endblock %}
+
+{% block content %}
+
+<div class="page-intro">
+    <h2>{{ destination.destination }}</h2>
+    <p>Destination information and estimated travel expenses.</p>
+</div>
+
+<div class="panel">
+    <h3>General Information</h3>
+
+    <div class="detail-row">
+        <span>Destination Name</span>
+        <b>{{ destination.destination }}</b>
+    </div>
+
+    <div class="detail-row">
+        <span>Category</span>
+        <b>{{ destination.destination_type }}</b>
+    </div>
+
+    <div class="detail-row">
+        <span>Reference Distance</span>
+        <b>{{ destination.distance_km }} km</b>
+    </div>
+</div>
+
+<div class="panel">
+    <h3>Estimated Travel Expenses</h3>
+
+    <div class="detail-row">
+        <span>Accommodation per Night</span>
+        <b>₹{{ "{:,.0f}".format(destination.hotel_per_night) }}</b>
+    </div>
+
+    <div class="detail-row">
+        <span>Food per Person per Day</span>
+        <b>₹{{ "{:,.0f}".format(destination.food_per_person_day) }}</b>
+    </div>
+
+    <div class="detail-row">
+        <span>Local Transport per Person per Day</span>
+        <b>₹{{ "{:,.0f}".format(destination.local_per_person_day) }}</b>
+    </div>
+</div>
+
+<div class="panel">
+    <h3>Plan Your Trip</h3>
+
+    <p>Enter your travel preferences to calculate the estimated trip cost.</p>
+
+    <a class="btn btn-primary"
+       href="{{ url_for('predict_page', destination=destination.destination) }}">
+        Estimate Travel Cost
+    </a>
+
+    <a class="btn btn-secondary"
+       href="{{ url_for('destinations') }}">
+        Back to Destinations
+    </a>
+</div>
+
+{% endblock %}

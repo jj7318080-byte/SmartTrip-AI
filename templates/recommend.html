@@ -1,0 +1,99 @@
+
+{% extends "base.html" %}
+
+{% block title %}Destination Recommendations | SmartTrip{% endblock %}
+
+{% block heading %}Find Your Ideal Destination{% endblock %}
+
+{% block content %}
+
+<div class="page-intro">
+    <h2>Destination Finder</h2>
+    <p>Enter your travel details to find destinations that fit your budget.</p>
+</div>
+
+<div class="panel">
+    <h3>Travel Preferences</h3>
+
+    <form action="{{ url_for('recommend') }}" method="POST">
+
+        <div class="form-group">
+            <label for="budget">Total Travel Budget (₹)</label>
+            <input type="number"
+                   id="budget"
+                   name="budget"
+                   min="1"
+                   placeholder="Example: 15000"
+                   value="{{ budget if budget else '' }}"
+                   required>
+        </div>
+
+        <div class="form-group">
+            <label for="days">Duration of Stay (Days)</label>
+            <input type="number"
+                   id="days"
+                   name="days"
+                   min="1"
+                   max="30"
+                   placeholder="Enter number of days"
+                   value="{{ days if days else 3 }}"
+                   required>
+        </div>
+
+        <div class="form-group">
+            <label for="people">Number of Travellers</label>
+            <input type="number"
+                   id="people"
+                   name="people"
+                   min="1"
+                   max="20"
+                   placeholder="Enter traveller count"
+                   value="{{ people if people else 2 }}"
+                   required>
+        </div>
+
+        <button type="submit" class="btn btn-primary">
+            Search Destinations
+        </button>
+
+    </form>
+</div>
+
+<div class="section-head">
+    <h2>Available Suggestions</h2>
+    <p>Destinations matching your entered travel preferences.</p>
+</div>
+
+<div class="destination-grid">
+
+    {% for item in recommendations %}
+
+    <div class="destination-card">
+
+        <h3>{{ item.destination }}</h3>
+
+        {% if item.estimated_cost is defined %}
+        <div class="detail-row">
+            <span>Estimated Trip Cost</span>
+            <b>₹{{ "{:,.0f}".format(item.estimated_cost) }}</b>
+        </div>
+        {% endif %}
+
+        <a href="{{ url_for('destination_detail', destination_name=item.destination) }}">
+            View Destination Details
+        </a>
+
+    </div>
+
+    {% else %}
+
+    <div class="panel">
+        <h3>No destinations to display</h3>
+        <p>Enter your budget and travel details above, then select Search Destinations.</p>
+    </div>
+
+    {% endfor %}
+
+</div>
+
+{% endblock %}

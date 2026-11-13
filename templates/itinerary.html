@@ -1,0 +1,126 @@
+
+{% extends "base.html" %}
+
+{% block title %}Itinerary Builder | SmartTrip{% endblock %}
+
+{% block heading %}Travel Itinerary{% endblock %}
+
+{% block content %}
+
+<div class="page-intro">
+    <h2>Organise Your Journey</h2>
+    <p>Create and manage your travel activities with a day-wise schedule.</p>
+</div>
+
+<div class="panel">
+    <h3>Add a New Activity</h3>
+
+    {% if trips %}
+    <form method="POST" action="{{ url_for('itinerary') }}">
+
+        <div class="form-group">
+            <label for="trip_id">Select Your Trip</label>
+            <select id="trip_id" name="trip_id" required>
+                <option value="">Choose a trip</option>
+                {% for trip in trips %}
+                <option value="{{ trip.id }}">
+                    {{ trip.origin }} to {{ trip.destination }}
+                </option>
+                {% endfor %}
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label for="day_number">Travel Day</label>
+            <input type="number"
+                   id="day_number"
+                   name="day_number"
+                   min="1"
+                   max="60"
+                   required
+                   placeholder="Enter day number">
+        </div>
+
+        <div class="form-group">
+            <label for="title">Activity Name</label>
+            <input type="text"
+                   id="title"
+                   name="title"
+                   required
+                   placeholder="Example: Visit a tourist attraction">
+        </div>
+
+        <div class="form-group">
+            <label for="time">Preferred Time</label>
+            <input type="time"
+                   id="time"
+                   name="time">
+        </div>
+
+        <div class="form-group">
+            <label for="notes">Additional Details</label>
+            <textarea id="notes"
+                      name="notes"
+                      rows="3"
+                      placeholder="Enter location or activity details"></textarea>
+        </div>
+
+        <button type="submit" class="btn btn-primary">
+            Add Activity
+        </button>
+
+    </form>
+    {% else %}
+    <p>Please create a trip using the Travel Cost Estimation page before adding itinerary activities.</p>
+    {% endif %}
+</div>
+
+<div class="section-head">
+    <h2>Your Planned Activities</h2>
+    <p>Review and manage your travel schedule.</p>
+</div>
+
+{% if items %}
+
+    {% for item in items %}
+
+    <div class="panel itinerary-item">
+
+        <div class="detail-row">
+            <span>Travel Day</span>
+            <b>Day {{ item.day_number }}</b>
+        </div>
+
+        <div class="detail-row">
+            <span>Scheduled Time</span>
+            <b>{{ item.time or 'Not specified' }}</b>
+        </div>
+
+        <h3>{{ item.title }}</h3>
+
+        <p>{{ item.notes or 'No additional details provided.' }}</p>
+
+        <form method="POST"
+              action="{{ url_for('delete_itinerary_item', item_id=item.id) }}"
+              onsubmit="return confirm('Are you sure you want to remove this activity?');">
+
+            <button type="submit" class="text-button">
+                Remove Activity
+            </button>
+
+        </form>
+
+    </div>
+
+    {% endfor %}
+
+{% else %}
+
+    <div class="panel">
+        <h3>No Activities Added</h3>
+        <p>Start creating your travel schedule by adding your first activity.</p>
+    </div>
+
+{% endif %}
+
+{% endblock %}

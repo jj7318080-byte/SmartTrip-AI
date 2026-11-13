@@ -1,0 +1,93 @@
+
+{% extends "base.html" %}
+
+{% block title %}Reports & Analytics | SmartTrip{% endblock %}
+
+{% block heading %}Travel Reports & Analytics{% endblock %}
+
+{% block content %}
+
+<div class="page-intro">
+    <h2>Travel Summary</h2>
+    <p>Review your trip records, estimated costs and recorded expenses.</p>
+</div>
+
+<div class="stats-grid">
+
+    <div class="stat-card">
+        <span>Total Trips</span>
+        <h2>{{ total_trips }}</h2>
+    </div>
+
+    <div class="stat-card">
+        <span>Total Estimated Cost</span>
+        <h2>₹{{ "{:,.0f}".format(total_predicted_cost|default(0, true)) }}</h2>
+    </div>
+
+    <div class="stat-card">
+        <span>Total Expenses</span>
+        <h2>₹{{ "{:,.0f}".format(total_expenses|default(0, true)) }}</h2>
+    </div>
+
+    <div class="stat-card">
+        <span>Average Trip Cost</span>
+        <h2>₹{{ "{:,.0f}".format(average_trip_cost|default(0, true)) }}</h2>
+    </div>
+
+</div>
+
+<div class="panel">
+    <h3>Recent Trip Records</h3>
+
+    {% if trips %}
+
+    <div class="table-responsive">
+        <table>
+            <thead>
+                <tr>
+                    <th>Destination</th>
+                    <th>Duration</th>
+                    <th>Travellers</th>
+                    <th>Travel Mode</th>
+                    <th>Estimated Cost</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                {% for trip in trips %}
+                <tr>
+                    <td>{{ trip.destination }}</td>
+                    <td>{{ trip.days }} Days</td>
+                    <td>{{ trip.travellers }}</td>
+                    <td>{{ trip.travel_mode }}</td>
+                    <td>₹{{ "{:,.2f}".format(trip.predicted_cost) }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+
+    {% else %}
+
+    <div class="empty-state">
+        <h3>No Trip Records Available</h3>
+        <p>Your travel reports will appear here after saving your first trip.</p>
+
+        <a class="btn btn-primary" href="{{ url_for('predict_page') }}">
+            Plan a Trip
+        </a>
+    </div>
+
+    {% endif %}
+</div>
+
+<div class="panel">
+    <h3>Report Overview</h3>
+
+    <p>
+        This report provides a summary of your saved trips,
+        estimated travel costs and manually recorded expenses.
+    </p>
+</div>
+
+{% endblock %}

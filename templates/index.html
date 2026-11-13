@@ -1,0 +1,180 @@
+
+{% extends "base.html" %}
+
+{% block title %}Overview | SmartTrip{% endblock %}
+
+{% block heading %}Overview{% endblock %}
+
+{% block content %}
+
+<section class="hero">
+
+    <div class="hero-copy">
+        <span class="eyebrow">SMART TRAVEL PLANNING</span>
+
+        <h2>
+            Plan Your Journey.<br>
+            <em>Travel Smarter.</em>
+        </h2>
+
+        <p>
+            Explore destinations, estimate your travel expenses
+            and organise your next journey according to your budget.
+        </p>
+
+        <div class="hero-actions">
+            <a class="btn btn-primary" href="{{ url_for('predict_page') }}">
+                Estimate Trip Cost
+            </a>
+
+            <a class="btn btn-secondary" href="{{ url_for('recommend') }}">
+                Find Destinations
+            </a>
+        </div>
+    </div>
+
+    <div class="hero-art">
+        <div class="sun"></div>
+        <div class="mountain m1"></div>
+        <div class="mountain m2"></div>
+        <div class="road"></div>
+
+        <div class="art-label">
+            <b>EXPLORE MORE</b>
+            <small>Make your journey memorable</small>
+        </div>
+    </div>
+
+</section>
+
+<section class="section-head">
+    <div>
+        <span class="eyebrow">EXPLORE SMARTTRIP</span>
+        <h2>Everything You Need to Plan</h2>
+    </div>
+</section>
+
+<div class="feature-grid">
+
+    <a class="feature-card" href="{{ url_for('destinations') }}">
+        <div class="feature-icon coral">01</div>
+        <h3>Explore Destinations</h3>
+        <p>
+            Discover destinations and explore their travel
+            information and estimated expenses.
+        </p>
+        <span>Explore destinations</span>
+    </a>
+
+    <a class="feature-card" href="{{ url_for('recommend') }}">
+        <div class="feature-icon purple">02</div>
+        <h3>Destination Recommendations</h3>
+        <p>
+            Find suitable destinations based on your budget
+            and travel preferences.
+        </p>
+        <span>Find destinations</span>
+    </a>
+
+    <a class="feature-card" href="{{ url_for('predict_page') }}">
+        <div class="feature-icon mint">03</div>
+        <h3>Travel Cost Estimation</h3>
+        <p>
+            Enter your trip details and get an estimated
+            travel cost.
+        </p>
+        <span>Estimate your cost</span>
+    </a>
+
+    <a class="feature-card" href="{{ url_for('planner') }}">
+        <div class="feature-icon purple">04</div>
+        <h3>Trip Planner</h3>
+        <p>
+            Start organising your journey with destination,
+            duration and budget details.
+        </p>
+        <span>Plan your trip</span>
+    </a>
+
+    <a class="feature-card" href="{{ url_for('itinerary') }}">
+        <div class="feature-icon coral">05</div>
+        <h3>Itinerary Builder</h3>
+        <p>
+            Organise your activities and create a schedule
+            for your journey.
+        </p>
+        <span>Build itinerary</span>
+    </a>
+
+    <a class="feature-card" href="{{ url_for('expenses') }}">
+        <div class="feature-icon mint">06</div>
+        <h3>Expense Tracker</h3>
+        <p>
+            Record your travel expenses and review
+            your spending.
+        </p>
+        <span>Manage expenses</span>
+    </a>
+
+</div>
+
+<section class="lower-grid">
+
+    <div class="panel">
+
+        <div class="panel-title">
+            <div>
+                <span class="eyebrow">RECENT ACTIVITY</span>
+                <h3>Your Recent Trip Estimates</h3>
+            </div>
+
+            <a href="{{ url_for('history') }}">View All</a>
+        </div>
+
+        {% if recent %}
+
+        <div class="recent-list">
+
+            {% for t in recent %}
+
+            <div class="recent-row">
+
+                <div class="destination-dot">
+                    {{ loop.index }}
+                </div>
+
+                <div class="recent-name">
+                    <b>{{ t.origin }} → {{ t.destination }}</b>
+                    <small>
+                        {{ t.days }} Days · {{ t.travellers }} Traveller(s)
+                    </small>
+                </div>
+
+                <strong>
+                    ₹{{ "{:,.0f}".format(t.predicted_cost) }}
+                </strong>
+
+            </div>
+
+            {% endfor %}
+
+        </div>
+
+        {% else %}
+
+        <div class="empty">
+            <h3>No Recent Trips</h3>
+            <p>Your saved travel estimates will appear here.</p>
+
+            <a class="btn btn-primary" href="{{ url_for('predict_page') }}">
+                Estimate Your First Trip
+            </a>
+        </div>
+
+        {% endif %}
+
+    </div>
+
+</section>
+
+{% endblock %}

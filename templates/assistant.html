@@ -1,0 +1,60 @@
+
+{% extends "base.html" %}
+
+{% block title %}Travel Assistant | SmartTrip{% endblock %}
+
+{% block heading %}Travel Assistant{% endblock %}
+
+{% block content %}
+
+<div class="page-intro">
+    <h2>How Can We Help You?</h2>
+    <p>Get guidance on travel planning, budgeting and organising your journey.</p>
+</div>
+
+<div class="panel">
+    <h3>Ask Your Travel Question</h3>
+
+    <form method="POST" action="{{ url_for('assistant') }}">
+
+        <div class="form-group">
+            <label for="question">Your Question</label>
+
+            <textarea
+                name="question"
+                id="question"
+                rows="4"
+                placeholder="Example: How can I reduce my travel expenses?"
+                required>{{ question or '' }}</textarea>
+        </div>
+
+        <button type="submit" class="btn btn-primary">
+            Submit Question
+        </button>
+
+    </form>
+</div>
+
+{% if answer %}
+
+<div class="panel">
+    <h3>Response</h3>
+    <p class="assistant-answer">{{ answer }}</p>
+</div>
+
+{% endif %}
+
+<div class="panel">
+    <h3>Frequently Asked Questions</h3>
+
+    <ul>
+        <li>How can I plan a trip within my budget?</li>
+        <li>How can I reduce accommodation expenses?</li>
+        <li>Which transport option is economical?</li>
+        <li>How should I prepare a travel itinerary?</li>
+        <li>How can I manage my travel expenses?</li>
+        <li>How do I choose a suitable destination?</li>
+    </ul>
+</div>
+
+{% endblock %}

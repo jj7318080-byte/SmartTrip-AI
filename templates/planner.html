@@ -1,0 +1,72 @@
+
+{% extends "base.html" %}
+
+{% block title %}Trip Planner | SmartTrip{% endblock %}
+
+{% block heading %}Trip Planner{% endblock %}
+
+{% block content %}
+
+<div class="page-intro">
+    <h2>Plan Your Journey</h2>
+    <p>Enter your travel preferences to start planning your trip.</p>
+</div>
+
+<div class="panel">
+    <h3>Travel Information</h3>
+
+    <form action="{{ url_for('predict_page') }}" method="GET">
+
+        <div class="form-group">
+            <label for="destination">Destination</label>
+            <select name="destination" id="destination" required>
+                <option value="">Select your destination</option>
+
+                {% for d in destinations %}
+                <option value="{{ d.destination }}">
+                    {{ d.destination }}
+                </option>
+                {% endfor %}
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label for="days">Travel Duration (Days)</label>
+            <input type="number"
+                   id="days"
+                   name="days"
+                   min="1"
+                   max="60"
+                   value="3"
+                   required>
+        </div>
+
+        <div class="form-group">
+            <label for="travellers">Number of Travellers</label>
+            <input type="number"
+                   id="travellers"
+                   name="travellers"
+                   min="1"
+                   max="20"
+                   value="2"
+                   required>
+        </div>
+
+        <div class="form-group">
+            <label for="budget">Total Travel Budget (₹)</label>
+            <input type="number"
+                   id="budget"
+                   name="budget"
+                   min="1"
+                   placeholder="Enter your budget"
+                   required>
+        </div>
+
+        <button type="submit" class="btn btn-primary">
+            Continue Planning
+        </button>
+
+    </form>
+</div>
+
+{% endblock %}

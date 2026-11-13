@@ -1,0 +1,79 @@
+
+{% extends "base.html" %}
+
+{% block title %}Trip History | SmartTrip{% endblock %}
+
+{% block heading %}Trip History{% endblock %}
+
+{% block content %}
+
+<div class="page-intro">
+    <h2>Your Previous Trips</h2>
+    <p>View and manage your saved travel plans and cost estimates.</p>
+</div>
+
+<div class="panel">
+
+    <h3>Saved Trip Records</h3>
+
+    {% if trips %}
+
+    <div class="table-responsive">
+        <table>
+            <thead>
+                <tr>
+                    <th>Destination</th>
+                    <th>Duration</th>
+                    <th>Travellers</th>
+                    <th>Travel Mode</th>
+                    <th>Estimated Cost</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                {% for trip in trips %}
+                <tr>
+                    <td>{{ trip.destination }}</td>
+                    <td>{{ trip.days }} Days</td>
+                    <td>{{ trip.travellers }}</td>
+                    <td>{{ trip.travel_mode }}</td>
+                    <td>₹{{ "{:,.2f}".format(trip.predicted_cost) }}</td>
+                    <td>
+                        <a href="{{ url_for('trip_detail', trip_id=trip.id) }}">
+                            View Details
+                        </a>
+
+                        <form method="POST"
+                              action="{{ url_for('delete_trip', trip_id=trip.id) }}"
+                              style="display:inline;"
+                              onsubmit="return confirm('Are you sure you want to delete this trip?');">
+
+                            <button type="submit" class="text-button">
+                                Delete
+                            </button>
+
+                        </form>
+                    </td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+
+    {% else %}
+
+    <div class="empty-state">
+        <h3>No Trip Records Found</h3>
+        <p>Your saved trips will appear here after you estimate a travel cost.</p>
+
+        <a class="btn btn-primary" href="{{ url_for('predict_page') }}">
+            Plan a Trip
+        </a>
+    </div>
+
+    {% endif %}
+
+</div>
+
+{% endblock %}

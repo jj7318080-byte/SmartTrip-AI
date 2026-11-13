@@ -1,0 +1,117 @@
+
+{% extends "base.html" %}
+
+{% block title %}Trip Details | SmartTrip{% endblock %}
+
+{% block heading %}Trip Details{% endblock %}
+
+{% block content %}
+
+<div class="page-intro">
+    <h2>{{ trip.destination }}</h2>
+    <p>Complete information about your saved journey.</p>
+</div>
+
+<div class="panel">
+    <h3>Journey Information</h3>
+
+    <div class="detail-row">
+        <span>Destination</span>
+        <b>{{ trip.destination }}</b>
+    </div>
+
+    <div class="detail-row">
+        <span>Travel Duration</span>
+        <b>{{ trip.days }} Days</b>
+    </div>
+
+    <div class="detail-row">
+        <span>Number of Travellers</span>
+        <b>{{ trip.travellers }}</b>
+    </div>
+
+    <div class="detail-row">
+        <span>Travel Mode</span>
+        <b>{{ trip.travel_mode }}</b>
+    </div>
+
+    <div class="detail-row">
+        <span>Hotel Category</span>
+        <b>{{ trip.hotel_category }}</b>
+    </div>
+
+    <div class="detail-row">
+        <span>Food Preference</span>
+        <b>{{ trip.food_preference }}</b>
+    </div>
+
+    <div class="detail-row">
+        <span>Travel Season</span>
+        <b>{{ trip.season }}</b>
+    </div>
+</div>
+
+<div class="panel">
+    <h3>Estimated Trip Cost</h3>
+
+    <h2 class="prediction-amount">
+        ₹{{ "{:,.2f}".format(trip.predicted_cost) }}
+    </h2>
+
+    <p>Estimated total cost for this journey.</p>
+</div>
+
+<div class="panel">
+    <h3>Budget Comparison</h3>
+
+    {% if trip.budget %}
+
+    <div class="detail-row">
+        <span>Your Budget</span>
+        <b>₹{{ "{:,.2f}".format(trip.budget) }}</b>
+    </div>
+
+    <div class="detail-row">
+        <span>Estimated Cost</span>
+        <b>₹{{ "{:,.2f}".format(trip.predicted_cost) }}</b>
+    </div>
+
+    {% if trip.predicted_cost <= trip.budget %}
+
+        <p class="success-text">
+            Your estimated trip cost is within your budget.
+        </p>
+
+        <div class="detail-row">
+            <span>Remaining Budget</span>
+            <b>₹{{ "{:,.2f}".format(trip.budget - trip.predicted_cost) }}</b>
+        </div>
+
+    {% else %}
+
+        <p class="warning-text">
+            Your estimated trip cost exceeds your budget.
+        </p>
+
+        <div class="detail-row">
+            <span>Additional Amount Required</span>
+            <b>₹{{ "{:,.2f}".format(trip.predicted_cost - trip.budget) }}</b>
+        </div>
+
+    {% endif %}
+
+    {% else %}
+
+    <p>No budget information was saved for this trip.</p>
+
+    {% endif %}
+</div>
+
+<div class="panel">
+    <a class="btn btn-secondary"
+       href="{{ url_for('history') }}">
+        Back to Trip History
+    </a>
+</div>
+
+{% endblock %}

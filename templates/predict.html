@@ -1,0 +1,118 @@
+
+{% extends "base.html" %}
+
+{% block title %}Travel Cost Estimation | SmartTrip{% endblock %}
+
+{% block heading %}Travel Cost Estimation{% endblock %}
+
+{% block content %}
+
+<div class="page-intro">
+    <h2>Estimate Your Trip Cost</h2>
+    <p>Enter your travel details to calculate the estimated cost of your trip.</p>
+</div>
+
+<div class="panel">
+
+    <h3>Trip Information</h3>
+
+    <form action="{{ url_for('predict') }}" method="POST">
+
+        <div class="form-group">
+            <label for="destination">Destination</label>
+
+            <select name="destination" id="destination" required>
+                <option value="">Select your destination</option>
+
+                {% for d in destinations %}
+                <option value="{{ d.destination }}"
+                    {% if selected_destination == d.destination %}selected{% endif %}>
+                    {{ d.destination }}
+                </option>
+                {% endfor %}
+
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label for="days">Number of Days</label>
+            <input type="number"
+                   name="days"
+                   id="days"
+                   min="1"
+                   max="60"
+                   value="{{ selected_days }}"
+                   required>
+        </div>
+
+        <div class="form-group">
+            <label for="travellers">Number of Travellers</label>
+            <input type="number"
+                   name="travellers"
+                   id="travellers"
+                   min="1"
+                   max="20"
+                   value="{{ selected_travellers }}"
+                   required>
+        </div>
+
+        <div class="form-group">
+            <label for="travel_mode">Mode of Transport</label>
+
+            <select name="travel_mode" id="travel_mode" required>
+                {% for mode in travel_modes %}
+                <option value="{{ mode }}">{{ mode }}</option>
+                {% endfor %}
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label for="hotel_category">Hotel Category</label>
+
+            <select name="hotel_category" id="hotel_category" required>
+                {% for category in hotel_categories %}
+                <option value="{{ category }}">{{ category }}</option>
+                {% endfor %}
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label for="food_preference">Food Preference</label>
+
+            <select name="food_preference" id="food_preference" required>
+                {% for preference in food_preferences %}
+                <option value="{{ preference }}">{{ preference }}</option>
+                {% endfor %}
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label for="season">Travel Season</label>
+
+            <select name="season" id="season" required>
+                {% for season in seasons %}
+                <option value="{{ season }}">{{ season }}</option>
+                {% endfor %}
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label for="budget">Your Total Budget (₹)</label>
+
+            <input type="number"
+                   name="budget"
+                   id="budget"
+                   min="1"
+                   placeholder="Enter your total budget"
+                   value="{{ selected_budget }}">
+        </div>
+
+        <button type="submit" class="btn btn-primary">
+            Estimate Travel Cost
+        </button>
+
+    </form>
+
+</div>
+
+{% endblock %}

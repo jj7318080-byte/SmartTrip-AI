@@ -1,0 +1,60 @@
+
+{% extends "base.html" %}
+
+{% block title %}Settings | SmartTrip{% endblock %}
+
+{% block heading %}Settings{% endblock %}
+
+{% block content %}
+
+<div class="page-intro">
+    <h2>Application Preferences</h2>
+    <p>Manage your website appearance and preferences.</p>
+</div>
+
+<div class="panel">
+    <h3>Appearance</h3>
+
+    <div class="detail-row">
+        <div>
+            <b>Website Theme</b>
+            <p>Switch between light and dark appearance.</p>
+        </div>
+
+        <button type="button" class="btn btn-primary" id="themeToggle">
+            Change Theme
+        </button>
+    </div>
+</div>
+
+<div class="panel">
+    <h3>Data Storage</h3>
+    <p>Your SmartTrip data is stored in the SQLite database.</p>
+
+    <div class="detail-row">
+        <span>Saved Trips</span>
+        <b>{{ total_trips }}</b>
+    </div>
+
+    <div class="detail-row">
+        <span>Favourite Destinations</span>
+        <b>{{ total_favorites }}</b>
+    </div>
+
+    <div class="detail-row">
+        <span>Expense Records</span>
+        <b>{{ total_expenses }}</b>
+    </div>
+
+    <div class="detail-row">
+        <span>Itinerary Activities</span>
+        <b>{{ total_itinerary }}</b>
+    </div>
+
+    <div class="detail-row">
+        <span>Database</span>
+        <b>SQLite - Connected</b>
+    </div>
+</div>
+
+{% endblock %}

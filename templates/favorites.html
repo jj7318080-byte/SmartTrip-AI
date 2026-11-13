@@ -1,0 +1,63 @@
+
+{% extends "base.html" %}
+
+{% block title %}Saved Destinations | SmartTrip{% endblock %}
+
+{% block heading %}Saved Destinations{% endblock %}
+
+{% block content %}
+
+<div class="page-intro">
+    <h2>Your Travel Wishlist</h2>
+    <p>View and manage the destinations you have saved for future trips.</p>
+</div>
+
+<div class="destination-grid">
+
+    {% for favorite in favorites %}
+
+    <div class="destination-card">
+
+        <h3>{{ favorite.destination }}</h3>
+
+        <p>This destination is saved in your wishlist.</p>
+
+        <div style="margin-top: 20px;">
+
+            <a class="btn btn-secondary"
+               href="{{ url_for('destination_detail', destination_name=favorite.destination) }}">
+                View Destination
+            </a>
+
+            <form method="POST"
+                  action="{{ url_for('toggle_favorite', destination_name=favorite.destination) }}"
+                  onsubmit="return confirm('Remove this destination from your saved list?');">
+
+                <button type="submit" class="text-button">
+                    Remove from Saved Destinations
+                </button>
+
+            </form>
+
+        </div>
+
+    </div>
+
+    {% else %}
+
+    <div class="panel">
+        <h3>No Saved Destinations</h3>
+
+        <p>Your saved destinations will appear here.</p>
+
+        <a class="btn btn-primary"
+           href="{{ url_for('destinations') }}">
+            Explore Destinations
+        </a>
+    </div>
+
+    {% endfor %}
+
+</div>
+
+{% endblock %}

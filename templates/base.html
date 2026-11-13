@@ -1,0 +1,160 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>{% block title %}SmartTrip{% endblock %}</title>
+
+    <link rel="stylesheet"
+          href="{{ url_for('static', filename='css/style.css') }}">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&family=Manrope:wght@600;700;800&display=swap"
+          rel="stylesheet">
+</head>
+
+<body>
+
+<div class="layout">
+
+    <aside class="sidebar">
+
+        <a class="brand" href="{{ url_for('index') }}">
+            <span>
+                <b>SmartTrip</b>
+                <small>TRAVEL PLANNING SYSTEM</small>
+            </span>
+        </a>
+
+        <div class="nav-label">MAIN MENU</div>
+
+        <nav>
+            <a href="{{ url_for('index') }}"
+               class="{% if request.endpoint == 'index' %}active{% endif %}">
+                Overview
+            </a>
+
+            <a href="{{ url_for('destinations') }}"
+               class="{% if request.endpoint in ['destinations', 'destination_detail'] %}active{% endif %}">
+                Explore Destinations
+            </a>
+
+            <a href="{{ url_for('recommend') }}"
+               class="{% if request.endpoint == 'recommend' %}active{% endif %}">
+                Destination Recommendations
+            </a>
+        </nav>
+
+        <div class="nav-label">TRIP PLANNING</div>
+
+        <nav>
+            <a href="{{ url_for('planner') }}"
+               class="{% if request.endpoint == 'planner' %}active{% endif %}">
+                Trip Planner
+            </a>
+
+            <a href="{{ url_for('predict_page') }}"
+               class="{% if request.endpoint == 'predict_page' %}active{% endif %}">
+                Travel Cost Estimate
+            </a>
+
+            <a href="{{ url_for('itinerary') }}"
+               class="{% if request.endpoint in ['itinerary', 'delete_itinerary_item'] %}active{% endif %}">
+                Itinerary Builder
+            </a>
+        </nav>
+
+        <div class="nav-label">MY TRIPS</div>
+
+        <nav>
+            <a href="{{ url_for('history') }}"
+               class="{% if request.endpoint in ['history', 'trip_detail', 'delete_trip'] %}active{% endif %}">
+                Trip History
+            </a>
+
+            <a href="{{ url_for('favorites') }}"
+               class="{% if request.endpoint in ['favorites', 'toggle_favorite'] %}active{% endif %}">
+                Saved Destinations
+            </a>
+
+            <a href="{{ url_for('expenses') }}"
+               class="{% if request.endpoint in ['expenses', 'delete_expense'] %}active{% endif %}">
+                Expenses
+            </a>
+        </nav>
+
+        <div class="nav-label">MANAGEMENT</div>
+
+        <nav>
+            <a href="{{ url_for('reports') }}"
+               class="{% if request.endpoint == 'reports' %}active{% endif %}">
+                Reports & Analytics
+            </a>
+
+            <a href="{{ url_for('assistant') }}"
+               class="{% if request.endpoint == 'assistant' %}active{% endif %}">
+                Travel Assistant
+            </a>
+
+            <a href="{{ url_for('settings') }}"
+               class="{% if request.endpoint == 'settings' %}active{% endif %}">
+                Settings
+            </a>
+
+            
+            <!-- LOGOUT -->
+            <a href="{{ url_for('logout') }}">
+                ↪ Logout
+            </a>
+        </nav>
+
+        <div class="sidebar-footer">
+    <small>SmartTrip AI</small>
+    <small>Plan smarter. Travel better.</small>
+</div>
+
+    </aside>
+
+    <main class="main">
+
+        <header class="topbar">
+            <div>
+                <h1>
+                    {% block heading %}
+                    Plan Your Journey
+                    {% endblock %}
+                </h1>
+            </div>
+        </header>
+
+        {% with messages = get_flashed_messages(with_categories=true) %}
+            {% if messages %}
+                {% for category, message in messages %}
+                    <div class="alert {{ category }}">
+                        {{ message }}
+                    </div>
+                {% endfor %}
+            {% endif %}
+        {% endwith %}
+
+        {% block content %}
+        {% endblock %}
+
+        <footer>
+            SmartTrip Travel Planning System
+            <span>·</span>
+            Academic Machine Learning Project
+            <span>·</span>
+            Estimated costs may differ from actual travel prices.
+        </footer>
+
+    </main>
+
+</div>
+
+<script src="{{ url_for('static', filename='js/app.js') }}"></script>
+
+</body>
+</html>
